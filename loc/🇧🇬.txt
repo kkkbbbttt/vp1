@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.130.132.180:8443?path=/?ed=2560&telegram🇨🇳 @wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AC
+vless://b469974b-4319-452a-94de-46b314ac1a8e@2.59.218.62:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=bg.strelkavpn.com&fp=chrome&pbk=tF_qba3yih0v2pPCFcwjQXi0HsEevZOGG8hozoS0IEs&sid=fcd2ba5b8fc1&spx=%2f&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AC
