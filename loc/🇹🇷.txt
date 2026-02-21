@@ -2,8 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeGZYQnE2ZGZNUVFGaUV6NlBCY1R5@62.60.233.220:18685#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFMTJ5WkJQQzd5OFNubWtTWWpmMFds@62.133.63.167:61377#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://42b91501-ae08-48f0-a844-bed98c30caf9@77.83.245.174:21477?encryption=none&security=reality&sni=yandex.ru&fp=chrome&pbk=SvZ_Qmi5HKfij9joapShBXSZf_EruR5eZSCTWZw4AQI&sid=80384ca8d6353a77&spx=/&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://010c8bf7-0a43-404f-a6c5-2427acb4d476@38.180.112.88:8443/?type=tcp&encryption=none&flow=&sni=sun6-21.userapi.com&fp=chrome&security=reality&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://010c8bf7-0a43-404f-a6c5-2427acb4d476@tr.prod.n7.homes:8443/?type=tcp&encryption=none&flow=&sni=sun6-21.userapi.com&fp=chrome&security=reality&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
