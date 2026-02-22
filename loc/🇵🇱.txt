@@ -3,7 +3,5 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
 vless://da11d62c-1996-4d2c-b2e6-e89c7a1265e9@plcdn19.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn19.suio.me&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://humanity@172.64.152.23:443/?security=tls&sni=www.creationlong.org&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=/assignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://c40601cb-64e9-4f16-91c6-e8cdbaf100af@193.57.137.228:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=wikimedia.org&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://b5088c0b-b717-4c7b-aed6-0d08a427b9e8@94.131.113.228:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fast.strelkavpn.ru&fp=chrome&security=reality&pbk=gUDEXo3UPF5WlJdIvpKMZbcLfKxMkiDyWgXjleD0aA4&sid=aa5d376d9d56#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&alpn=h2%2chttp%2f1.1&fp=chrome&type=ws&path=%2fassignment&allow_insecure=0#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
