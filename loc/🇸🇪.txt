@@ -6,6 +6,5 @@ vless://9a63b59c-5e54-437a-b7a1-2788780a7c13@62.182.195.78:8443/?type=tcp&encryp
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43233?type=ws&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.82.126.185:2053?type=ws&security=tls&encryption=none&sni=sni.111000.v6.navy&host=sni.111000.v6.navy#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://324e174b-fe3d-41fc-97c0-6fb7492cb015@45.248.37.51:443?security=reality&encryption=none&pbk=a3wxOmmJ95RHcuVYvxGusowLy8c6a4amlbS2OxMNTHc&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=52ad#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.188.181.187:443?path=/&security=tls&encryption=none&host=sni.111000.v6.navy&type=ws&sni=sni.111000.v6.navy#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.228.233.22:443?type=ws&security=tls&encryption=none&sni=sni.111000.v6.navy&host=sni.111000.v6.navy#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 hysteria2://75193bef8d8fe82341e02dd083dc1399@dd.openaccessnode.com:989?sni=dd.ircybersec.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
