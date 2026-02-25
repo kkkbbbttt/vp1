@@ -4,4 +4,3 @@
 
 vless://dd4b5754-dd1b-4b13-8b7a-ff6dd2cdc545@luckincoffee-tw-01.monet.mom:35999?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=LTIGmz9rdP7flQ4Me-GmHkXK1P0KHo-OTZ5HzrTJ9x0&sid=c5b93b53975c9297&sni=swdist.apple.com&servername=swdist.apple.com&spx=/&fp=chrome#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.54.107.101:990#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
-trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@59.125.131.164:3462?security=tls&sni=45.32.28.232#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC

@@ -5,6 +5,4 @@
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42944?path=/&security=tls&encryption=none&host=sub.mot.ip-ddns.com&type=ws&sni=sub.mot.ip-ddns.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://94bc0da0-ef85-475a-95bc-d9b5eca5176c@sweden.urban-network.space:443?security=reality&encryption=none&pbk=B0rJltudbQm19lh5nF6jJIOOjatwGWaLIgweFzHGOUo&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=sweden2.urban-network.space&sid=aaf38387ef412991#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43233/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpad2V1WGF2am92dWh6dDFBRjBkNnF4@46.246.97.140:53908#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:5228/?type=tcp&encryption=none&flow=&sni=mtalk.google.com&fp=chrome&security=reality&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43393/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
