@@ -4,7 +4,6 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MmQyYjQ3MTgxYTMyZGU3@154.26.132.38:16922#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48801#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://613b8baf-f848-43b6-9055-63a37160f203@zf.sg1000.eu.cc:50000/?mode=multi&security=reality&encryption=none&type=tcp&pbk=XcaJjk49Yof0-ZTuwFlFvBqd_QJC_uabiIWC1g6rvAk&sid=1f7bfe&sni=yahoo.com&servername=yahoo.com&spx=/&fp=chrome#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWQ3MThmY2IyYmIxN2I3@154.26.132.38:27885#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://0f021ee3-772e-4e24-e0d1-415a2e4a61e1@165.22.49.27:2567?encryption=none&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://262f1d150049457ac1d6e66b020fa980@160.16.85.33:3419?allowInsecure=1&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
@@ -20,4 +19,3 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.36.178.36:8443?encryption=none&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWQ3MThmY2IyYmIxN2I3@154.26.132.38:27883#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48803#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NjRhNGQ4YzFjNzZlYjUw@194.233.73.51:14453#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.79.158.58:2053?path=/?ed=2560&telegram🇨🇳+@wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
