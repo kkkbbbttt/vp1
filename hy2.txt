@@ -4,8 +4,9 @@
 
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-hysteria2://c7730b65-c3c7-44a6-b1be-9d72d36679d1@fr.pddwdf.store:26399?insecure=1&obfs=salamander&obfs-password=ZjlmNDQ0MzAwNDgwMTUxMQ%3D%3D&sni=fr.pddwdf.store#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&type=hysteria&mport&security=tls&sni=api.kermanshahi.org&alpn=h3&allowInsecure=0#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 hy2://zhangyang@130.61.50.75:6443/#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://b5f85b3e-9211-4989-ae50-5a3fd510f9ba@elsxxx.892622.xyz:8080?sni=elsxxx.892622.xyz#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1

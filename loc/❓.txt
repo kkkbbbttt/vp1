@@ -2,104 +2,100 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=%2F&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=ProxyVPN11.afrcloud22.mmv.kr#hamedp71%3A%3A%E2%9D%93
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=%2F43.218.77.16%3D1443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=Pulavpn11.afrcloud22.mmv.kr#hamedp71%3A%3A%E2%9D%93
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=%2F43.218.77.16%3D1443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=ProxyVPN11.afrcloud22.mmv.kr#hamedp71%3A%3A%E2%9D%93
-vless://16068e83-af4c-49ba-8048-98fcff3e5e7b@104.26.14.21:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/131.186.26.129#hamedp71%3A%3A%E2%9D%93
-vless://e308d602-67eb-4ba5-baa5-f53be1fcee6f@afrcloud22.mmv.kr:443?security=tls&encryption=none&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=%2f154.19.242.205%3d443#hamedp71%3A%3A%E2%9D%93
-vless://Telegram🇨🇳 @WangCai2@203.18.98.197:2053/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%E2%9D%93
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@fairyloot.com:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY#hamedp71%3A%3A%E2%9D%93
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.124.178.227:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#hamedp71%3A%3A%E2%9D%93
+vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.202:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.fh-aachen.de&fp=chrome&security=reality&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&sid=#hamedp71%3A%3A%E2%9D%93
 vless://Telegram:@Free_VPN_CH@195.200.16.70:2053?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#hamedp71%3A%3A%E2%9D%93
-vless://6fab6cc6-e340-4073-93e1-c6c6802002c7@172.67.73.14:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=/#hamedp71%3A%3A%E2%9D%93
-vless://98b419ef-83a2-4d1b-a23d-566b7f24477b@ggghju.131.pp.ua:443?security=tls&encryption=none&sni=ggGHJu.131.PP.ua&type=ws&host=gGGHJu.131.PP.UA&path=%2fFHqOdFbetLpTGA5AqzZ2Mj&allow_insecure=0#hamedp71%3A%3A%E2%9D%93
-vless://d3e15a11-ebd9-4315-b110-f9fb1c52f153@afrcloud22.mmv.kr:443?type=ws&security=tls&sni=afrcloud22.mmv.kr&host=afrcloud22.mmv.kr&path=/144.202.126.54=443&fp=chrome#hamedp71%3A%3A%E2%9D%93
-vless://60425266-94e9-485f-9339-aa2661db8aab@afrcloud22.mmv.kr:443?security=tls&encryption=none&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=%2f158.51.125.177%3d8443#hamedp71%3A%3A%E2%9D%93
-vless://Telegram🇨🇳 @WangCai2@172.232.157.252:2053?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#hamedp71%3A%3A%E2%9D%93
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.238.232.228:443?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#hamedp71%3A%3A%E2%9D%93
-vless://6b819fb2-6254-449d-8d63-ceecd611749e@afrcloud22.mmv.kr:443?security=tls&encryption=none&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=%2f45.62.104.107%3d443#hamedp71%3A%3A%E2%9D%93
-vless://Telegram🇨🇳 @WangCai2@31.56.197.209:2053/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%E2%9D%93
-vless://682373b3-7927-4cbf-9a6e-f53877458555@afrcloud22.mmv.kr:443?security=tls&encryption=none&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=%2f88.210.37.244%3d2053#hamedp71%3A%3A%E2%9D%93
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWQ0ZBazdIYzhGSTI3a0hhdktBZkpwYW15@176.123.168.79:42095#hamedp71%3A%3A%E2%9D%93
-vless://Telegram:@Free_VPN_CH@195.206.242.122:2053?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#hamedp71%3A%3A%E2%9D%93
+vless://9042affd-0ad3-4014-adbc-e52f00891ea2@199.241.32.132:26978?security=reality&type=tcp&sni=tesla.com&fp=chrome&flow=xtls-rprx-vision&sid=28bf&pbk=n2w4hj7Q7wN6P21LSJJwIPitfYZbwWh5a2seJHH58SE&encryption=none#hamedp71%3A%3A%E2%9D%93
+vless://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@ggnju.iran2027.indevs.in:443?fp=chrome&host=ggnju.iran2027.indevs.in&path=/9NojP751adPiN9LMya&security=tls&sni=ggnju.iran2027.indevs.in&type=ws#hamedp71%3A%3A%E2%9D%93
+vless://Telegram🇨🇳 @WangCai2@31.56.227.30:8443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%E2%9D%93
+vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrinZMiLCJhZGQiOiJ6eGNyLm9vMS5jY3d1LmNjIiwicG9ydCI6NDQzLCJpZCI6IjA3N2E0MzMwLTdjYjAtNGQ0Yi04ZmViLTdjZWIzY2Q0M2Y2OSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0Ijoienhjci5vbzEuY2N3dS5jYyIsImFscG4iOm51bGwsInBhdGgiOiIvRGF0SDhid283WUthQUh4OGMiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ6eGNyLm9vMS5jY3d1LmNjIiwiZnAiOm51bGx9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1a1dlc29sUTB5MFBWZElyYjY1TGJIVDJ1@basic-ru-0.undef.network:43902#hamedp71%3A%3A%E2%9D%93
 vless://4658bc5b-f644-466d-8a90-b8a3fa0faa78@162.159.134.61:80?encryption=none&security=none&type=ws&host=vpnazadie.store&path=/vless-ntls#hamedp71%3A%3A%E2%9D%93
 vless://Telegram🇨🇳 @WangCai2@31.57.107.41:2053/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%E2%9D%93
-vless://Telegram🇨🇳 @WangCai2@31.56.197.90:8443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%E2%9D%93
-vless://6fab6cc6-e340-4073-93e1-c6c6802002c7@afrcloud22.mmv.kr:443?security=tls&encryption=none&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=%2f167.179.110.68%3d8443#hamedp71%3A%3A%E2%9D%93
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#hamedp71%3A%3A%E2%9D%93
-vless://6fab6cc6-e340-4073-93e1-c6c6802002c7@104.26.14.21:443?path=/167.179.110.68&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=afrcloud22.mmv.kr#hamedp71%3A%3A%E2%9D%93
-vless://Telegram🇨🇳 @WangCai2@172.234.96.64:8443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%E2%9D%93
-vless://9202d12b-42a9-42cd-b7c9-4ba844da635c@afrcloud22.mmv.kr:443?security=tls&encryption=none&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=%2f44.208.64.96%3d443#hamedp71%3A%3A%E2%9D%93
-vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrinZMiLCJhZGQiOiJEQ1ZGLjc3NzcxOTguWHl6IiwicG9ydCI6NDQzLCJpZCI6IjQxMTVmODRkLTNiMDMtNGIwMy1iYWJmLTIxYjM2YjJmOWMwMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiREN2Zi43Nzc3MTk4Lnh5WiIsImFscG4iOiJodHRwLzEuMSIsInBhdGgiOiIvR2dpZ2F6RkdETGdGV0RJdGtENVhnWEFMIiwidGxzIjoidGxzIiwic25pIjoiZEN2Zi43Nzc3MTk4LlhZWiIsImZwIjoiY2hyb21lIn0
-vless://a0d17bf0-e548-4154-b200-3ea825a46740@afrcloud22.mmv.kr:443?security=tls&encryption=none&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=%2f144.24.90.107%3d443#hamedp71%3A%3A%E2%9D%93
-vless://5da8ada9-26d0-4711-b67e-db5537fa9814@afrcloud22.mmv.kr:443?security=tls&encryption=none&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=%2f118.34.249.127%3d50001#hamedp71%3A%3A%E2%9D%93
-vless://Telegram🇨🇳 @WangCai2@93.152.207.163:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%E2%9D%93
-vless://Telegram:@Free_VPN_CH@94.125.101.247:443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#hamedp71%3A%3A%E2%9D%93
-vless://dfb16e58-dc01-4a0b-8575-0c99d8e25735@afrcloud22.mmv.kr:443?security=tls&encryption=none&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=%2f140.83.83.65%3d9872#hamedp71%3A%3A%E2%9D%93
-vless://14818654-7689-453a-9a1f-4c72f89782d5@germ-node.genadata.online:2040?security=reality&encryption=none&sni=tradingview.com&fp=chrome&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&sid=50ed6f6007515d63&spx=%2f&type=tcp&headerType=none&path=%2f#hamedp71%3A%3A%E2%9D%93
+vless://Telegram🇨🇳 @WangCai2@185.230.190.29:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%E2%9D%93
+vless://Telegram🇨🇳 @WangCai2@194.116.172.220:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%E2%9D%93
+vless://Telegram🇨🇳 @WangCai2@185.254.158.87:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%E2%9D%93
 vless://Telegram:@Free_VPN_CH@195.245.239.197:443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#hamedp71%3A%3A%E2%9D%93
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#hamedp71%3A%3A%E2%9D%93
-vless://Telegram:@Free_VPN_CH@185.94.164.222:443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#hamedp71%3A%3A%E2%9D%93
-vless://16068e83-af4c-49ba-8048-98fcff3e5e7b@104.26.15.21:443?path=/&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#hamedp71%3A%3A%E2%9D%93
+vless://Telegram🇨🇳 @WangCai2@31.57.107.172:2053/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%E2%9D%93
 vless://Telegram:@Free_VPN_CH@212.34.152.212:8443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#hamedp71%3A%3A%E2%9D%93
-vless://4658bc5b-f644-466d-8a90-b8a3fa0faa78@telegram.vpnazadie.store:443?encryption=none&security=tls&sni=telegram.vpnazadie.store&insecure=1&allowInsecure=1&type=ws&host=vpnazadie.store&path=/vless-tls#hamedp71%3A%3A%E2%9D%93
-vless://61113265-3e78-4012-8f42-692b5069ddac@afrcloud22.mmv.kr:443?security=tls&encryption=none&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=%2f140.245.53.45%3d443#hamedp71%3A%3A%E2%9D%93
-vless://61066a16-78fc-4446-8013-6646bc3f27ba@104.26.14.21:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=/#hamedp71%3A%3A%E2%9D%93
-vless://Telegram🇨🇳 @WangCai2@203.18.98.246:2053/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%E2%9D%93
-vless://6573a2b1-fd7a-4916-9688-b88260547c24@afrcloud22.mmv.kr:443?security=tls&encryption=none&type=ws&host=afrcloud22.mmv.kr&path=%f0%9f%94%92#hamedp71%3A%3A%E2%9D%93
-vless://00640161-0300-45ae-a08c-6b08476bbe7d@afrcloud22.mmv.kr:443?security=tls&encryption=none&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=%2f154.19.242.205%3d443#hamedp71%3A%3A%E2%9D%93
-vless://Telegram:@Free_VPN_CH@45.145.42.211:2016?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#hamedp71%3A%3A%E2%9D%93
-vless://e3f3c7dd-4707-4d70-a0f5-5e368010fd8a@afrcloud22.mmv.kr:443?security=tls&encryption=none&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=%2f59.22.45.226%3d50001#hamedp71%3A%3A%E2%9D%93
-vless://643a3034-d3f9-4e03-acde-0e6ab3a238fb@chatgpt.com:443?path=/54.203.85.46&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#hamedp71%3A%3A%E2%9D%93
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OuKdkyIsImFkZCI6IjU3LjEyOS4xMzIuMjIzIiwicG9ydCI6IjgwIiwiaWQiOiJhMjVjYmYxMS0yOTA4LTRhMWItYTNhOC05YTU3MTc3N2RjYTMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiZ29vZ2xlLmNvbSIsInBhdGgiOiIvdm1lc3MvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIn0
+ss://YWVzLTI1Ni1nY206YzY5Mzc0ZGEtMjIwOC00Y2JkLWI4MWUtY2RmODhiNWU3ZjUz@ss.036.node-for-bigairport.win:16688#hamedp71%3A%3A%E2%9D%93
+vless://Telegram:@Free_VPN_CH@176.125.240.147:2053?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#hamedp71%3A%3A%E2%9D%93
 vless://Telegram🇨🇳 @WangCai2@192.145.29.62:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%E2%9D%93
-ss://YWVzLTI1Ni1nY206azZydUp1d2dBVXhJcmtIYkAxNTQuNTMuNjMuMzI6ODA=#hamedp71%3A%3A%E2%9D%93
 vless://Telegram🇨🇳 @WangCai2@203.18.98.246:8443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%E2%9D%93
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@cdnjs.com:443/?path=/5.78.77.41=2053&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#hamedp71%3A%3A%E2%9D%93
-vless://Telegram:@Free_VPN_CH@212.34.140.205:443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#hamedp71%3A%3A%E2%9D%93
-vless://Telegram🇨🇳 @WangCai2@172.232.129.211:443?path=/sg-lnd&security=tls&encryption=none&insecure=1&host=tn1rr.qzz.io&type=ws&allowInsecure=1&sni=tn1rr.qzz.io#hamedp71%3A%3A%E2%9D%93
-vless://643a3034-d3f9-4e03-acde-0e6ab3a238fb@104.18.32.47:443?path=/54.203.85.46&security=tls&encryption=none&host=afrcloud22.mmv.kr&fp=chrome&type=ws&sni=afrcloud22.mmv.kr#hamedp71%3A%3A%E2%9D%93
-vless://682373b3-7927-4cbf-9a6e-f53877458555@104.26.14.21:443?type=ws&security=tls&sni=afrcloud22.mmv.kr&host=afrcloud22.mmv.kr&path=/#hamedp71%3A%3A%E2%9D%93
+vless://Telegram:@Free_VPN_CH@62.182.192.49:443?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#hamedp71%3A%3A%E2%9D%93
+vless://Telegram:@Free_VPN_CH@176.125.240.51:2053?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#hamedp71%3A%3A%E2%9D%93
 vless://fc625795-792d-4d9d-9d38-bffe59467d2d@myanmar.visa.com:8443?type=ws&security=tls&sni=daluan.eu.org&host=daluan.eu.org&path=/?ed=2560&fp=chrome#hamedp71%3A%3A%E2%9D%93
 trojan://26635779-8ce6-4c07-ae5d-f3769ec95ddd@green2.cdntencentmusic.com:35502?security=tls&sni=green2.cdntencentmusic.com#hamedp71%3A%3A%E2%9D%93
-vless://0910a0ab-bbf3-450e-a91a-a3dfb85ee33a@afrcloud22.mmv.kr:443?type=ws&security=tls&sni=afrcloud22.mmv.kr&host=afrcloud22.mmv.kr&path=/#hamedp71%3A%3A%E2%9D%93
-vless://Telegram🇨🇳 @WangCai2@85.192.48.76:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%E2%9D%93
-vless://144dc62b-21d6-4991-a3f5-8cf5a1792cb3@Qauuf3.legendperm.ir:8443?security=reality&type=tcp&headerType=&path=&host=&sni=www.stackoverflow.com&fp=chrome&pbk=28waJp0Tu79rpAeyEkJXiNyQ805qUChpNczSKxK1oG4&sid=71c86bb4279bdec6#hamedp71%3A%3A%E2%9D%93
-vless://Telegram🇨🇳 @WangCai2@31.57.107.172:8443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%E2%9D%93
-vless://6573a2b1-fd7a-4916-9688-b88260547c24@104.26.15.21:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&fp=chrome&type=ws&host=afrcloud22.mmv.kr&path=/#hamedp71%3A%3A%E2%9D%93
-vless://Telegram:@Free_VPN_CH@185.139.228.126:443?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#hamedp71%3A%3A%E2%9D%93
-vless://Telegram:@Free_VPN_CH@88.198.152.85:443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#hamedp71%3A%3A%E2%9D%93
-vless://Telegram:@Free_VPN_CH@91.84.100.39:8443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#hamedp71%3A%3A%E2%9D%93
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.194.176:2096/?type=ws&encryption=none&flow=&host=hetz.x-smm.com&path=/45.76.183.217=49292&security=tls&sni=hetz.x-smm.com&allowInsecure=1#hamedp71%3A%3A%E2%9D%93
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.147.22:2096/?type=ws&encryption=none&flow=&host=hetz.x-smm.com&path=/45.76.183.217=49292&security=tls&sni=hetz.x-smm.com&allowInsecure=1#hamedp71%3A%3A%E2%9D%93
 vless://Telegram🇨🇳 @WangCai2@188.215.31.56:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%E2%9D%93
-vless://fc487688-af40-4393-ae6c-6b80188a65b4@afrcloud22.mmv.kr:443?security=tls&encryption=none&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=%2f216.128.140.218%3d443#hamedp71%3A%3A%E2%9D%93
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@alalucarne.com:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/#hamedp71%3A%3A%E2%9D%93
-vless://1dbebdd3-3922-40c0-9b0e-ace270adb479@104.26.15.21:443?path=/175.202.135.114&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#hamedp71%3A%3A%E2%9D%93
-vless://Telegram:@Free_VPN_CH@193.53.40.219:8443?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#hamedp71%3A%3A%E2%9D%93
-vless://a8da758c-510d-4827-83cf-2f2b51c49c5b@download.lastilhame.monster:443?security=reality&encryption=none&pbk=WOPZy8oOnvHN21pLYobZAGa7sVp7op3q575B5BaFxkU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.techradar.com&sid=faa900664bad#hamedp71%3A%3A%E2%9D%93
-vless://Telegram:@Free_VPN_CH@143.20.236.93:8443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#hamedp71%3A%3A%E2%9D%93
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1a1dlc29sUTB5MFBWZElyYjY1TGJIVDJ1QGJhc2ljLXJ1LTAudW5kZWYubmV0d29yazo0MzkwMg==#hamedp71%3A%3A%E2%9D%93
 vless://Telegram:@Free_VPN_CH@194.135.46.37:443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#hamedp71%3A%3A%E2%9D%93
-vless://Telegram🇨🇳 @WangCai2@135.181.151.136:9443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%E2%9D%93
-vless://16068e83-af4c-49ba-8048-98fcff3e5e7b@172.67.73.14:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=/131.186.26.129#hamedp71%3A%3A%E2%9D%93
-trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?sni=celestialcorset.crystalhamster.click#hamedp71%3A%3A%E2%9D%93
-vless://98b419ef-83a2-4d1b-a23d-566b7f24477b@bbbnhj.131.pp.ua:443?security=tls&encryption=none&sni=BBBNHj.131.Pp.uA&type=ws&host=bbbNhj.131.PP.Ua&path=%2fFHqOdFbetLpTGA5AqzZ2Mj&allow_insecure=0#hamedp71%3A%3A%E2%9D%93
-vless://Telegram🇨🇳 @WangCai2@31.56.227.82:8443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%E2%9D%93
-vless://Telegram🇨🇳 @WangCai2@185.229.221.92:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%E2%9D%93
-vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrinZMiLCJhZGQiOiJraTgubzFvLmluZGV2cy5pbiIsInBvcnQiOjgwLCJpZCI6IjQxMTVmODRkLTNiMDMtNGIwMy1iYWJmLTIxYjM2YjJmOWMwMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiL0dnaWdhekZHRExnRldESXRrRDVYZ1hBTCIsInRscyI6bnVsbCwic25pIjpudWxsLCJmcCI6bnVsbH0
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@www.speedtest.net:443?path=%2F209.97.173.243%3D443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#hamedp71%3A%3A%E2%9D%93
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@45.145.40.26:443?security=reality&encryption=none&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.cdn.stun.su&sid=4daa022e84f8edf2#hamedp71%3A%3A%E2%9D%93
+vless://Telegram🇨🇳 @WangCai2@217.60.62.59:2053/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%E2%9D%93
+vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrinZMiLCJhZGQiOiJHZ0JuaFkuMTkxMjYyLnh5eiIsInBvcnQiOjQ0MywiaWQiOiI0MTE1Zjg0ZC0zYjAzLTRiMDMtYmFiZi0yMWIzNmIyZjljMDMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6ImdHQk5oWS4xOTEyNjIueHl6IiwiYWxwbiI6bnVsbCwicGF0aCI6Ii9HZ2lnYXpGR0RMZ0ZXREl0a0Q1WGdYQUwiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJHZ2JOaHkuMTkxMjYyLlhZeiIsImZwIjpudWxsfQ
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=pqh36v3.carwashipdir.shop#hamedp71%3A%3A%E2%9D%93
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5N2ZlNmIwN2NiZmFmN2U3@157.185.173.60:18426#hamedp71%3A%3A%E2%9D%93
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#hamedp71%3A%3A%E2%9D%93
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11201#hamedp71%3A%3A%E2%9D%93
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#hamedp71%3A%3A%E2%9D%93
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@betty.ns.cloudflare.com:2096/?path=/45.76.183.217=49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#hamedp71%3A%3A%E2%9D%93
+ss://YWVzLTI1Ni1nY206dW1Xd29RSkVKR2Y3NFNMZQ==@149.102.149.207:443#hamedp71%3A%3A%E2%9D%93
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5N2ZlNmIwN2NiZmFmN2U3@157.185.173.60:18427#hamedp71%3A%3A%E2%9D%93
+vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@104.18.32.47:2052?path=/&security=none&encryption=none&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK.&type=ws#hamedp71%3A%3A%E2%9D%93
+vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@172.64.155.209:2052/?type=ws&encryption=none&flow=&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK.&path=%2F#hamedp71%3A%3A%E2%9D%93
+vless://11beaf11-726d-4c11-8ce9-27308c1c608c@157.173.127.225:443/?type=tcp&encryption=none&flow=&sni=analytics.google.com&fp=chrome&security=reality&pbk=v3EwzA9RIIh5Ndxm-gypRY6RCJhOpQ-2WO7KaH8nsC8&sid=eab26c4a32#hamedp71%3A%3A%E2%9D%93
+vless://Telegram🇨🇳 @WangCai2@31.57.107.41:8443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%E2%9D%93
+vless://nasnet@nodejs.org:2053?path=/NASNET/cdn?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=nasnet-571299667.rahavard365.co&fp=chrome&type=httpupgrade&sni=nasnet-571299667.rahavard365.co#hamedp71%3A%3A%E2%9D%93
+vmess://eyJhZGQiOiI1Ny4xMjkuMjguNjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZhcGVuZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImluc2VjdXJlIjoiMSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJoYW1lZHA3MTo64p2TIiwic2N5IjoiYXV0byIsInNuaSI6ImZhcGVuZy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@delilah.ns.cloudflare.com:2096/?type=ws&encryption=none&host=hetz.x-smm.com&path=/45.76.183.217=49292&security=tls&sni=hetz.x-smm.com#hamedp71%3A%3A%E2%9D%93
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@188.214.157.58:990#hamedp71%3A%3A%E2%9D%93
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.192.75:2096/?type=ws&encryption=none&flow=&host=hetz.x-smm.com&path=%2F45.76.183.217%3D49292&security=tls&sni=hetz.x-smm.com&allowInsecure=1#hamedp71%3A%3A%E2%9D%93
+vless://8b648e4c-ac38-4809-951b-e1c8862b13d1@45.149.115.148:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=0pX0dvxDHHJS2uK0t_SHauP1LB65JsRD1kQp9MK9vjI&sid=96#hamedp71%3A%3A%E2%9D%93
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MzU1ODJlNTEzMjhhZjk5@163.171.206.24:28028#hamedp71%3A%3A%E2%9D%93
+vmess://eyJhZGQiOiI1Ny4xMjkuMjUuMjAiLCJ2IjoiMiIsInBvcnQiOjQ0MywiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIxIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6IjU3LjEyOS4yNS4yMCIsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIiwicHMiOiJoYW1lZHA3MTo64p2TIn0
+vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrinZMiLCJhZGQiOiJ4M2UubzA5LmluZGV2cy5pbiIsInBvcnQiOjgwLCJpZCI6IjQxMTVmODRkLTNiMDMtNGIwMy1iYWJmLTIxYjM2YjJmOWMwMyIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IlgzZS5PMDkuaW5ERVZTLkluIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii9HZ2lnYXpGR0RMZ0ZXREl0a0Q1WGdYQUwiLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOTRmMGI2OTE2ZjY3YmRj@38.54.14.156:11201#hamedp71%3A%3A%E2%9D%93
+vmess://eyJhZGQiOiI1Ny4xMjkuMjguMjEzIiwidiI6IjIiLCJwb3J0Ijo0NDMsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJmYXBlbmcub3JnIiwicGF0aCI6Ii9saW5rdndzIiwidGxzIjoidGxzIiwicHMiOiJoYW1lZHA3MTo64p2TIn0
+vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&sid=#hamedp71%3A%3A%E2%9D%93
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11204#hamedp71%3A%3A%E2%9D%93
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.101:8080#hamedp71%3A%3A%E2%9D%93
+vless://309fa273-6579-4cb2-9143-7cad50401eba@188.34.193.153:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#hamedp71%3A%3A%E2%9D%93
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.121.120:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=/&security=tls&sni=ir1.airpanel.top&allowInsecure=1#hamedp71%3A%3A%E2%9D%93
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTVhNWVmYWUwMGE4MzJi@112.197.26.106:45310#hamedp71%3A%3A%E2%9D%93
+vless://5cccb4da-8aee-4b01-be84-2056265e52dc@bbbnmkl.2030.pp.ua:443?security=tls&encryption=none&sni=bbbnmkl.2030.pp.ua&type=ws&host=bbbnmkl.2030.pp.ua&path=%2fs2VHv9VUVzg35A6ueyyZnWd&allow_insecure=0#hamedp71%3A%3A%E2%9D%93
+vless://5cccb4da-8aee-4b01-be84-2056265e52dc@bbbbbb.taiwan2028.indevs.in:443?security=tls&encryption=none&sni=bBBbBB.taiWan2028.indeVs.iN&type=ws&host=BBBbBb.tAIWAn2028.iNDevS.IN&path=%2fs2VHv9VUVzg35A6ueyyZnWd&allow_insecure=0#hamedp71%3A%3A%E2%9D%93
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NTFkZjVkYzhmZDA4ZDBj@38.60.224.37:11201#hamedp71%3A%3A%E2%9D%93
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?sni=io.ozone.ru#hamedp71%3A%3A%E2%9D%93
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.121.115:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=/&security=tls&sni=ir1.airpanel.top&allowInsecure=1#hamedp71%3A%3A%E2%9D%93
+vmess://eyJhZGQiOiIxNDguMTEzLjE3Ni4xOTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaW5zZWN1cmUiOiIxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6ImhhbWVkcDcxOjrinZMiLCJzY3kiOiJhdXRvIiwic25pIjoiZmFwZW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrinZMiLCJhZGQiOiJiYmJuaGouODkwNjM0Lnh5eiIsInBvcnQiOjQ0MywiaWQiOiI1Y2NjYjRkYS04YWVlLTRiMDEtYmU4NC0yMDU2MjY1ZTUyZGMiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJiYmJuSEouODkwNjM0LlhZeiIsImFscG4iOm51bGwsInBhdGgiOiIvQXdVSnlHaDlZbTZ2VnpnMzVBNnVleXlabldkIiwidGxzIjoidGxzIiwic25pIjpudWxsLCJmcCI6bnVsbH0
+vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.249.36:443?encryption=none&security=tls&sni=pqh30v5.carwashipdir.shop&alpn=h2&allowInsecure=1&type=grpc#hamedp71%3A%3A%E2%9D%93
 vless://Telegram:@Free_VPN_CH@95.181.161.158:2053?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#hamedp71%3A%3A%E2%9D%93
 vless://Telegram🇨🇳 @WangCai2@31.57.107.13:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%E2%9D%93
-vless://Telegram:@Free_VPN_CH@207.244.199.59:2053?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#hamedp71%3A%3A%E2%9D%93
-vless://Telegram🇨🇳 @WangCai2@78.40.116.17:443?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#hamedp71%3A%3A%E2%9D%93
-vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@104.21.11.229:443/?type=ws&encryption=none&flow=&host=mjki.1nn.ccwu.cc&path=/hBasD7EdpBQ0zGAzsYHmsMrnO&security=tls&sni=mjki.1nn.ccwu.cc&allowInsecure=1#hamedp71%3A%3A%E2%9D%93
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#hamedp71%3A%3A%E2%9D%93
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@143.198.230.169:443?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#hamedp71%3A%3A%E2%9D%93
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNmIwOTczNDAxODU4YjI5@57.129.95.198:11201#hamedp71%3A%3A%E2%9D%93
 vless://Telegram🇨🇳 @WangCai2@217.145.79.186:2053/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%E2%9D%93
+vless://b020865b-7404-4894-ba65-a7414b10cda3@bnh.tt8.ccwu.cc:443/?type=ws&security=tls&sni=bnh.tt8.ccwu.cc&host=bnh.tt8.ccwu.cc&path=/15ZYK3adOPjqSc7fzeJr&fp=chrome#hamedp71%3A%3A%E2%9D%93
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWFjZDk2MGFiOGUzNDA4@157.185.173.60:46727#hamedp71%3A%3A%E2%9D%93
 vless://Telegram🇨🇳 @WangCai2@93.152.207.130:8444/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%E2%9D%93
-vless://4a942a11-2178-4b10-af73-15b1cfee99df@172.67.73.14:443?path=/&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#hamedp71%3A%3A%E2%9D%93
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?sni=web.max#hamedp71%3A%3A%E2%9D%93
-vless://Telegram🇨🇳 @WangCai2@31.56.113.127:2053/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%E2%9D%93
-vless://0e4e3a71-e712-49c6-a6a5-0b457764746e@104.26.14.21:443?security=tls&encryption=none&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=/3.86.231.180=443#hamedp71%3A%3A%E2%9D%93
+vless://f1e74548-4c0b-463b-b68d-0d1ec48c965d@45.12.114.73:8443?security=tls&sni=rus21.unboundworld.org&type=ws&host=rus21.unboundworld.org&path=/ws-vless/&fp=chrome&alpn=h2#hamedp71%3A%3A%E2%9D%93
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@172.64.158.2:2096?encryption=none&security=tls&sni=hetz.x-smm.com&allowInsecure=1&type=ws&host=hetz.x-smm.com&path=/45.76.183.217=49292#hamedp71%3A%3A%E2%9D%93
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.120.127:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=%2F&security=tls&sni=ir1.airpanel.top&allowInsecure=1#hamedp71%3A%3A%E2%9D%93
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443/?type=ws&encryption=none&flow=&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk&allowInsecure=1#hamedp71%3A%3A%E2%9D%93
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5N2ZlNmIwN2NiZmFmN2U3@157.185.173.60:18424#hamedp71%3A%3A%E2%9D%93
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZDdiMGQxNGI1OTBiY2Vi@112.197.26.106:26417#hamedp71%3A%3A%E2%9D%93
+vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@fbg.1x3.indevs.in:80?path=/hBasD7EdpBQ0zGAzsYHmsMrnO&security=&encryption=none&host=fbg.1x3.indevs.in&type=ws&sni=fbg.1x3.indevs.in#hamedp71%3A%3A%E2%9D%93
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?type=grpc&path=%2f#hamedp71%3A%3A%E2%9D%93
 vless://Telegram🇨🇳 @WangCai2@31.57.26.194:2053/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#hamedp71%3A%3A%E2%9D%93
-vless://c4fed342-68c4-48ec-b3b6-9c4397bd5569@afrcloud22.mmv.kr:443?security=tls&encryption=none&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=%2f45.32.131.28%3d31001#hamedp71%3A%3A%E2%9D%93
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZDFiYzU0Njg5ZWQ0Yjc1@119.159.245.24:26737#hamedp71%3A%3A%E2%9D%93
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.103:8080#hamedp71%3A%3A%E2%9D%93
+vless://5cccb4da-8aee-4b01-be84-2056265e52dc@mk.huangshang.online:443?security=tls&encryption=none&sni=MK.hUaNGshanG.oNLINe&type=ws&host=mK.HUAnGShANg.ONliNe&path=%2fs2VHv9VUVzg35A6ueyyZnWd#hamedp71%3A%3A%E2%9D%93
+vless://5cccb4da-8aee-4b01-be84-2056265e52dc@ggghj.www890604.dpdns.org:443?security=tls&encryption=none&sni=ggghj.www890604.dpdns.org&type=ws&host=ggghj.www890604.dpdns.org&path=%2fs2VHv9VUVzg35A6ueyyZnWd#hamedp71%3A%3A%E2%9D%93
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.89:8080#hamedp71%3A%3A%E2%9D%93
+vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrinZMiLCJhZGQiOiJ2dnZibmhqLjE5MTI4OC54eXoiLCJwb3J0Ijo0NDMsImlkIjoiNWNjY2I0ZGEtOGFlZS00YjAxLWJlODQtMjA1NjI2NWU1MmRjIiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiVnZ2Ym5oSi4xOTEyODgueHlaIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii9Bd1VKeUdoOVltNnZWemczNUE2dWV5eVpuV2QiLCJ0bHMiOiJ0bHMiLCJzbmkiOm51bGwsImZwIjpudWxsfQ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTVhNWVmYWUwMGE4MzJi@112.197.26.106:45313#hamedp71%3A%3A%E2%9D%93
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.110.81.2:8443?type=ws&security=tls&sni=sni.111000.dynv6.net&host=sni.111000.dynv6.net&path=/?ed=2560&Telegram🇨🇳@WangCai2#hamedp71%3A%3A%E2%9D%93
+vless://cc9f7840-757a-430b-bddc-a73478bea434@deu469.unboundworld.org:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.t3n.de&fp=chrome&security=reality&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&sid=#hamedp71%3A%3A%E2%9D%93
+vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@172.64.145.202:2052?type=ws&encryption=none&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK&path=/&ed=2048&eh=Sec-WebSocket-Protocol#hamedp71%3A%3A%E2%9D%93
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#hamedp71%3A%3A%E2%9D%93
 vless://Telegram:@Free_VPN_CH@193.148.59.145:8443?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#hamedp71%3A%3A%E2%9D%93
