@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://8c6118b9-78a8-3b3b-a49a-6aa9cb5b1d4e@s481.ccgfw.top:443?security=tls&type=tcp&sni=u708330uad0es481.ccgfw.top&fp=random&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
+vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?security=none&type=ws&path=%2f#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%B0
