@@ -6,4 +6,4 @@ hy2://zhangyang@130.61.50.75:6443/#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&sni=api.kermanshahi.org&insecure=0#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hy2://0b8a288c@107.174.181.241:65160?sni=en.snu.ac.kr&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&sni=api.kermanshahi.org&insecure=0#hamedp71%3A%3A%E2%9D%93
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&sni=api.kermanshahi.org&insecure=0#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
