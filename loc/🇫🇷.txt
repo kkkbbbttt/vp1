@@ -8,6 +8,7 @@ vless://f9cdb2e1-939c-4470-b322-14b7313dec48@109.172.55.157:19547?encryption=non
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLRU5fTDZtc0w4cm11U1B5d1I0TTBxTV8xX3R4WjhENQ==@45.95.233.133:8388#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&allowInsecure=1&type=ws&host=www.calmlunch.com&path=/assignment#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vmess://eyJhZGQiOiI5NC4yMzIuMjQ3LjE2NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyMmMzOTZhMy05NWRhLTRiZTgtYmVlZi04MzRkMTdkNzU3ODQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ0MDMwIiwicHMiOiJoYW1lZHA3MTo68J+Hq/Cfh7ciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.59.121.150:2053?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=/?Telegram🇨🇳+@WangCai2=&security=tls&sni=sni.111000.v6.navy&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://8b8f4dfb-cd48-4dab-bb75-b304971176cd@45.95.233.85:61873?encryption=none&fp=chrome&pbk=wEU32qHhiQq-FDYUvuEl7_HAM6r5nDh6M4F8WGnEhjE&security=reality&sid=34d8e80d8fa40501&sni=yandex.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2fassignment&allow_insecure=0#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 ss://YWVzLTEyOC1nY206bUJsMWZZaFg4OHhrM0szOUllUHJSbm1zUUR2YjFoNGY=@51.159.103.137:18290#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
