@@ -2,12 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://95be7de0-2394-47b8-aa2c-27773d61807f@nl.crunch-crunch.com:443?security=reality&encryption=none&pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl.crunch-crunch.com&sid=ea1058117be12087#hamedp71%3A%3A%E2%9D%93
-trojan://0a169d7d-a30f-4d90-af1b-55f6ef6afcb7@220.130.58.136:31103?allowInsecure=0&sni=green2.cdntencentmusic.com#hamedp71%3A%3A%E2%9D%93
-trojan://125f929b-dbde-43b9-b498-695f1cd45d68@220.130.58.136:31102?allowInsecure=0&sni=green2.cdntencentmusic.com#hamedp71%3A%3A%E2%9D%93
-vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrinZMiLCJhZGQiOiJ2Zmd0LndjMy5jY3d1LmNjIiwicG9ydCI6ODAsImlkIjoiMTc5OGIxNGItYWVlMC00MDA4LWJhOWEtMmU1Mzg3Nzc2MWI0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIva0ZLOU81Y2w4WnljeXJ4Y0pXTlZGQzIxIiwidGxzIjpudWxsLCJzbmkiOm51bGwsImZwIjpudWxsfQ
-vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@104.16.246.173:443?allowInsecure=1&encryption=none&host=c0.ttlive4.dns-dynamic.net&path=/proxyip=sjc.o00o.ooo&security=tls&sni=c0.ttlive4.dns-dynamic.net&type=ws#hamedp71%3A%3A%E2%9D%93
-vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@104.16.254.211:443?allowInsecure=1&encryption=none&host=c0.ttlive4.dns-dynamic.net&path=/proxyip=sjc.o00o.ooo&security=tls&sni=c0.ttlive4.dns-dynamic.net&type=ws#hamedp71%3A%3A%E2%9D%93
-ss://YWVzLTI1Ni1nY206YzY5Mzc0ZGEtMjIwOC00Y2JkLWI4MWUtY2RmODhiNWU3ZjUz@ss.031.node-for-bigairport.win:36885#hamedp71%3A%3A%E2%9D%93
-vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@104.16.241.212:443?allowInsecure=1&encryption=none&host=c0.ttlive4.dns-dynamic.net&path=/proxyip=sjc.o00o.ooo&security=tls&sni=c0.ttlive4.dns-dynamic.net&type=ws#hamedp71%3A%3A%E2%9D%93
-vless://46c9a909-2e81-4f6f-b999-def280062188@cze01-vlr01.tcp-reset-club.net:10443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=d3b13f31#hamedp71%3A%3A%E2%9D%93
+trojan://4250b3bb-d1ae-4e77-bf71-4069e0d2c383@220.130.58.136:31102?allowInsecure=0&sni=green2.cdntencentmusic.com#hamedp71%3A%3A%E2%9D%93
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OuKdkyIsImFkZCI6ImEuY2RuLWJpbGliaWxpLmNuIiwicG9ydCI6IjMwMDAzIiwiaWQiOiI2OWRlOWE1Mi0zNmIwLTQyNjUtYTNjZi1kMDZiY2VmZTcxM2QiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIiLCJmcCI6ImNocm9tZSJ9
+vless://95be7de0-2394-47b8-aa2c-27773d61807f@ru.crunch-crunch.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&security=reality&sid=ea1058117be12087&sni=ru.crunch-crunch.com&type=tcp#hamedp71%3A%3A%E2%9D%93
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#hamedp71%3A%3A%E2%9D%93

@@ -3,6 +3,7 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.106.228.247:990#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+vmess://eyJhZGQiOiI0Ny4yNDUuNDIuOTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im4xNzUzNTk4NDUyLndwZzI3Lnh5eiIsImlkIjoiNGYyM2ViN2MtZWYyZi00M2IwLTkwZGQtZjJiOGE3NTk1NGE1IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6ImhhbWVkcDcxOjrwn4ev8J+HtSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
 vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4ev8J+HtSIsImFkZCI6InQxLjYyMDcyMC54eXoiLCJwb3J0Ijo4NDQzLCJpZCI6IjUxNmQ4YTdhLTNmMGItNDFkMy1iYWQwLTI0NjExNjM4MTUxNiIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjpudWxsLCJmcCI6bnVsbH0
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@168.138.198.7:27560?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 ss://YWVzLTI1Ni1nY206QmVkdWZnenRITzNCNUtxZQ==@46.250.254.170:80#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
@@ -13,7 +14,6 @@ ss://YWVzLTI1Ni1nY206QmVkdWZnenRITzNCNUtxZQ==@46.250.254.170:443#hamedp71%3A%3A%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDNhYzY1ZTMwZjI4YjBi@154.205.139.9:11204#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://26524cce-d514-4014-a426-365fb266a14d@152.70.101.24:16048?security=tls&type=ws&path=%2Fdanfeng&host=k7ryegiaeu.chinam.eu.org&sni=k7ryegiaeu.chinam.eu.org&fp=random#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@155.248.181.189:443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-vmess://eyJhZGQiOiJuMTc1MzU5ODQ1Mi53cGcyNy54eXoiLCJhaWQiOjAsImhvc3QiOiJuMTc1MzU5ODQ1Mi53cGcyNy54eXoiLCJpZCI6IjRmMjNlYjdjLWVmMmYtNDNiMC05MGRkLWYyYjhhNzU5NTRhNSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo0NDMsInBzIjoiaGFtZWRwNzE6OvCfh6/wn4e1IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoibjE3NTM1OTg0NTIud3BnMjcueHl6In0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDNhYzY1ZTMwZjI4YjBi@154.205.139.9:11202#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@153.121.45.101:443?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.214.104:2001?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
