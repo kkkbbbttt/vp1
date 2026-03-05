@@ -2,5 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&type=ws&path=%2fassignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://2478528e-ecad-4134-a7cc-878f08a76865@51.250.16.92:8444?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=08#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://6c49485f-843c-4e96-abfe-046bc473c7b0@45.144.51.22:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=euR8poucesDF-UxANxJ7Uqg1t4cfiDtAzAQcTVhRQCE&security=reality&sid=140d8b3989bf5116&sni=github.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://f1449968-0329-468b-b56b-1c573ac2a767@144.31.4.136:8081?encryption=none&fp=chrome&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&security=reality&sid=425ba80cd1a821a8&sni=www.apple.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
