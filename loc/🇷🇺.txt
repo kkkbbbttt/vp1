@@ -2,6 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://f1e74548-4c0b-463b-b68d-0d1ec48c965d@45.12.114.73:8443?allowInsecure=1&encryption=none&host=rus21.unboundworld.org&path=/ws-vless/&security=tls&sni=rus21.unboundworld.org&type=ws#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://2478528e-ecad-4134-a7cc-878f08a76865@51.250.16.92:8444?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=08#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQzdhUXY5RHNFTmFWZkt6VFBES1lW@212.192.14.226:41968#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
