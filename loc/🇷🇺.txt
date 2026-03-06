@@ -4,4 +4,3 @@
 
 vless://68ac194a-0313-41a1-89fb-903a6fa3c795@64.188.90.93:443?mode=gun&security=reality&encryption=none&pbk=izCUzi8srWz4o9UbRkAfemYs13fHQc_6H5QBGct6gWU&fp=chrome&type=grpc&sni=a.primarymaster.online&sid=c5b7244c0fef441a#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://f1449968-0329-468b-b56b-1c573ac2a767@51.250.75.255:8081?security=reality&encryption=none&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&headerType=&fp=chrome&type=tcp&sni=eh.vk.com&sid=425ba80cd1a821a8#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://7fc953d6-ae75-46fb-a970-10b57d513487@45.139.26.211:7443?security=reality&encryption=none&pbk=BTkKaFt2xac4xAHn3EXrBKV0d8ItHSfciMFnxg57BGA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=fd88bd27db4cc661#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
