@@ -4,12 +4,10 @@
 
 trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://telegram-id-privatevpns@15.188.101.85:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://8b8f4dfb-cd48-4dab-bb75-b304971176cd@45.95.233.85:61873?security=reality&encryption=none&pbk=wEU32qHhiQq-FDYUvuEl7_HAM6r5nDh6M4F8WGnEhjE&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=34d8e80d8fa40501#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.38.227.72:2053?host=sni.111000.indevs.in&path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&sni=sni.111000.indevs.in&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMTllMzU5YTJmMGM0ZjVm@51.68.83.117:11201#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://telegram-id-directvpn@15.188.101.85:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 ss://YWVzLTEyOC1nY206SGMyeW42VWpWQ2JhUE8zM1RROTNNVXRvZk9MUkhtN0E=@195.154.202.112:18292#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 ss://YWVzLTEyOC1nY206bUJsMWZZaFg4OHhrM0szOUllUHJSbm1zUUR2YjFoNGY=@51.159.103.137:18290#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&host=www.calmlunch.com&path=%2fassignment#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
