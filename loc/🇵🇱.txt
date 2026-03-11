@@ -5,3 +5,4 @@
 trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&alpn=h2%2chttp%2f1.1&type=ws&path=%2fassignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://26524cce-d514-4014-a426-365fb266a14d@31.133.0.250:2053?&security=tls&fp=chrome&sni=k7ryegiaeu.chinam.eu.org&type=ws&headerType=none&host=k7ryegiaeu.chinam.eu.org&path=/danfeng#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://12b11774-b58b-434b-91be-ba876df9ef5d@51.250.16.92:8444?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=6a608eaf9117&sni=ads.x5.ru#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@45.144.51.136:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&security=reality&sid=feedbacc&sni=pl.fasti.win&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
