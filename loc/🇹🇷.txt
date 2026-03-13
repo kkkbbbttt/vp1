@@ -3,9 +3,7 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SW9wblgwd3pFa3JjM1pjVlE5Nzh6@185.39.204.189:34085#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://76604ade-a555-4c34-b79b-33581c658c41@156.67.63.221:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.ebay.com&fp=chrome&pbk=oKtPZgsIl6HxxIrNiBUwnyEr_y3lJ0Op6cCckZQFuWs&sid=a1b2c3d4#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 hysteria2://bd470fb8-73fd-455b-b8ae-e0fc9f44258b@tr.xn--ehqa22b.site:21150?insecure=1&sni=tr.xn--ehqa22b.site#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBVkxiRVVFdEJENTlGc1JxY055RWli@203.202.232.78:60299#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@38.180.113.22:443?&security=tls&fp=chrome&alpn=http/1.1&sni=snippet.fgfw.indevs.in&type=ws&headerType=none&host=snippet.fgfw.indevs.in&path=/danfeng#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 hysteria2://43ddfbea-3378-4780-a01a-e8801a88b547@tr.xn--ehqa22b.site:21332?sni=tr.xn--ehqa22b.site&mport=21001-21999#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 hysteria2://9cf5c4ba-6939-40b2-a78a-98a582e233bc@tr.xn--ehqa22b.site:21946?sni=tr.xn--ehqa22b.site&mport=21001-21999#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
