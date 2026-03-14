@@ -5,4 +5,5 @@
 vless://2c979473-1e8b-4200-aeac-5aaa0291c6a7@104.21.224.5:8080?path=2c979473&security=none&encryption=none&host=telephony-planet-packages-soon.trycloudflare.com&type=ws#hamedp71%3A%3A%F0%9F%87%BB%F0%9F%87%B3
 vless://2c979473-1e8b-4200-aeac-5aaa0291c6a7@104.17.25.173:8080?path=2c979473&security=none&encryption=none&host=telephony-planet-packages-soon.trycloudflare.com&type=ws#hamedp71%3A%3A%F0%9F%87%BB%F0%9F%87%B3
 vless://2c979473-1e8b-4200-aeac-5aaa0291c6a7@104.18.185.26:8080?path=2c979473&security=none&encryption=none&host=telephony-planet-packages-soon.trycloudflare.com&type=ws#hamedp71%3A%3A%F0%9F%87%BB%F0%9F%87%B3
+vless://2c979473-1e8b-4200-aeac-5aaa0291c6a7@104.21.227.134:8080?path=2c979473&security=none&encryption=none&host=telephony-planet-packages-soon.trycloudflare.com&type=ws#hamedp71%3A%3A%F0%9F%87%BB%F0%9F%87%B3
 vless://2c979473-1e8b-4200-aeac-5aaa0291c6a7@104.16.250.22:8080?path=2c979473&security=none&encryption=none&host=telephony-planet-packages-soon.trycloudflare.com&type=ws#hamedp71%3A%3A%F0%9F%87%BB%F0%9F%87%B3
