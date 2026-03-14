@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://5ac2d3b6-33cc-4442-9c0b-ae3909cabaae@31.42.190.76:443?encryption=none&type=ws&path=/&security=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%A6
+vless://5ac2d3b6-33cc-4442-9c0b-ae3909cabaae@31.42.190.76:443?encryption=none&path=/&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%A6
