@@ -2,11 +2,9 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://d2fe1afc-6f63-4654-804b-c1285812aac4@ip4.xianjin.ltd:443?type=ws&security=tls&path=/wang-vl&sni=sg.xianjin.ltd&fp=chrome#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@sg.fasti.win:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&security=reality&sid=feedbacc&sni=sg.fasti.win&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://f389ed926e512e15f382dc3804029474@160.16.85.33:4674?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.89.142.56:990#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:4674?sni=www.nintendogames.net&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://f389ed926e512e15f382dc3804029474@153.121.45.139:4674?sni=www.nintendogames.net&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48804#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://2979477a-f96a-45e0-be6b-c24db8af2026@195.172.138.224:20882?&security=reality&flow=xtls-rprx-vision&pbk=b31oHYKY9-2rPQOsrwvfnImU2GB2BcAc2WryZl5NEA0&sid=153d40c36343cd&fp=chrome&sni=www.tesla.com&type=tcp&headerType=none&path=/#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
