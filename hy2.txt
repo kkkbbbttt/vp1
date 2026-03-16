@@ -4,6 +4,7 @@
 
 hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&note=@FreeOnlineVPN#hamedp71%3A%3A%E2%9D%93
+hysteria2://fe0fda62-79ff-467e-bef4-983322c1d21b@hkt.ccwink.cc:56309?insecure=1&sni=hkt.ccwink.cc#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 hysteria2://dongtaiwang.com@62.210.124.146:22000?security=tls&insecure=1&sni=www.microsoft.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?insecure=1&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&sni=api.kermanshahi.org#hamedp71%3A%3A%E2%9D%93
 hysteria2://2c833c5d-cbcc-4afb-89ba-d17dc39db6f0@75.127.13.83:47974?security=tls&insecure=1&sni=www.bing.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
