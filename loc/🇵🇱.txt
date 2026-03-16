@@ -3,7 +3,7 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMVIzaEpFV2VRSkdKTDQyU2FZeTIyQ0MyMXVGdF8weQ==@144.31.130.99:9443#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7Xwn4exIiwiYWRkIjoiY24wMi4zNjVjbG91ZDU4NzguY29tIiwicG9ydCI6IjYwMzYiLCJ0eXBlIjoibm9uZSIsImlkIjoiOWYxZWNmY2EtMTNhOS00ODhkLWFjODQtYWFlYjczYThkNTc0IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6ImNuMDIuMzY1Y2xvdWQ1ODc4LmNvbSIsInRscyI6IiJ9
 vless://45686761-5a47-40c0-a982-a06233f9d64e@ironforge.cvs-a.com:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=ironforge.cvs-a.com&fp=chrome&pbk=8ZY9v0HhvcEa29LqYDyHy4HbkwKOzDGTvAXHlMVclVs&sid=5b62a6c69b4bfeac#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@34.116.214.76:443?&security=tls&fp=chrome&alpn=http/1.1&sni=snippet.danfeng.gleeze.com&type=ws&headerType=none&host=snippet.danfeng.gleeze.com&path=/danfeng#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&alpn=h2%2chttp%2f1.1&type=ws&path=%2fassignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@144.31.2.61:443?encryption=none&type=tcp&security=tls&sni=plcdn23.suio.me#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
