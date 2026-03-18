@@ -2,6 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWjliYTNHd0RMLXJuNkRTUTBOLWF3SE5oY3V4YUhQMw==@auto.poland.ray-vpn.ru:4495#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://6c49485f-843c-4e96-abfe-046bc473c7b0@45.144.51.22:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=euR8poucesDF-UxANxJ7Uqg1t4cfiDtAzAQcTVhRQCE&security=reality&sid=140d8b3989bf5116&sni=github.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://096d2cea-e1d5-4b68-ada3-6349a272ecad@uk1.santexnika24.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&security=reality&sid=23&sni=www.apple.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&alpn=h2%2chttp%2f1.1&fp=chrome&type=ws&path=%2fassignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
