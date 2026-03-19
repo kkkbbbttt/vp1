@@ -4,9 +4,7 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08=@57.129.140.88:8388#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://217e8d75-528f-4198-8217-ae2885ac9dba@srv13.ezcon24.online:11444?type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.sun6-21.userapi.com&pbk=vII0ktWC5uuvMBFEvgYpftqq6mCjEfCpEg_s8eT_oh8&fp=chrome&bx=/#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh6zwn4enIiwiYWRkIjoiNjYuMTYzLjExNy41OCIsInBvcnQiOiIyMjMyNCIsInR5cGUiOiJub25lIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://19cb2ba5-d074-42d6-8400-6d9183514f48@151.243.101.25:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.google.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
