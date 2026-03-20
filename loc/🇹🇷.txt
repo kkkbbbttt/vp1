@@ -8,4 +8,5 @@ vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?encryption=none
 vless://729764b1-149c-49f2-b170-322544df7b5b@tr73.mechvpn.online:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=tr73.mechvpn.online&path=&host=&alpn=h3,h2,http/1.1#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://9bde09b3-09b5-4d7a-b5fd-3fae8dfeed5a@185.72.9.200:56126?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://42a7df85-0739-4760-a248-32a491abfa2a@77.92.145.192:443?security=reality&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&type=tcp&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=e499f276e7bd6420#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBVkxiRVVFdEJENTlGc1JxY055RWli@203.202.232.78:60299#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://d37c7e48-2a8d-432f-a3ce-8da4cc203b2c@77.83.245.135:34205?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
