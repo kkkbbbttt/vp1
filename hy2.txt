@@ -1,8 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
-
-hysteria2://b7d213b3-e039-4ffb-8a3e-278604c71cf3@in.xn--ehqa22b.site:21019?sni=in.xn--ehqa22b.site&mport=21001-21999#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
-hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?sni=api.kermanshahi.org&path=%2f&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-hysteria2://33f1c729-0616-4e53-a829-e8247e3eb8b5@in.xn--ehqa22b.site:21150?sni=in.xn--ehqa22b.site&mport=21001-21999#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
-hysteria2://482434b7-bcb0-4157-bec2-16eb83a3006f@in.xn--ehqa22b.site:21455?sni=in.xn--ehqa22b.site&mport=21001-21999#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
