@@ -3,7 +3,6 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
 trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&type=ws&path=%2fassignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://576993a0-3b23-4c65-8c6d-2165b098826b@144.31.1.91:443?allowInsecure=1&encryption=none&security=tls&sni=plcdn6.dramatorg.net&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://859b7d71-a9fc-4234-8e03-42eb876a170a@151.115.96.243:7242?security=reality&encryption=none&pbk=jGmjU0vrRXCnIwn0rVatYKf5ihWZhMvqidp2ceY1QAM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=modily.net&sid=8c01e365#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&sni=outgoing-ladybird.rooster465.autos&type=tcp&headerType=none&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?security=tls&type=tcp&headerType=none&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
