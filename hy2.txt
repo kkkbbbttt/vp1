@@ -2,8 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?sni=api.kermanshahi.org&path=%2f&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?sni=api.kermanshahi.org&path=%2f&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-hy2://zhangyang@130.61.50.75:6443/#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+hysteria2://123456789StrongPass@144.31.224.14:443?sni=www.cloudflare.com&insecure=1&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
