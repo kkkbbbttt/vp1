@@ -6,4 +6,3 @@ trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?security=tls&sni=fluent-
 vless://6f99ed2f-9879-40e3-b5b4-5590c60f8e4a@pl5.lckdwn.ru:443?encryption=none&fp=chrome&pbk=g8IbVqG1g7ht5ckWvYgOxZ9CrStwZt8QYQmTEwIWsTU&security=reality&sid=b5&sni=vk.ru&type=grpc#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://fd37be2f-f8d1-47de-97e8-13c28107d31e@138.124.104.221:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w&security=reality&sid=e043995937&sni=pol2.frostbot.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&sni=outgoing-ladybird.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://90c9c25c-df6c-4438-83d3-ef97166a9184@45.136.126.45:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&fp=chrome&security=reality&pbk=A3PWLCRX9oeSyPvrmrwj2jUXcLo2uCwAISRBHtNE1Xw&sid=#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
