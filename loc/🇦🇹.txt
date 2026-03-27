@@ -6,7 +6,6 @@ vless://3d737761-5951-462e-86c1-ff921d9f9999@au-1.barryvpn.com:8443?encryption=n
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.146.68:443?allowInsecure=1&encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.3:443?allowInsecure=1&encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@108.162.192.75:443?allowInsecure=1&encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
-vless://98d8cefc-499a-4969-9a59-f03e947adf78@87.251.69.48:8443?allowInsecure=1&alpn=h2,http/1.1&encryption=none&security=tls&sni=at16.fastlanehosting.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.147.137:443?allowInsecure=1&encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@162.159.36.5:443?allowInsecure=1&encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.98.0:443?allowInsecure=1&encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
