@@ -3,22 +3,20 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.5:2053?path=%2F&security=tls&encryption=none&insecure=0&host=ir1.airpanel.top&type=ws&allowInsecure=0&sni=ir1.airpanel.top#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.20:2053?path=%2F&security=tls&encryption=none&insecure=0&host=ir1.airpanel.top&type=ws&allowInsecure=0&sni=ir1.airpanel.top#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://d1209ffb-c159-48d5-b40d-542ce11fc768@80.253.249.251:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Wvt6tuMcFY9rWF2BsdAD4DXgLAoxQJxHWlao2BPR23Y&security=reality&sni=apple.com&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://5d950f22-a120-42c3-86f8-8ee81bfa08c9@172.67.134.216:443?allowInsecure=1&encryption=none&host=nnet.online&path=%2Fvless-tls&security=tls&sni=VPN.NNET.Online&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://6053689d-39d6-4005-b1bd-c0dce854f429@84.21.189.25:443?allowInsecure=1&alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=de-fast.chunkyvpn.shop&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://098fd515-29de-4d74-b77d-d8ab878a7e2c@172.64.32.133:443?allowInsecure=1&encryption=none&host=rivvers.info&path=%2Fresgdws&security=tls&sni=rivvers.info&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vmess://eyJhZGQiOiJ6enJ0LnVob21kZXguc2hvcCIsImFpZCI6MCwiaG9zdCI6Inp6cnQudWhvbWRleC5zaG9wIiwiaWQiOiIwYjRjNGVkNC1kZWVkLTRiZGEtYWUzZC02YzhjY2QxZDExOTkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6ODQ0MywicHMiOiJoYW1lZHA3MTo68J+HqfCfh6oiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJ6enJ0LnVob21kZXguc2hvcCJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGFhZTA1MTAxODhlOGM1@141.95.106.127:11201#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vmess://eyJhZGQiOiJ6enJ0LnVob21kZXguc2hvcCIsImFpZCI6MCwiaG9zdCI6Inp6cnQudWhvbWRleC5zaG9wIiwiaWQiOiIwYjRjNGVkNC1kZWVkLTRiZGEtYWUzZC02YzhjY2QxZDExOTkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6ODQ0MywicHMiOiJoYW1lZHA3MTo68J+HqfCfh6oiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJ6enJ0LnVob21kZXguc2hvcCJ9
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.66.44.211:80?encryption=none&type=ws&security=none&path=/&host=tt.andishehparenting.com#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGM0NTVjOWYxOWFhM2E1@57.129.94.79:11206#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 trojan://4eddbd4a-ae04-49b9-9e6d-90f88eb4ef36@vpn.nnet.online:443?security=tls&sni=VPN.NNET.Online&type=ws&host=nnet.online&path=%2ftrojan-tls#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://00000000-0000-4000-8000-000000000000@185.94.29.156:4001?fp=chrome&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Njc1Y2JmNjJkNmEzYTRm@57.129.95.45:11201#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNTRjZGVlMTBmOGIyNWNl@57.129.95.38:11201#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://f0ff4425-8c26-4d81-8662-f34593060c8d@188.114.98.0:2082?encryption=none&host=DOFF.mehrsazi.ir&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNTRjZGVlMTBmOGIyNWNl@57.129.95.38:11201#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@202.61.200.220:8080?security=tls&type=ws&path=%2Fdanfeng&host=snippet.danfeng.kozow.com&sni=snippet.danfeng.kozow.com&fp=chrome#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://a91e1b4f-09f0-48af-a0c8-cd389bd3223c@104.21.6.124:443?allowInsecure=1&encryption=none&host=nnet.online&path=%2Fvless-tls&security=tls&sni=VPn.nnet.Online&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.23.106.39:2053?path=/?ed=2560&telegram🇨🇳+@wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
@@ -30,8 +28,8 @@ vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@207.154.233.176:443?security=tls&ty
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMGY5MGFmOTJiNmMxYTc0@141.95.109.94:11201#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://d1209ffb-c159-48d5-b40d-542ce11fc768@8tf3qy.by-api-yandex.com:10121?security=reality&encryption=none&pbk=4DdA8dBVn5zB_UTbgBY45YqM0HU8zrjXYdzg3-wz5Rg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=9c2a7d4e5f18b6a3#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://a91e1b4f-09f0-48af-a0c8-cd389bd3223c@vpn.nnet.online:443?allowInsecure=1&encryption=none&host=nnet.online&path=%2Fvless-tls&security=tls&sni=VPn.nnet.Online&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@87.120.92.28:443?security=tls&type=ws&path=%2Fdanfeng&host=snippet.sh21.eu.org&alpn=http%2F1.1%0A&sni=snippet.sh21.eu.org&fp=chrome#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.60.250.107:990#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.130.132.180:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540app_bedal%3D&security=tls&sni=sni.111000.indevs.in&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@194.164.192.16:443?security=tls&type=ws&path=%2Fdanfeng&host=snippet.danfeng.gleeze.com&alpn=http%2F1.1%0A&sni=snippet.danfeng.gleeze.com&fp=chrome#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@45.133.251.12:4443?security=tls&type=ws&path=%2Fdanfeng&host=snippet.danfeng.gleeze.com&alpn=http%2F1.1%0A&sni=snippet.danfeng.gleeze.com&fp=chrome#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.202:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&security=reality&sni=www.fh-aachen.de&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
