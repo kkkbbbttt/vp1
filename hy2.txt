@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@156.59.243.6:990#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B0
+hysteria2://de629d50-1711-11ed-bd7c-f23c913c8d2b@4a8146b5-t70f40-tlpfci-1jdha.hk1.hyhuawei.com:443?insecure=1&sni=4a8146b5-t70f40-tlpfci-1jdha.hk1.hyhuawei.com#hamedp71%3A%3A%E2%9D%93
