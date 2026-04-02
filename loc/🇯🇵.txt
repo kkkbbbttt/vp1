@@ -14,5 +14,5 @@ vless://776f6e40-ac51-41be-bcd9-93d8d12bf878@154.31.114.125:443?security=reality
 vless://bcd55d34-9dc7-443b-80af-c1790812b5d2@154.31.114.125:443?security=reality&type=tcp&sni=navi.bankrate.com&fp=chrome&sid=2da72ce6&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://9e9c5c92-91a7-45fc-b24c-10980e297a40@154.31.114.125:443?security=reality&sni=navi.bankrate.com&fp=chrome&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6&type=tcp&headerType=none&host=navi.bankrate.com&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.85.33:4380?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://cc405da8-0b5d-48ce-8c1f-2b5da98fd63f@154.31.114.125:443?security=reality&sni=navi.bankrate.com&fp=chrome&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6&type=tcp&headerType=none&host=navi.bankrate.com&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.85.33:4380?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
