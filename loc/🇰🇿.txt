@@ -3,3 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%BF
+vless://c8d65a3a-5002-4dff-bfd6-d4b9ef90b9cc@kzt-t14.plugvpn.ru:443?flow=xtls-rprx-vision&security=reality&sni=kzt-t14.plugvpn.ru&fp=chrome&pbk=Y6bmuGtVRQXa89gLGIXxOtl1pudIe3LCE6neY6kG_V4&sid=91fce232563631ab&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%BF
