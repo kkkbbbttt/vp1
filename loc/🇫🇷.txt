@@ -2,11 +2,12 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
+trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@206.245.131.135:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.vk.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.36.98.4:2053?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=/?Telegram🇨🇳+@WangCai2=&security=tls&sni=sni.111000.indevs.in&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh6vwn4e3IiwiYWRkIjoiOTQuMjMyLjI0Ny4xNjUiLCJwb3J0IjoiNDU2NTMiLCJpZCI6IjllOTFkMTlhLWM3M2YtNDI3Ni1hZGJjLWIzMzdjMzc0MjU5YyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjIzIn0
 vless://43488128-319e-f480-64ea-0acdc712e2a8@51.159.99.137:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3mzvB6oezGe8hhBCVkXs4HIH1nkiPc3QCMurERaB_Ro&security=reality&sid=b87063a35aaa942e&sni=www.cdiscount.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://00000000-0000-4000-8000-000000000000@144.91.69.217:8401?&security=tls&sni=sub.mot.ip-ddns.com&type=ws&headerType=none&host=sub.mot.ip-ddns.com&path=/#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.36.98.4:8443?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.19.79.59:8443?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://81afc754-96c8-4cca-8d5e-3fc993b9afb9@51.210.73.175:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Qps2pQXlGhV8H_8h-K6dUDZTSqUhivzKvr7kGd9B5lU&security=reality&sid=9058597e3961da8a&sni=fr.shadowshroom.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
