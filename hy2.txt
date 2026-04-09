@@ -7,5 +7,4 @@ hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-008.fastervpn.world:443?insecure=1&s
 hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@usa-hy2.onetaplink.app:443?obfs=salamander&obfs-password=OrT7yQQIMqcvKdet&sni=hy2-usa.onetaplink.app#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-006.fastervpn.world:443?insecure=1&sni=vpn-jp-006.fastervpn.world#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 hysteria2://b688ce0f-9201-4e8e-a67a-f3be2c6aa201@sg.mjhy2.com:1443?insecure=1&sni=sg.mjhy2.com#hamedp71%3A%3A%E2%9D%93
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-012.fastervpn.world:443?insecure=1&sni=vpn-jp-012.fastervpn.world#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-019.fastervpn.world:443?insecure=1&sni=vpn-us-019.fastervpn.world#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
