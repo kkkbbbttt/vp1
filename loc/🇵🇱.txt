@@ -4,4 +4,3 @@
 
 vless://859b7d71-a9fc-4234-8e03-42eb876a170a@151.115.96.243:7242?security=reality&encryption=none&pbk=jGmjU0vrRXCnIwn0rVatYKf5ihWZhMvqidp2ceY1QAM&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=modily.net&sid=8c01e365#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&type=ws&path=%2fassignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://7e0a9f75-b424-493b-b7e6-cebd7ea8642d@144.31.130.37:443?allowInsecure=1&encryption=none&security=tls&sni=secdn12.melodramaonline.net&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
