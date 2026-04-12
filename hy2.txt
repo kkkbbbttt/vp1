@@ -8,6 +8,7 @@ hysteria2://7151e6b8-0d8e-4548-a9f2-af52ccc2cdfe@89.23.107.251:4433/?insecure=1&
 hysteria2://strong-secret-pass-777@94.131.105.125:444/?insecure=1&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&sni=www.microsoft.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://strong-secret-pass-777@2.56.172.83:444/?insecure=1&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&sni=www.microsoft.com#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B8
 hysteria2://strong-secret-pass-777@82.117.255.37:444/?insecure=1&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&sni=www.microsoft.com#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
+hysteria2://de8e0342-ea12-4f9d-bc2a-e62409e1913f@66yun-link1.66jc.xyz:20001?insecure=1&obfs=salamander&obfs-password=sbE3r6694Lbhi2Jt&sni=hkzz.66jc.xyz#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://strong-secret-pass-777@45.120.179.89:444/?insecure=1&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&sni=www.microsoft.com#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AA
