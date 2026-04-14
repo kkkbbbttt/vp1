@@ -1,7 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.248.207.37:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=/?ed=2560&Telegram🇨🇳#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://4b481152-ba7f-4445-8cc0-d33d58546e23@7qqrbome80g.country-26.de-nfast.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&security=reality&sid=50&sni=tradingview.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Q21jUTZkRjhMRXlaVTBZc01qZ3U4@77.73.68.155:54106#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
