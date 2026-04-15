@@ -3,4 +3,6 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
 hysteria2://b2325ebb-21a3-46db-ae98-44884ef6dc44@fre.guren1.me:8443?insecure=1&sni=python.org#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+hysteria2://a4c1b618-024a-42d4-b78a-1c25c337a484@gb1.xiaoliyu.cyou:10086?insecure=1&obfs=salamander&obfs-password=T%24rMIL_(dd(%24Ydfz&sni=gb1.xiaoliyu.cyou#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+hysteria2://a4c1b618-024a-42d4-b78a-1c25c337a484@de4.xiaoliyu.cyou:10086?insecure=1&obfs=salamander&obfs-password=xnJ%25rKbwakdx&sni=de4.xiaoliyu.cyou#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://38428a74-c651-47a5-b2c9-4bec5a1809cf@208.87.242.77:35000?insecure=1&sni=www.apple.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
