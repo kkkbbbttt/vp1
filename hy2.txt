@@ -2,9 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-hysteria2://GEbo3x7TXbmNkdmABqS4mZP7Ax5fjFBPbheKauGJJ9Sw@dbp.qzz.io:8443?insecure=1&sni=dbp.qzz.io#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-hysteria2://e795f042-4c9f-46d1-9d85-8816e0ff0cfb@fre.guren1.me:8443?insecure=1&sni=python.org#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-002.fastervpn.world:443?insecure=1&sni=vpn-sg-002.fastervpn.world#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-hysteria2://github.com/Alvin9999-newpac/fanqiang@83.243.86.103:12855/?insecure=1&sni=www.microsoft.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-hysteria2://strong-secret-pass-777@45.15.171.80:444/?insecure=1&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&sni=www.microsoft.com#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B1
+hysteria2://fb211338854624f161f1Ea3D9584E2DEFE7c10A3@sde.dbp.qzz.io:8443?insecure=1&sni=dbp.qzz.io#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-006.fastervpn.world:443?insecure=1&sni=vpn-us-006.fastervpn.world#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056/?insecure=1&sni=flkf.mangshe.xyz#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
