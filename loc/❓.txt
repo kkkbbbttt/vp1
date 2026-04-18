@@ -2,10 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://c29d39bd-92a4-45db-bb61-56013998617c@104.18.109.147:80?encryption=none&host=www.speedtest.net.www.1google.com.bing.com.visa.com.tls.xv98.ip-ddns.com&security=none&type=ws#hamedp71%3A%3A%E2%9D%93
-vless://01f42a3d-8c0b-431b-9a61-ef36faa6ee80@176.97.73.155:443?security=reality&sni=navi.bankrate.com&fp=chrome&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6&type=tcp&headerType=none&host=navi.bankrate.com&path=%2f#hamedp71%3A%3A%E2%9D%93
+vless://2e8e6709-8af1-45df-a8c8-d1a726e37098@176.97.73.155:443?security=reality&sni=navi.bankrate.com&fp=chrome&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6&type=tcp&headerType=none&host=navi.bankrate.com&path=%2f#hamedp71%3A%3A%E2%9D%93
 vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@188.114.98.0:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=zh.hollowspot.ir&type=ws&allowInsecure=0&sni=zh.hollowspot.ir#hamedp71%3A%3A%E2%9D%93
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OuKdkyIsImFkZCI6IjgyLjE5OC4yNDYuNDYiLCJwb3J0IjoiMTgwIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIiLCJmcCI6ImNocm9tZSJ9
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@8.6.112.0:80?path=/ @ProxyVPN11&security=&encryption=none&host=vip.yaml7.ggff.net&type=ws#hamedp71%3A%3A%E2%9D%93
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#hamedp71%3A%3A%E2%9D%93
+trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=0&sni=ads.x5.ru#hamedp71%3A%3A%E2%9D%93
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.18.16.56:443?path=/222.167.202.31:7443&security=tls&encryption=none&host=2026.hhhhh.eu.org&type=ws&sni=2026.hhhhh.eu.org#hamedp71%3A%3A%E2%9D%93
