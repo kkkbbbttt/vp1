@@ -2,11 +2,12 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
+vless://dd7ab17c-92ca-4403-a4ab-388406f84229@45.145.56.180:1932?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.vk.com&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&path=%2f#hamedp71%3A%3A%E2%9D%93
+vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNDViODM1MTktOWM0Zi00MDUyLWExMWItMDJlMDE3YjYzNmQ0IiwibmV0Ijoid3MiLCJwYXRoIjoiL2Fya2k/ZWQ9MjA0OCIsInBvcnQiOjM2NzAzLCJwcyI6ImhhbWVkcDcxOjrinZMiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.152.23:443?path=/222.167.202.31:7443&security=tls&encryption=none&host=2026.hhhhh.eu.org&type=ws&sni=2026.hhhhh.eu.org#hamedp71%3A%3A%E2%9D%93
-trojan://931d70c1-8644-433a-9e8a-e09e10f5e7f5@yg1.ygkkk.dpdns.org:443?sni=v.vivia.cc.cd&type=ws&path=%2F&host=v.vivia.cc.cd&fp=chrome#hamedp71%3A%3A%E2%9D%93
 vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@nuclear.us.kg:443?security=tls&encryption=none&sni=nuclear.us.kg&type=ws&host=nuclear.us.kg&path=%2ffree%2f1.226.227.169%3a50001#hamedp71%3A%3A%E2%9D%93
-trojan://931d70c1-8644-433a-9e8a-e09e10f5e7f5@cf.090227.xyz:443?sni=v.vivia.cc.cd&type=ws&path=%2F&host=v.vivia.cc.cd&fp=chrome#hamedp71%3A%3A%E2%9D%93
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVVNicjJlTENYbWJjNjR4T0hoZ0V0@167.172.249.115:41195#hamedp71%3A%3A%E2%9D%93
+vless://c5bbdac7-6ff5-4762-87bf-870f55a03581@ge.pink-world.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_wJJxZfV51dD72qGexYZIyqeKDFXWDGClp5D-gF1lVk&security=reality&sid=5bb4c3a77963e3fa&sni=ge.pink-world.ru&type=tcp#hamedp71%3A%3A%E2%9D%93
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.129.164.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#hamedp71%3A%3A%E2%9D%93
+vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiODQ1ZTZiMDgtMjkxOS00MjkwLWFkZTAtNWRjN2RjZWE1OWNhIiwibmV0Ijoid3MiLCJwYXRoIjoiL2Fya2k/ZWQ9MjA0OCIsInBvcnQiOjQ0ODY3LCJwcyI6ImhhbWVkcDcxOjrinZMiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.149.54:443?path=/222.167.202.31:7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&fp=chrome&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#hamedp71%3A%3A%E2%9D%93
-vless://2e8e6709-8af1-45df-a8c8-d1a726e37098@176.97.73.155:443?security=reality&sni=navi.bankrate.com&fp=chrome&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6&type=tcp&headerType=none&host=navi.bankrate.com&path=%2f#hamedp71%3A%3A%E2%9D%93
 vless://7ca6f532-8dea-4399-8074-bab7e465aef8@176.97.73.155:443?security=reality&type=tcp&sni=navi.bankrate.com&fp=chrome&sid=2da72ce6&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc#hamedp71%3A%3A%E2%9D%93
