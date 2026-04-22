@@ -17,7 +17,6 @@ trojan://1774240c00db2b77d5a99f6540c47b69@160.16.72.205:4019?allowInsecure=0&sni
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.152.2:443?allowInsecure=1&alpn=http/1.1&host=sni.111000.dynv6.net&path=/?proxyip=ip.111000.de5.net:443&sni=sni.111000.dynv6.net&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&type=ws&path=%2fassignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.2:443?allowInsecure=1&alpn=http/1.1&host=sni.111000.dynv6.net&path=/?proxyip=ip.111000.de5.net:443&sni=sni.111000.dynv6.net&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://telegram-id-privatevpns@13.39.190.72:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.20:10369?sni=fra35.chasem2026sud.com&path=%2f#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?sni=ads.x5.ru#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@jp2-8sb.6121999.dpdns.org:24534?security=tls&sni=jp2-8sb.6121999.dpdns.org&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
@@ -26,5 +25,6 @@ trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.36.5:443?allowInsecure=1&a
 trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2fassignment&allow_insecure=0#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.146.129:443?allowInsecure=1&alpn=http/1.1&fp=chrome&host=sni.111000.dynv6.net&path=/?proxyip=ip.111000.de5.net:443&sni=sni.111000.dynv6.net&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://humanity@104.18.32.37:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=1&type=ws&path=%2Fassignment#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.121:10369?security=tls&sni=fra33.chasem2026sud.com&path=%2f#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@91.184.250.116:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
 trojan://humanity@104.17.150.76:443?alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
