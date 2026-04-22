@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://0d2030a8-15c0-4cca-9c55-fdc0d74f8d38@lobby.hosted-in.p7d.ir:2095?path=/phpMyAdmin?q=一位處女在孫先生的農場工作。&security=none&encryption=none&host=1cc3799adc7ebeea.de6.node.chat2.fun&type=httpupgrade#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
