@@ -3,6 +3,6 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-vless://26524cce-d514-4014-a426-365fb266a14d@59.30.42.194:12345?security=tls&type=ws&path=%2Fdanfeng&host=snzeys.edge-node-a1.fgfw.qzz.io&alpn=http%2F1.1%0A&sni=snzeys.edge-node-a1.fgfw.qzz.io&fp=chrome#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7Dwn4e3IiwiYWRkIjoia3IwMS5hMGEueHl6IiwicG9ydCI6IjE5NTY4IiwiaWQiOiI2NDE1MDBiZi05MmY5LTQ3MjAtZTJlNy01NzlhOGY3ZGJiMDQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsImZwIjoiY2hyb21lIiwicGF0aCI6Ii9jY3R2MTMubTN1OCIsImhvc3QiOiJrcjAxLmEwYS54eXoifQ
+vless://26524cce-d514-4014-a426-365fb266a14d@14.42.199.13:36398?security=tls&type=ws&path=%2Fdanfeng&host=snzeys.edge-node-a1.fgfw.qzz.io&alpn=http%2F1.1%0A&sni=snzeys.edge-node-a1.fgfw.qzz.io&fp=chrome#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
