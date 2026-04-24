@@ -3,16 +3,11 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-tw-001.fastervpn.world:443?insecure=1&sni=vpn-tw-001.fastervpn.world#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
-hysteria2://A537EA13-778F-4967-953F-EE29617B8E55@jp1.dexlos.com:20039?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=jp1.dexlos.com#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-hysteria2://A537EA13-778F-4967-953F-EE29617B8E55@sg4.dexlos.com:20610?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=sg4.dexlos.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-hysteria2://A537EA13-778F-4967-953F-EE29617B8E55@jp5.dexlos.com:20916?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=jp5.dexlos.com#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-002.fastervpn.world:443?insecure=1&sni=vpn-jp-002.fastervpn.world#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-hysteria2://A537EA13-778F-4967-953F-EE29617B8E55@sg5.dexlos.com:20955?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=sg5.dexlos.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 hysteria2://a50a83bd-1fe8-4dd4-ba55-48f80190f527@152.53.54.139:36002?insecure=1&sni=hk1.zongyunti.site#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-006.fastervpn.world:443?insecure=1&sni=vpn-us-006.fastervpn.world#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-in-001.fastervpn.world:443?insecure=1&sni=vpn-in-001.fastervpn.world#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-004.fastervpn.world:443?insecure=1&sni=vpn-jp-004.fastervpn.world#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-002.fastervpn.world:443?insecure=1&sni=vpn-sg-002.fastervpn.world#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-hysteria2://A537EA13-778F-4967-953F-EE29617B8E55@jp2.dexlos.com:20373?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=jp2.dexlos.com#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-018.fastervpn.world:443?insecure=1&sni=vpn-jp-018.fastervpn.world#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-uk-004.fastervpn.world:443?insecure=1&sni=vpn-uk-004.fastervpn.world#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+hysteria2://hysteria_master_password@72.56.122.195:443/?insecure=1&sni=google.com#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
