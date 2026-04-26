@@ -2,8 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@8.6.112.0:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.36.98.30:2053?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=/?Telegram🇨🇳+@WangCai2=&security=tls&sni=sni.111000.v6.navy&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://bff325a8-db8e-41de-bcd8-96c9d71d1cc1@205.237.107.184:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=yAIZa8Fp4M4KR2WgH4fObtHF-JMTCxDNKNib5yIZVmU&security=reality&sni=to-do.digital&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
@@ -11,10 +9,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.36.98.93:2053?Telegram=@Gozargah
 vless://3fee3b68-d94d-45e7-b5aa-8733c9fa3094@205.237.107.160:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=yAIZa8Fp4M4KR2WgH4fObtHF-JMTCxDNKNib5yIZVmU&security=reality&sni=to-do.digital&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@www.ignitelimit.com:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2fassignment#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.94.77.169:2053?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=/&security=tls&sni=sni.111000.v6.navy&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-fr-001.fastervpn.world:443?insecure=1&sni=vpn-fr-001.fastervpn.world#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@37.59.96.48:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&host=sni.111000.v6.navy&path=/?Telegram🇨🇳+@WangCai2=&security=tls&sni=sni.111000.v6.navy&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2fassignment&allow_insecure=0#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://humanity@www.gossipglove.com:443?security=tls&type=ws&host=www.gossipglove.com&path=%2fassignment#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.249.22:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=/?Telegram🇨🇳+@WangCai2=&security=tls&sni=sni.111000.v6.navy&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://1235d730-707c-4a11-8ce3-ebb17561564b@45.12.133.207:443?security=reality&type=tcp&sni=yahoo.com&fp=chrome&sid=4dd1&pbk=0T96I8dvAUF7BxhbwTp0PfFfy9AHFDsXXpwDnP0i224#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://7a5aed7d-8e71-499c-a6e6-d96a204ac88f@205.237.107.192:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=yAIZa8Fp4M4KR2WgH4fObtHF-JMTCxDNKNib5yIZVmU&security=reality&sni=to-do.digital&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
