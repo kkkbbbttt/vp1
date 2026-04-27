@@ -3,8 +3,6 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vmess://eyJhZGQiOiJhcmlzMy5hcmlzcGluZy1pci5vbmxpbmUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZpLmFyaXNwaW5nLWlyLm9ubGluZSIsImlkIjoiMDhjZWNmZTEtMDUzYi00Y2FjLTgxZTktODM0YjJmNGQ3Y2VhIiwiaW5zZWN1cmUiOiIxIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6ImhhbWVkcDcxOjrwn4er8J+HriIsInNjeSI6ImF1dG8iLCJzbmkiOiJmaS5hcmlzcGluZy1pci5vbmxpbmUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
-vless://b345f1db-e3ac-41c2-b1fa-d7f28d3a49c9@fi.appav.online:2083?security=reality&encryption=none&sni=apple.com&fp=qq&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38&type=grpc&serviceName=UpdateService&path=%2f#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://309fa273-6579-4cb2-9143-7cad50401eba@46.62.128.207:443?flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.165.58.57:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=/?ed=2560&https://t.me/WangCai2🇨🇳#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://f7bae22e-20ab-11f1-835c-0242ac110002@141.98.169.100:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=fi1.cyphervpn.pro&pbk=z_mZq7riCGYKcTsXGCFX3KyhLL5PYgG3ydZ8_wM_ZkU&sid=5bfa0c&spx=/#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
