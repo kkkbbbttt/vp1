@@ -2,7 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-trojan://t5x8f9w2k4m6n1p0@43.160.247.81:443?sni=vpn5.rnmcnm.com&type=ws&path=%2Fws&fp=chrome#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXYXdfZldIZTFOODhLN01vbG55VV9R@172.236.152.96:62443#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://379c51c9-17f2-4970-ad01-e47f59842144@139.180.186.18:51141?security=reality&type=tcp&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&sid=7eaa4e29&pbk=a7n0a8J1lVEjU78xrfJCbGTMs7s_EsZHplIEs6Nu7CI#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.166.237.20:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
