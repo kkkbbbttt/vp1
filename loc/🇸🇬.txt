@@ -2,9 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWQ3MThmY2IyYmIxN2I3@154.26.132.38:27884#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWQ3MThmY2IyYmIxN2I3@154.26.132.38:27882#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.166.237.20:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=/?ed=2560&https://t.me/WangCai2🇨🇳#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vmess://eyJhZGQiOiJjZi4wOTAyMjcueHl6IiwiYWlkIjowLCJob3N0Ijoic2dhbC5kYWdyYXRlLmV1Lm9yZyIsImlkIjoiMjkwY2M2OTEtM2FjNi00Mzg3LTk4YTEtMjVjOGViOGNhMmVhIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjQ0MywicHMiOiJoYW1lZHA3MTo68J+HuPCfh6wiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6InNnYWwuZGFncmF0ZS5ldS5vcmcifQ
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@158.178.242.195:56311?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-hysteria2://748f9f2b-0b3a-4480-87c4-4bdefa909757@sg06.453521.xyz:8080?sni=sg06.453521.xyz#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://6a0e628b-e689-4c00-8a6e-e039ac7db08d@178.128.16.189:443?allowInsecure=1&sni=www.netflix.com&alpn=h2%2Chttp/1.1&fp=chrome&security=tls#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
