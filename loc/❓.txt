@@ -2,10 +2,10 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://75e1fde7-6bf6-48ef-ba43-400e960e185b@45.15.178.124:80?security=none&encryption=none&type=ws&path=%2fvless%2f#hamedp71%3A%3A%E2%9D%93
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?security=none&encryption=none&type=ws&host=de.vpnbase.net&path=%2fhttp#hamedp71%3A%3A%E2%9D%93
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#hamedp71%3A%3A%E2%9D%93
-vless://00000000-0000-4000-8000-000000000000@69.63.218.168:10101?security=tls&type=ws&path=%2F%40Marisa_kristi&host=ji52i2alvx8ntcpgjev.acg.xx.kg&sni=ji52i2alvx8ntcpgjev.acg.xx.kg&fp=chrome#hamedp71%3A%3A%E2%9D%93
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OuKdkyIsImFkZCI6IjgyLjE5OC4yNDYuOTciLCJwb3J0IjoiMTgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiI4Mi4xOTguMjQ2Ljk3IiwidGxzIjoiIn0
-vless://26524cce-d514-4014-a426-365fb266a14d@188.209.141.114:56047?encryption=none&security=tls&sni=snippet.gfw.qzz.io&type=ws&host=snippet.gfw.qzz.io&path=/danfeng#hamedp71%3A%3A%E2%9D%93
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#hamedp71%3A%3A%E2%9D%93
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@61.231.19.71:50099#hamedp71%3A%3A%E2%9D%93
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OuKdkyIsImFkZCI6IjgyLjE5OC4yNDYuOTciLCJwb3J0IjoiMTgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiP2VkPTIwNDgiLCJob3N0IjoiMjAwMTpiYzg6MzJkNzozMDI6OjEwIiwidGxzIjoiIn0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg007117fb8.cybervena.com:50099#hamedp71%3A%3A%E2%9D%93
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.36.55.138:2096?encryption=none&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#hamedp71%3A%3A%E2%9D%93
+vless://6048472f-0993-4ae0-8203-960b9a0f4113@38.54.23.58:443?security=reality&encryption=none&pbk=i7xxqA7h16NpQQAGiQJKxubs-_IRCUUlredSK7swTkw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com#hamedp71%3A%3A%E2%9D%93
+vless://74d3057f-5d2b-4d21-8819-3b387d47c0a4@5.188.224.137:2083?security=reality&type=tcp&sni=ir.ozone.ru&fp=chrome&sid=6da16b1335651b38&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ#hamedp71%3A%3A%E2%9D%93
