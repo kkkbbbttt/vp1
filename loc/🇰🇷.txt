@@ -4,9 +4,8 @@
 
 vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4ew8J+HtyIsImFkZCI6IjE1Mi42Ny4yMTguMzgiLCJwb3J0Ijo0NDMsImlkIjoiYjVlOTQ4MGEtYjdhYS00MGE0LWY5YTctNTI5OWI1ZTM2M2I0IiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiMTUyLjY3LjIxOC4zOCIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0
 vmess://eyJhZGQiOiJjaHVuY2hlb24wMy56Z2pvay5jb20iLCJhaWQiOjAsImhvc3QiOiJjaHVuY2hlb24wMy56Z2pvay5jb20iLCJpZCI6IjgxZDVjYWM0LWQwMzktNDg3NC05YTIwLWMzOTFmNTgwMDEyZCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo0NDMsInBzIjoiaGFtZWRwNzE6OvCfh7Dwn4e3IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7Dwn4e3IiwiYWRkIjoia3IwMi5hMGEueHl6IiwicG9ydCI6IjgwIiwiaWQiOiI1MTU1ODYwZS1kMDdkLTQ2YzMtOTEyOC0zYWZiZDg0NjI2YzciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsImZwIjoiY2hyb21lIiwicGF0aCI6Ii9jY3R2MTMubTN1OCIsImhvc3QiOiJrcjAyLmEwYS54eXoifQ
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 vless://26524cce-d514-4014-a426-365fb266a14d@221.145.251.131:20201?security=tls&type=ws&path=%2Fdanfeng&host=xfxl35a.node-edge.gfw.hidns.co&sni=xfxl35a.node-edge.gfw.hidns.co&fp=chrome#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 vless://26524cce-d514-4014-a426-365fb266a14d@138.2.115.214:587?allowInsecure=0&sni=ynwta9.api-edge.fgfw.qzz.io&type=ws&host=ynwta9.api-edge.fgfw.qzz.io&path=/danfengfp=chrome&security=tls#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@130.162.156.131:14850?encryption=none&security=tls&sni=sni.111000.v6.rocks&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.rocks&path=/?ed=2560&https://t.me/WangCai2🇨🇳#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-vless://26524cce-d514-4014-a426-365fb266a14d@121.158.68.235:20000?security=tls&type=ws&path=%2Fdanfeng&host=xfxl35a.node-edge.gfw.hidns.co&sni=xfxl35a.node-edge.gfw.hidns.co&fp=chrome#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
