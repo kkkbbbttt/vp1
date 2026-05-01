@@ -8,8 +8,7 @@ hy2://123456789StrongPass@144.31.224.14:443?sni=www.cloudflare.com&path=%2f&allo
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-003.fastervpn.world:443?insecure=1&sni=vpn-us-003.fastervpn.world#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-002.fastervpn.world:443?insecure=1&sni=vpn-us-002.fastervpn.world#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-004.fastervpn.world:443?insecure=1&sni=vpn-us-004.fastervpn.world#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-hysteria2://hysteria_master_password@72.56.122.195:443/?insecure=1&sni=google.com#hamedp71%3A%3A%E2%9D%93
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-002.fastervpn.world:443/?insecure=1&sni=vpn-de-002.fastervpn.world#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://hysteria_master_password@72.56.122.195:443/?insecure=1&sni=google.com#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://rstnnl%3A7ltZBmta4ahLenTIoywBy3R1Z1PV7ZGf@nrealistic.nn-foto.ru:8932?insecure=1&obfs=salamander&obfs-password=CvxXZnSth1bVJKGFP2cof4rI52ifHJ2W&sni=nrealistic.nn-foto.ru#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-006.fastervpn.world:443?insecure=1&sni=vpn-us-006.fastervpn.world#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-005.fastervpn.world:443?insecure=1&sni=vpn-us-005.fastervpn.world#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
