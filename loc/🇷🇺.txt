@@ -1,5 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
-
-vless://8ef19221-6d5e-4bce-baa1-7c043eae3309@ru.bundo.su:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=stats.vk-portal.net&fp=chrome&pbk=6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do&sid=3c6fc84d&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
