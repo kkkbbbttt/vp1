@@ -4,3 +4,4 @@
 
 vmess://eyJhZGQiOiIxNTIuNjcuMjE4LjM4IiwiYWlkIjowLCJob3N0IjoiMTUyLjY3LjIxOC4zOCIsImlkIjoiYjVlOTQ4MGEtYjdhYS00MGE0LWY5YTctNTI5OWI1ZTM2M2I0IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjQ0MywicHMiOiJoYW1lZHA3MTo68J+HsPCfh7ciLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@130.162.156.131:14850?encryption=none&security=tls&sni=sni.111000.v6.rocks&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.rocks&path=/?ed=2560&https://t.me/WangCai2🇨🇳#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+vless://26524cce-d514-4014-a426-365fb266a14d@14.55.57.154:37810?&security=tls&sni=xfxl35a.node-edge.gfw.hidns.co&type=ws&headerType=none&host=xfxl35a.node-edge.gfw.hidns.co&path=%2Fdanfeng#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
