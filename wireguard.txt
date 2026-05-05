@@ -1,0 +1,6 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
+
+wireguard://%2BAYnqJYinZIJ6yZwIjmirctmPqzfctf6H2fTqywa%2FXM%3D@162.159.192.2:500?address=172.16.0.2%2F32&presharedkey=&reserved=39%2C4%2C107&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+wireguard://CBMxaub4dG7Q9W91x4%2BlUCqtF9eV1BN%2B4osBfWZNXHs%3D@162.159.195.4:2371?address=172.16.0.2%2F32&presharedkey=&reserved=225%2C17%2C205&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1380#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
