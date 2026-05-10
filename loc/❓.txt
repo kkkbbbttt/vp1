@@ -2,11 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.241.241.33:2053?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#hamedp71%3A%3A%E2%9D%93
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@60.249.21.29:443?allowInsecure=0&sni=gogo3.kmj.qzz.io&type=ws&host=gogo3.kmj.qzz.io&path=/fp=chrome&security=tls#hamedp71%3A%3A%E2%9D%93
-vless://8c4604ef-749c-4b56-adf1-7da405002a21@216.24.57.1:2053?allowInsecure=1&encryption=none&host=qyi.fqjd663.ggff.net&path=%2F&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#hamedp71%3A%3A%E2%9D%93
-trojan://7aXwJPnpAJ@yespaintstudio.rav-kraski.ru:50824?sni=yespaintstudio.rav-kraski.ru&type=tcp&alpn=h2%2Chttp%2F1.1&fp=chrome#hamedp71%3A%3A%E2%9D%93
+trojan://7aXwJPnpAJ@yespaintstudio.rav-kraski.ru:50824?security=tls&sni=yespaintstudio.rav-kraski.ru&path=%2f#hamedp71%3A%3A%E2%9D%93
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.59.142.185:443?allowInsecure=1&encryption=none&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#hamedp71%3A%3A%E2%9D%93
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.149.54:443?path=/222.167.202.31:7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&fp=chrome&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#hamedp71%3A%3A%E2%9D%93
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.18.16.56:443?path=/222.167.202.31:7443&security=tls&encryption=none&host=2026.hhhhh.eu.org&type=ws&sni=2026.hhhhh.eu.org#hamedp71%3A%3A%E2%9D%93
-vless://8c4604ef-749c-4b56-adf1-7da405002a21@8.6.112.0:2053?allowInsecure=1&encryption=none&fp=chrome&host=qyi.fqjd663.ggff.net&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#hamedp71%3A%3A%E2%9D%93
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@36.228.140.86:50099#hamedp71%3A%3A%E2%9D%93
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@60.249.21.29:443?sni=gogo4.kmj.qzz.io&type=ws&host=gogo4.kmj.qzz.io&path=/fp=chrome&security=tls#hamedp71%3A%3A%E2%9D%93
+vless://8c8fb661-7b16-49ef-aabb-dad053397c8d@node9.ourfast.asia:443?security=reality&type=tcp&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=ce9663d764da5fca&pbk=ycOLfiaX4Y8WMKdJE48j-6JN6r9YLoyo6QaxZU8Uw2E#hamedp71%3A%3A%E2%9D%93
