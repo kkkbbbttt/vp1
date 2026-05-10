@@ -4,8 +4,6 @@
 
 vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@212.34.142.191:8443?security=reality&encryption=none&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f7aa9e61197d3ac6#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=1&type=ws&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.69:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@171.22.117.29:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.army&path=/&security=tls&sni=sni.111000.v6.army&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
@@ -18,7 +16,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.199
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.109.69.78:8443?allowInsecure=1&encryption=none&host=sni.111000.dns.army&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.dns.army&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.34.149.232:2053?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.army&path=/?https://t.me/WangCai2🇨🇳=&security=tls&sni=sni.111000.v6.army&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.85.8.177:8443?allowInsecure=1&encryption=none&host=sni.111000.dns.army&security=tls&sni=sni.111000.dns.army&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.34.142.156:8443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.dns.army&path=/?https://t.me/WangCai2🇨🇳=&security=tls&sni=sni.111000.dns.army&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://530eaa91-28a0-46ae-bc63-57384362ba6b@46.149.78.27:17113?encryption=none&fp=&pbk=516wV7sLhUaSh5zqVbgyo-otX3ii13GgHJngRPhbflg&security=reality&sid=fe013b8818613e&sni=vk.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?sni=ads.x5.ru#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
@@ -43,8 +40,8 @@ vless://bafacd98-136a-4530-838d-4e5c51838dac@167.71.65.205:8443?ed=2560&eh=Sec-W
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.8:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.85.20.127:2096?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.army&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.v6.army&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://4fe2b7d6-cdc0-44f3-8093-3a1fc92e8542@95.164.3.121:20089?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.134.21.8:8443?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.134.21.8:8443?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@212.34.142.191:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&security=reality&sid=f7aa9e61197d3ac6&sni=tradingview.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.99:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
@@ -54,7 +51,6 @@ hysteria2://rstnnl%3A7ltZBmta4ahLenTIoywBy3R1Z1PV7ZGf@nrealistic.nn-foto.ru:8932
 vless://bafacd98-136a-4530-838d-4e5c51838dac@146.190.233.213:8443?encryption=none&fp=firefox&host=juzi8186.qea.ccwu.cc&security=tls&sni=juzi8186.qea.ccwu.cc&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.189:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.147.33.251:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.army&path=/?https://t.me/WangCai2🇨🇳=&security=tls&sni=sni.111000.v6.army&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@150.251.147.97:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.army&path=%2F%3Fhttps%253A%252F%252Ft.me%252Fwangcai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.v6.army&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
@@ -66,14 +62,15 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.157
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.143:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.124.203.153:2053?allowInsecure=1&encryption=none&host=sni.111000.dns.army&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.dns.army&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.122:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.146:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://6fd9f786-d974-49d0-b5c4-397678de69a2@193.233.127.219:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&security=reality&sni=www.cybo.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXQzBHYmlDazY3SzhuSERhREhtWUlY@159.223.236.36:19582#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.180.14.212:443?allowInsecure=1&encryption=none&host=sni.111000.dns.army&security=tls&sni=sni.111000.dns.army&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://e2e1ddaa-1acf-4c4c-a211-92284f6440ed@5.255.110.147:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&security=reality&sid=4fa44664f6a566d3&sni=nll.scroogethebest.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.180.14.212:443?allowInsecure=1&encryption=none&host=sni.111000.dns.army&security=tls&sni=sni.111000.dns.army&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.101:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.93.253.207:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/?Telegram🇨🇳+@WangCai2=&security=tls&sni=sni.111000.indevs.in&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@146.185.146.150:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.army&path=/?https://t.me/wangcai2🇨🇳=&security=tls&sni=sni.111000.v6.army&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
@@ -97,8 +94,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.141
 vless://4de9bd4f-8d80-4637-8bdb-9e987c8a79bc@146.103.114.12:59001?encryption=none&fp=&pbk=alN88a4LJdVTW2JRU1jE-LYDAG2LhLEZoMSZRaCWWR4&security=reality&sid=9629&sni=www.m.vk.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.148:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowRURBNndDck1UWFFyZEdOSW94SlNR@78.17.10.145:8443#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.148:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQRE5jckhiR21iNXU3Nk9nOE5hdGpa@185.117.91.27:21836#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
