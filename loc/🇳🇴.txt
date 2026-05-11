@@ -1,5 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
-
-vless://00a31b83-d78a-4866-9124-bf80ab961501@nv02.myxavpn.com:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=nv02.myxavpn.com&fp=chrome&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea&type=tcp&headerType=none&path=%2f#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
