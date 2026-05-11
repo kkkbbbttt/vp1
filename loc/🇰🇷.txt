@@ -16,6 +16,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@218.158.249.174:10002?security=tls&
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@220.118.83.101:60004?security=tls&type=ws&path=%2F&host=sni.111000.v6.army&sni=sni.111000.v6.army&fp=chrome#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@61.77.75.94:10001?security=tls&type=ws&path=%2F&host=sni.111000.v6.army&sni=sni.111000.v6.army&fp=chrome#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@169.211.176.84:26257?security=tls&type=ws&path=%2F&host=sni.111000.v6.army&sni=sni.111000.v6.army&fp=chrome#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@140.238.17.157:443?&security=tls&fp=chrome&sni=sni.111000.v6.rocks&type=ws&headerType=none&host=sni.111000.v6.rocks&path=/?ed=2560&https://t.me/WangCai2🇨🇳#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@59.20.168.60:10035?security=tls&type=ws&path=%2F&host=sni.111000.v6.army&sni=sni.111000.v6.army&fp=chrome#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@118.41.178.65:32412?security=tls&type=ws&path=%2F&host=sni.111000.v6.army&sni=sni.111000.v6.army&fp=chrome#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
