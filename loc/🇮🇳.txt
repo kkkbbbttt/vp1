@@ -2,8 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4eu8J+HsyIsImFkZCI6IjE1Mi42Ny44LjIwNSIsInBvcnQiOjgwLCJpZCI6IjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IjE1Mi42Ny44LjIwNSIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0
-vless://528bf7f6-2a4f-4701-a1a7-d91f7980e6d5@pq-india1.09vpn.com:80?security=none&encryption=none&type=ws&path=%2fvless%2f#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
-vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4eu8J+HsyIsImFkZCI6IjE3Mi4yMzIuMTAzLjE4NiIsInBvcnQiOjIyMzI0LCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6ImNocm9tZSJ9
-vless://5a54a377-a9d3-4ea5-b7b0-17bd899e202d@45.89.105.56:80?security=none&encryption=none&type=ws&path=%2fvless%2f#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VGhEMUFnd1hjOFN0cHA3aEVvaExh@139.59.87.22:16970#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
+vless://05b544a4-d479-4ba4-8208-950bd4411453@45.89.105.56:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
