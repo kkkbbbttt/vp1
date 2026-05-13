@@ -2,7 +2,16 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@222.97.71.115:28017?security=tls&type=ws&path=%2F&host=sni.111000.v6.army&sni=sni.111000.v6.army&fp=chrome#hamedp71%3A%3A%E2%9D%93
-vless://b4819c49-6c7e-4b57-9b9b-c73031e1de11@pq-albania1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#hamedp71%3A%3A%E2%9D%93
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@141.193.213.11:2053?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=qyi.fqjd663.ggff.net&path=/&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#hamedp71%3A%3A%E2%9D%93
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.23.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#hamedp71%3A%3A%E2%9D%93
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OuKdkyIsImFkZCI6IjgyLjE5OC4yNDYuMjMzIiwicG9ydCI6IjE4MCIsInR5cGUiOiJub25lIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoieWVzcGFpbnRzdHVkaW8ucmF2LWtyYXNraS5ydSIsInRscyI6IiJ9
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.20:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#hamedp71%3A%3A%E2%9D%93
+trojan://bpb-trojan@vless.herogoing.top:443?security=tls&sni=vless.herogoing.top&type=ws&host=vless.herogoing.top&path=%2ftr%3fed%3d2560#hamedp71%3A%3A%E2%9D%93
+vless://360f1d71-f8dd-4c71-aa4f-347486312dca@hk.chinablog.xyz:8080?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=bXstTdAgEyOn8LEMM_K2gIOw7T2iKhr6l-lXcrF4PlM&sni=www.liblib.art#hamedp71%3A%3A%E2%9D%93
+vless://fff50a2f-987b-43c1-97bf-39177f1ce1a0@fr-race.connfull.org:443?type=ws&encryption=none&security=tls&path=/cdn-cgi/ws#hamedp71%3A%3A%E2%9D%93
 trojan://7aXwJPnpAJ@yespaintstudio.rav-kraski.ru:50824?security=tls&sni=yespaintstudio.rav-kraski.ru&path=%2f#hamedp71%3A%3A%E2%9D%93
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.2.64.229:443?security=tls&type=ws&path=%2F&host=sni.111000.v6.army&sni=sni.111000.v6.army&fp=chrome#hamedp71%3A%3A%E2%9D%93
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.149.54:443?path=/222.167.202.31:7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&fp=chrome&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#hamedp71%3A%3A%E2%9D%93
+vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@2.56.172.83:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#hamedp71%3A%3A%E2%9D%93
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.20.6.134:443?path=/222.167.202.31:7443&security=tls&encryption=none&host=2026.hhhhh.eu.org&type=ws&sni=2026.hhhhh.eu.org#hamedp71%3A%3A%E2%9D%93
+ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw==@chengbai02.ascwt179.com:13223#hamedp71%3A%3A%E2%9D%93
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@60.249.21.29:443?sni=gogo4.kmj.qzz.io&type=ws&host=gogo4.kmj.qzz.io&path=/fp=chrome&security=tls#hamedp71%3A%3A%E2%9D%93
