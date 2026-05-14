@@ -4,5 +4,6 @@
 
 vmess://eyJhZGQiOiJjaHVuY2hlb24wMy56Z2pvay5jb20iLCJhaWQiOjAsImhvc3QiOiJjaHVuY2hlb24wMy56Z2pvay5jb20iLCJpZCI6IjgxZDVjYWM0LWQwMzktNDg3NC05YTIwLWMzOTFmNTgwMDEyZCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo0NDMsInBzIjoiaGFtZWRwNzE6OvCfh7Dwn4e3IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@140.238.17.157:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=/?ed=2560&https://t.me/WangCai2🇨🇳#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@61.111.247.233:34045?security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0&host=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&path=%2f#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
