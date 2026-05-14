@@ -2,6 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.28.49.84:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.dns.army&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.dns.army&type=ws#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://e387b1c6-c344-Fade-b068-094f5b92aa23@195.209.88.216:443?encryption=none&type=ws&security=tls&path=%2F&host=s28233.cdn.ngenix.net&sni=s28233.cdn.ngenix.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.128.32.98:443?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
