@@ -2,12 +2,11 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=1&type=ws&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@212.34.142.191:8443?security=reality&encryption=none&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f7aa9e61197d3ac6#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=1&type=ws&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.69:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://7bd29cac-f692-48a3-88d1-505f7e55f0d0@88.218.94.10:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.56.3.178:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.rocks&path=/?https://t.me/WangCai2🇨🇳=&security=tls&sni=sni.111000.v6.rocks&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXQzBHYmlDazY3SzhuSERhREhtWUlY@159.223.236.36:19582#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@nlyttls.keepsecurevpn.com:443?alpn=http%2F1.1%2Ch2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=nlyttls.keepsecurevpn.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
@@ -22,10 +21,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.65.79.122:2053?allowInsecure=1&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.29:23576?security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.227:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.148:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.217:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.99:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.140.147.139:443?encryption=none&fp=chrome&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vmess://eyJhZGQiOiI0NS45MC4xMDYuMjQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwiaW5zZWN1cmUiOiIxIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjM0IiwicHMiOiJoYW1lZHA3MTo68J+Hs/Cfh7EiLCJzY3kiOiJhZXMtMTI4LWdjbSIsInNuaSI6InN1cGVydnBuLnN1cGVyLmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ
@@ -37,7 +34,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.42.110.120:8443?allowInsecure=1
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top&type=tcp#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.144.154.195:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.army&path=/?https://t.me/youtube@ZYFXS🇨🇳=&security=tls&sni=sni.111000.v6.army&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://humanity@8.6.112.0:443?path=/assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@n3th3ryt.gxcore.net:443?encryption=none&fp=&pbk=KzSy2i45DrsFOfXXQ7ConynwqKOaH70pvpoMR4joMWU&security=reality&serviceName=grpc&sid=d45feecd265c116d&sni=n3th3ryt.gxcore.net&type=grpc#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
@@ -57,13 +53,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.89:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://a8da758c-510d-4827-83cf-2f2b51c49c5b@download.lastilhame.monster:443?security=reality&encryption=none&pbk=WOPZy8oOnvHN21pLYobZAGa7sVp7op3q575B5BaFxkU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.techradar.com&sid=faa900664bad#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.146:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.217:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://bfc78cd8-5951-4803-8d6c-4cedef8cd420@95.164.85.109:59374/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=ZsswZuBV8bEGQWFrpShCilSytnDUj0kwHFhTSLXzOwc&sid=d21e7c#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.89:443#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
