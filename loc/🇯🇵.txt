@@ -2,6 +2,10 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.216.5.125:2096?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+vless://00000000-0000-4000-8000-000000000000@142.248.151.249:39085?security=tls&type=ws&path=%2F%40Marisa_kristifp%3Dchrome&host=rvbtoc55o588ipfx2qieoygyk0hur.saghv.filegear-sg.me&sni=rvbtoc55o588ipfx2qieoygyk0hur.saghv.filegear-sg.me&fp=chrome#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://79b78774-0ccd-4792-aa2d-189887dd987f@tokyo1.ap221.com:443?sni=tokyo.ap221.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+vless://00000000-0000-4000-8000-000000000000@45.149.156.40:28480?security=tls&type=ws&path=%2F%40Marisa_kristifp%3Dchrome&host=guslef2w8oz12wv.ymj.xx.kg&sni=guslef2w8oz12wv.ymj.xx.kg&fp=chrome#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+vless://00000000-0000-4000-8000-000000000000@142.248.151.249:17512?security=tls&type=ws&path=%2F%40Marisa_kristi&host=qi4rysu2u-e8j2zzhk.bsld.de5.net&sni=qi4rysu2u-e8j2zzhk.bsld.de5.net&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
