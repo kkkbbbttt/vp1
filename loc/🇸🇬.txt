@@ -2,11 +2,9 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg==@194.233.94.119:80#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://00000000-0000-4000-8000-000000000000@185.126.80.34:33619?security=tls&type=ws&path=%2F%40Marisa_kristifp%3Dchrome&host=49ax00d7kmg3ijp3vbkua090bws.majusti.dpdns.org&sni=49ax00d7kmg3ijp3vbkua090bws.majusti.dpdns.org&fp=chrome#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://00000000-0000-4000-8000-000000000000@138.2.95.208:59103?security=tls&type=ws&path=%2F%40Marisa_kristifp%3Dchrome&host=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&sni=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&fp=chrome#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplTFBsSVZ1Ulo2VUp5YXBWRGVUKytsN2ZZQzB1b3dYSkZsYjlxaG50QWQ0PQ==@154.18.239.126:37425#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-ss://YWVzLTI1Ni1nY206cUt2Zlg3eVFuVDk5T011Mw==@194.233.75.190:80#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4e48J+HrCIsImFkZCI6IjE0OS44OC4yMy4yMDciLCJwb3J0IjoxODAwMCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ
+vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@50.114.55.14:10001?security=reality&type=tcp&sni=www.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=2afe4310&pbk=7qP6YKWx5CJXia1qjQoIcD7FRjUBbioaioioI729D34#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.89.142.56:990#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@157.245.200.76:443?security=tls&type=ws&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&host=sni.111000.dynv6.net&sni=sni.111000.dynv6.net&fp=chrome#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@95.173.218.203:990#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://2219a1b1-9290-4ac5-94fd-6cfc1fb25280@sgvless.yydzx.xyz:16056?security=tls&type=tcp&sni=sgvless.yydzx.xyz&fp=chrome&flow=xtls-rprx-vision-udp443#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://00000000-0000-4000-8000-000000000000@157.245.159.88:74?security=tls&type=ws&path=%2F%40Marisa_kristi&host=nisav2de2t0ai8p-hd0.misa.cc.cd&sni=nisav2de2t0ai8p-hd0.misa.cc.cd&fp=chrome#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4e48J+HrCIsImFkZCI6IjE0OS44OC4yMy4yMDIiLCJwb3J0IjoxODAwMCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ
