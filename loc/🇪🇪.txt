@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@150.241.101.128:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.google.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 vless://ebe186c0-1006-4b07-8a84-45deaf0bda23@150.241.74.150:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=vB4lhwE3aZhB3vzphogmjJv1VYNedlCTgd5c1Bka_F0&security=reality&sid=4a43ca&sni=addons.mozilla.org&type=tcp#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA

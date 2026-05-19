@@ -3,14 +3,12 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.177.176:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.55:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.rocks&path=/?https://t.me/WangCai2🇨🇳=&security=tls&sni=sni.111000.v6.rocks&type=ws#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWjg3YW1QcGRHN0t1V002MmJLdG0xS0hvb3d1VmpuVjhDS3RxNjUzeW1IY2cyZFBZY1BKZm5hUTYxc3R1QWpyMlppTERhcUg1Nlhwa3hFWXV3RHp6UnJNV2llZWJXR3Q=@185.5.38.111:55988#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 trojan://mJVGfrOkZGnMywJD2uwmuXgOQ@hl-freedom-2.undef.network:443?security=tls&type=ws&host=hl-freedom-2.undef.network&path=%2ff2fc2a1f#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.180.80:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vmess://eyJhZGQiOiI2Ni4xNjMuMTE3LjU4IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIyMzI0IiwicHMiOiJoYW1lZHA3MTo68J+HrPCfh6ciLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppZE12b2V3clN5TEx2RXZQMDNrOXpS@138.68.153.223:46576#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vmess://eyJhZGQiOiJmc2RuczEuZWN0dW5uZWx2cG4ubWUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZzZG5zMS5lY3R1bm5lbHZwbi5tZSIsImlkIjoiNmIyZDg2ZTUtZGYwNS00NTExLWE3OWYtODJkNTNjZTk5YjM2IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJoYW1lZHA3MTo68J+HrPCfh6ciLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0
 vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721/?type=tcp&encryption=none&flow=&sni=yahoo.com&security=reality&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&sid=df8611c07d#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
