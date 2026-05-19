@@ -4,4 +4,3 @@
 
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@160.187.100.109:443?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
 hysteria2://2545ab46-6306-4f2b-badd-5531f384d55f@185.228.139.247:4433?insecure=1&sni=de2.xiaoliyu.cyou#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-hysteria2://b02b9065-defa-495a-bef1-cd55c67dbdf6@tw.sevenka.top:20183?insecure=1&sni=tw.sevenka.top#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
