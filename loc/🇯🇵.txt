@@ -5,5 +5,6 @@
 vless://79b78774-0ccd-4792-aa2d-189887dd987f@tokyo1.ap221.com:443?sni=tokyo.ap221.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 hysteria2://strong-secret-pass-777@45.12.134.57:444?insecure=1&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&sni=www.microsoft.com#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://73bcd72f-9545-4cb8-8daf-7d004501880d@210.156.180.102:16090?security=tls&type=ws&path=%2F&host=dcsrzh.ccwu.cc&allowInsecure=1&sni=dcsrzh.ccwu.cc&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+vless://00000000-0000-4000-8000-000000000000@142.248.150.69:30000?security=tls&type=ws&path=%2F%40Marisa_kristifp%3Dchromefp%3Dchrome&host=rolaqoubhqt.bpd67081tsq.ddns-ip.net&sni=rolaqoubhqt.bpd67081tsq.ddns-ip.net&fp=chrome#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@103.106.228.175:8009#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://03491a57-f071-4c0c-84f2-f4ec9062ede1@tokyo1.ap221.com:443?sni=tokyo.ap221.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
