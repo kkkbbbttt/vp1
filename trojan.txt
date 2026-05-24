@@ -18,7 +18,7 @@ trojan://7aXwJPnpAJ@150.241.65.18:50824?sni=yespaintstudio.rav-kraski.ru&path=%2
 trojan://strong-secret-pass-777@45.12.146.179:4443?allowInsecure=1&fp=chrome#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 trojan://humanity@www.ignitelimit.com:443?sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2fassignment#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.146.129:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&sni=sni.111000.dynv6.net&type=ws#hamedp71%3A%3A%E2%9D%93
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.36.20:443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&sni=sni.111000.dynv6.net&type=ws#hamedp71%3A%3A%E2%9D%93
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.36.20:443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&sni=sni.111000.dynv6.net&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@bestcf.030101.xyz:443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&sni=sni.111000.dynv6.net&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&alpn=h2%252Chttp%252F1.1&fp=chrome&type=ws&path=%2fassignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://GKHWMe2R4qwNcNxu6l3KMkdd@219.103.68.164:20770?sni=vpn1.rnmcnm.com&type=ws&path=%2Ftrj-ws&host=vpn1.rnmcnm.com&fp=chrome#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
@@ -28,4 +28,3 @@ trojan://humanity@172.66.44.211:443?path=%2Fassignment&security=tls&insecure=0&h
 trojan://humanity@104.17.150.76:443?alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@www.multiplydose.com:443?security=tls&type=ws&path=%2fassignment&allow_insecure=0#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://strong-secret-pass-777@45.12.134.57:4443?allowInsecure=1#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-trojan://I0shjZ@test.xiaoliebao.club:443?sni=test.xiaoliebao.club&allowInsecure=1&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
