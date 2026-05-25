@@ -3,14 +3,13 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
 trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 hysteria2://65bc8227-48db-4993-9e9d-68394de672a1@45.92.218.150:443?sni=holz3.api3-max.ru#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 hysteria2://65bc8227-48db-4993-9e9d-68394de672a1@45.92.218.150:443/?sni=holz3.api3-max.ru#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@sourceforge.net:443?type=ws&host=www.calmloud.com&path=/assignment&security=tls&fp=chrome&sni=www.calmloud.com&alpn=http/1.1#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.94.77.169:2053?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F&security=tls&sni=sni.111000.v6.navy&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 hysteria2://65bc8227-48db-4993-9e9d-68394de672a1@45.92.218.132:443/?sni=holz6.api3-max.ru#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 hysteria2://65bc8227-48db-4993-9e9d-68394de672a1@45.92.218.132:443?sni=holz6.api3-max.ru#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://humanity@104.20.42.250:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://5454343b-541b-4c96-8c2a-52e81079d124@51.44.16.107:31413?encryption=none&flow=xtls-rprx-vision&fp=&pbk=nMlxwhP34_5wFPscbso_hOfRDmsj9DonMpDSXUrnJR8&security=reality&sid=ead3d6f82a9d&sni=yahoo.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@37.59.96.48:443?encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@www.ignitelimit.com:443?allowInsecure=1&path=%2Fassignment&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://humanity@www.gossipglove.com:443?allowInsecure=1&path=%2Fassignment&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
