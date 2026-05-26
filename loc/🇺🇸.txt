@@ -2,33 +2,27 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7rwn4e4IiwiYWRkIjoiODIuMTk4LjI0Ni45IiwicG9ydCI6IjE4MCIsInR5cGUiOiJub25lIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiYWRzLng1LnJ1IiwidGxzIjoiIn0
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7rwn4e4IiwiYWRkIjoiODIuMTk4LjI0Ni4yMzMiLCJwb3J0IjoiMTgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJqcDItOHNiLjYxMjE5OTkuZHBkbnMub3JnIiwidGxzIjoiIn0
 vless://6245c3d6-348f-44a4-f18b-9d13168a3425@38.207.190.137:50513?security=reality&type=tcp&sni=ts3.tc.mm.bing.net&fp=firefox&flow=xtls-rprx-vision&sid=79394c306dd3&pbk=BL4bEP5My8N4j8hOkg-lI-JVrFou4eC7nSzD6Gk19DU&encryption=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://6245c3d6-348f-44a4-f18b-9d13168a3425@38.207.190.137:57623?security=reality&type=tcp&sni=ts3.tc.mm.bing.net&fp=firefox&flow=xtls-rprx-vision&sid=a0ed5ba7&pbk=BL4bEP5My8N4j8hOkg-lI-JVrFou4eC7nSzD6Gk19DU&encryption=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.44:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.navy&path=/?Telegram🇨🇳+@WangCai2=&security=tls&sni=sni.111000.v6.navy&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@8.6.112.0:80?path=/+@ProxyVPN11&security=&encryption=none&host=vip.yaml7.ggff.net&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@172.64.229.181:2087?encryption=none&fp=chrome&host=pagescm.freen10.de5.net&path=/comic&security=tls&sni=pagescm.freen10.de5.net&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4e68J+HuCIsImFkZCI6Ijg0LjE3LjQxLjIiLCJwb3J0IjoxODAwMCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.21.61.73:80?security=none&type=ws&path=%2F&host=vip.yaml7.ggff.net&fp=chrome#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7rwn4e4IiwiYWRkIjoiMTY1LjE0MC4yMTYuMTQxIiwicG9ydCI6IjQ0MyIsImlkIjoiZTdkNzJhOGQtMjZmMi00YjU0LWIzNjYtMGM0M2UwYmNiYTdkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNSJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpncWtVQ3ZtZU9UZ2hZSlhGMVlJdWs1@71.19.148.74:443#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7rwn4e4IiwiYWRkIjoiMTY1LjE0MC4yMTYuMTQxIiwicG9ydCI6NDQzLCJpZCI6ImU3ZDcyYThkLTI2ZjItNGI1NC1iMzY2LTBjNDNlMGJjYmE3ZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsIm5hbWUiOiIifQ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpncWtVQ3ZtZU9UZ2hZSlhGMVlJdWs1@71.19.148.74:443#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVU@71.19.148.74:443#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHeVo1WG8waHQ0MXZZbVczSDQ=@149.28.255.6:816#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4e68J+HuCIsImFkZCI6IjgyLjE5OC4yNDYuMjMzIiwicG9ydCI6MTgwLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9
 vless://10e82fcc-94ec-4d09-8855-579bb55b77e4@31.58.50.195:8443?security=reality&type=grpc&mode=gun&serviceName=xyz&sni=eh.vk.com&fp=chrome&sid=6ba85179e30d4fc2&pbk=NDe_UBPG-k6TqnheVYUxNxlXtmgy975eDsdqK35sJhA&encryption=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.214:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4e68J+HuCIsImFkZCI6InVzYWFwcDEuamlzdXl1bi50b3AiLCJwb3J0IjoyMDUzLCJpZCI6IjRiODBhYTg2LTQzNTQtNDBiYi1kMmEzLTQ3MTI2Y2ZmMGJlYSIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6InVzYWFwcDEuamlzdXl1bi50b3AiLCJhbHBuIjpudWxsLCJwYXRoIjoiL3VzYXZtIiwidGxzIjoidGxzIiwic25pIjoidXNhYXBwMS5qaXN1eXVuLnRvcCIsImZwIjpudWxsfQ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoazFTZHlSV2JZaTNJZ3hlb3c5SmRO@142.93.73.182:45389#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4e68J+HuCIsImFkZCI6InVzYWFwcDIuamlzdXl1bi50b3AiLCJwb3J0IjoyMDUzLCJpZCI6Ijk1ZGQ0NWZiLThlMzYtNGZmMi1mYTllLTI0YjY4YTM0ZjNjZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoidXNhYXBwMi5qaXN1eXVuLnRvcCIsImFscG4iOm51bGwsInBhdGgiOiIvdXNhdm0iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ1c2FhcHAyLmppc3V5dW4udG9wIiwiZnAiOm51bGx9
 vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4e68J+HuCIsImFkZCI6IjE3Mi4yMzYuMjQ0LjE3MSIsInBvcnQiOjIwNTMsImlkIjoiNGI4MGFhODYtNDM1NC00MGJiLWQyYTMtNDcxMjZjZmYwYmVhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvdXNhdm0iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ1c2FhcHAxLmppc3V5dW4udG9wIiwiZnAiOm51bGx9
 vless://e258977b-e413-4718-a3af-02d75492c349@172.64.47.168:2096?security=tls&type=ws&path=%2F%2F&host=jp.aniua.qzz.io&sni=jp.aniua.qzz.io&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.138:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.26.1.83:443?security=tls&type=ws&path=%2Fshop%2Fprograms%2Fpicturefp%3Dchrome&host=pagescm.freen10.cc.cd&sni=pagescm.freen10.cc.cd&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.18.189.153:443?path=%2Fpdf%2Fservicesfp%3Dchrome&security=tls&encryption=none&insecure=0&host=pagescm.freen3.cc.cd&type=ws&allowInsecure=0&sni=pagescm.freen3.cc.cd#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsInBvcnQiOiI4NDQzIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiIiwicGF0aCI6Ii9sTW5zWlVONC8iLCJ0bHMiOiJ0bHMiLCJhbHBuIjoiIiwiZnAiOiIiLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiIsInBzIjoiaGFtZWRwNzE6OvCfh7rwn4e4In0
@@ -45,7 +39,5 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#hamedp71%3A%3A%F0%9F%87%
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@www.csgo.com:8443?encryption=none&fp=chrome&host=pagescm.freen26.cc.cd&path=%2Ftorrent%2Fsection&security=tls&sni=pagescm.freen26.cc.cd&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.208.191:443?encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://bpb-trojan@vless.herogoing.top:443?sni=vless.herogoing.top&type=ws&host=vless.herogoing.top&path=%2ftr%3fed%3d2560#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://2238e2f3-1a01-485e-8c22-24b65764c68b@172.64.152.23:443?sni=gzjx.dpdns.org&type=ws&path=%2F51.91.253.83%3D8443&fp=chrome#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
