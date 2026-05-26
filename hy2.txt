@@ -2,10 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-hysteria2://fe9b17e8-41e1-4d1b-b588-93a23665724f@37.114.49.38:2056/?insecure=1&sni=flkf.mangshe.xyz#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zf.9966690.xyz:60010?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NTdiNA%3D%3D&sni=zf.9966690.xyz#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zf.9966690.xyz:60009?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NTdiNA%3D%3D&sni=zf.9966690.xyz#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zf.9966690.xyz:60006?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NTdiNA%3D%3D&sni=zf.9966690.xyz#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-hysteria2://fe9b17e8-41e1-4d1b-b588-93a23665724f@5.39.254.225:2056/?insecure=1&sni=ld1.mangshe.xyz#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-hysteria2://fe9b17e8-41e1-4d1b-b588-93a23665724f@5.39.254.225:2056?insecure=1&sni=ld1.mangshe.xyz#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-hysteria2://fe9b17e8-41e1-4d1b-b588-93a23665724f@84.200.33.151:2056/?insecure=1&sni=nlb1.mangshe.xyz#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=vpn-tw-002.fastervpn.world#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
+hysteria2://github.com/Alvin9999-newpac/fanqiang@178.18.147.66:29900/?insecure=1&sni=www.microsoft.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
