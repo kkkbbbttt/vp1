@@ -2,4 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=vpn-tw-002.fastervpn.world#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
+hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zf.9966690.xyz:60044?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk42TU23T365A%3D%3D&sni=zf.9966690.xyz#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zfusp.9966690.xyz:60044?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk42TU23T365A%3D%3D&sni=zfusp.9966690.xyz#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://de72b066a61a39af@204.12.170.168:443/?insecure=1&obfs=salamander&obfs-password=726c9c641a068d74&sni=claude.ai#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zf.9966690.xyz:60016?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk42TU23T365A%3D%3D&sni=zf.9966690.xyz#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zfusp.9966690.xyz:60019?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk42TU23T365A%3D%3D&sni=zfusp.9966690.xyz#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
