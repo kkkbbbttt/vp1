@@ -2,7 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-hysteria2://aecd8c25-fd16-42a3-aefb-89c89557828f@jp03.769970.xyz:60000?insecure=1&obfs=salamander&obfs-password=ZTBjNDA0YTVhNTFkMzFlOQ%3D%3D&sni=jp03.769970.xyz#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@103.106.228.175:8009#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zf.9966690.xyz:60016?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk42TU23T365A%3D%3D&sni=zf.9966690.xyz#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://a12b0d31-f599-498e-b76e-8558a14b766b@47.79.144.103:25242?encryption=none&type=ws&path=/a12b0d31#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
@@ -13,3 +12,4 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?allowInsecure=
 vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4ev8J+HtSIsImFkZCI6IjE0MC44My41MS4xNjEiLCJwb3J0IjoyNTY4NiwiaWQiOiI2NzMzYzM1Ny1iYTExLTRlOWYtZjAwZi03ZDg3ZjI3NzZmZjkiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJqcDAyLmEwYS54eXoiLCJhbHBuIjpudWxsLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwidGxzIjpudWxsLCJzbmkiOm51bGwsImZwIjpudWxsfQ
 vless://ebd8539d-e249-4a39-8f90-e8585e8cc35e@116.80.44.144:27724?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.co.jp&fp=chrome&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+vless://00000000-0000-4000-8000-000000000000@210.152.246.146:49397?security=tls&type=ws&path=%2F%40Marisa_kristifp%3Dchrome&host=49ax00d7kmg3ijp3vbkua090bws.majusti.dpdns.org&sni=49ax00d7kmg3ijp3vbkua090bws.majusti.dpdns.org&fp=chrome#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
