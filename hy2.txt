@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-hysteria2://BMmGlfFVF7@speedtest.mozit.site:46425/?insecure=1&obfs=salamander&obfs-password=welovegod&sni=mci.ir#hamedp71%3A%3A%E2%9D%93
+hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@usp-hdl9n8ovau.9966690.xyz:50000?insecure=1&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&sni=usp-hdl9n8ovau.9966690.xyz#hamedp71%3A%3A%E2%9D%93
