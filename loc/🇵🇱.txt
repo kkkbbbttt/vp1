@@ -3,8 +3,8 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
 vless://b95dd8e5-2758-408f-be99-9362eecee609@pl.fantoff.online:443?security=reality&encryption=none&pbk=BoWKSM1aSfcTRgKX_kZYPlauG0jLIqku3zPBAiHpUgs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=5ea7e22e889dabc5#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&alpn=h2%2chttp%2f1.1&fp=chrome&type=ws&path=%2fassignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?fp=chrome#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://1b43419a-b711-40d4-a0ee-eb5c73e60c92@pl.prostosetup.org:443?security=reality&encryption=none&pbk=ps7eCLLKAqgSGPFRQl1-R1PhzUeO1Z1EwNl02Ac63UA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.prostosetup.org&sid=514d02a2addd6476#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.70:50401?path=/&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://1b43419a-b711-40d4-a0ee-eb5c73e60c92@94.103.0.230:443?security=reality&type=tcp&sni=pl.prostosetup.org&fp=chrome&flow=xtls-rprx-vision&sid=514d02a2addd6476&pbk=ps7eCLLKAqgSGPFRQl1-R1PhzUeO1Z1EwNl02Ac63UA#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@104.17.121.71:443?type=ws&security=tls&path=%2Fassignment&host=www.creationlong.org&sni=www.creationlong.org&alpn=http%2F1.1&fp=chrome&allowInsecure=0#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
