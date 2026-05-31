@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@usp-hdl9n8ovau.9966690.xyz:50000?insecure=1&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&sni=usp-hdl9n8ovau.9966690.xyz#hamedp71%3A%3A%E2%9D%93
+trojan://lTs6OZOMoqYAkDEbK10t-tE8KMjuREBW3m@130.94.104.210:443?security=tls&sni=www.cdn-structure.click&fp=chrome&type=tcp&headerType=none&path=%2f#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%B1
