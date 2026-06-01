@@ -4,7 +4,7 @@
 
 trojan://humanity@43.169.18.179:443?security=tls&sni=www.creationlong.org&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=/assignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&host=www.creationlong.org&fp=chrome&type=ws&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://b95dd8e5-2758-408f-be99-9362eecee609@pl.fantoff.online:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BoWKSM1aSfcTRgKX_kZYPlauG0jLIqku3zPBAiHpUgs&security=reality&sid=5ea7e22e889dabc5&sni=yahoo.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://f1943aaf-4907-42fd-b26c-4cbc9f98c7fa@wp14.virgool.best:55014?security=reality&encryption=none&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&headerType=none&fp=chrome&type=tcp&sni=www.digikala.com&sid=c385#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://fb9e4c3a-936f-44c7-ac89-d5d422690fcf@77.239.114.176:19105?security=reality&encryption=none&pbk=IS6TNMONlIVvcUBvo2RXQvx2Jopcv4wzPyZhxPhWqT8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=e6#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?Telegram=@kurdconfig&type=grpc&security=reality&fp=chrome&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87&sni=5post-gate.x5.ru#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@104.17.121.71:443?security=tls&type=ws&sni=www.creationlong.org&path=/assignment&host=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?fp=chrome#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
