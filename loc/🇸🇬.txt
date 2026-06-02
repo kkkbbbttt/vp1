@@ -8,6 +8,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7jwn4esIiwiYWRkIjoiZ3RtLXNnLWNjNTRx
 ss://YWVzLTEyOC1nY206SlZTdXVpYjR5ZHZZOG03dTZqRWxUWWJlUk84eWdKNEhpOElxNzMzQnFBa0Y=@168.138.175.92:9888#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?security=tls&sni=yazhou10.dynu.net&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://a6dd0cc9-eeb0-4226-9623-b3fc6e1b0b98@172.237.90.117:14573?security=none&type=ws&path=/FREE By Tharuwa (0767597317)&host=m.zoom.us#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://gcuCpQfaiVeDBdWG@211.76.176.98:19128?security=tls&sni=yazhou10.dynu.net&type=tcp&headerType=none&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://4b79c2ed-528b-45e4-8997-e5d9de81e8e2@18.143.177.226:22472?security=reality&type=tcp&sni=www.sony.com&fp=chrome&flow=xtls-rprx-vision&sid=45cb8dfc393d9191&pbk=DEvHMT3zhxUxnuqJxq88Z_8413kiseb7YtzU719D4kg&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://0ddc1b7c-ce23-4a30-8ede-8a9e19f02fb7@vsgch.mostserv.xyz:443?security=reality&type=tcp&sni=vsgch.mostserv.xyz&fp=chrome&flow=xtls-rprx-vision&sid=226509f017e4c36d&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplTFBsSVZ1Ulo2VUp5YXBWRGVUKytsN2ZZQzB1b3dYSkZsYjlxaG50QWQ0PQ==@154.18.239.126:37425#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
