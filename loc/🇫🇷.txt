@@ -3,6 +3,8 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
 vless://a8f7bfbc-4bb8-4f10-ac8f-93e0ce4cc46a@147.90.14.161:8443?security=reality&encryption=none&pbk=TxeJaR7AeMcpnSi8A45lOSc8xMSFlYu6x7mHjeQMQWU&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=4adcbc3df6cdd138#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://5e8ee155-0962-4307-98f2-b65f6bbbd5bb@213.108.2.130:443?security=reality&encryption=none&pbk=c9eCHF41FReFLIdarpg8M5edw4_E133EJBzrvYS02Ck&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=cd9a5f0edff48da4#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://bb2b0112-577f-4862-886a-3c2ee004ca23@185.212.117.34:443?security=reality&encryption=none&pbk=FurqA-2jJHS4vNj92Ya5i2ZTxf0sWSjUTaz5Y_KMBgk&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.scaleway.com&sid=57cc65bfd5ef7465#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://d78c12c4-6927-40b8-8550-ed9be00334da@217.179.6.84:443?security=reality&encryption=none&pbk=UJSYKOEr3a3V1P_obd9zNBq4Pr3Vbd_a2nHE7-rstRk&headerType=&type=tcp&flow=xtls-rprx-vision&sni=France1cxc.chickenkiller.com&sid=6089640857a72237#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vmess://eyJhZGQiOiJub2RlLWZyLmNvbm5lY3RzdWl0ZS5vcmciLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiIyZjQyMzRmOS04ZjMzLTRjN2YtOTUyZi01NjVmZmE1ZjVmYjciLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIwNTMiLCJwcyI6ImhhbWVkcDcxOjrwn4er8J+HtyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
@@ -10,14 +12,21 @@ trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?fp=chrome&sni=www.w
 trojan://humanity@www.calmlunch.com:443?allowInsecure=1&fp=chrome&host=www.calmlunch.com&path=/assignment&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@83.243.86.118:10443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&security=reality&sni=www.cloudflare.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.calmlunch.com&fp=chrome&type=ws&sni=www.calmlunch.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@141.193.213.11:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@104.17.121.9:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://d78c12c4-6927-40b8-8550-ed9be00334da@217.179.6.84:443?security=reality&encryption=none&pbk=UJSYKOEr3a3V1P_obd9zNBq4Pr3Vbd_a2nHE7-rstRk&host=%40ProxyVPN11&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=France1cxc.chickenkiller.com&sid=6089640857a72237#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@45.130.125.69:443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@216.24.57.7:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@www.ignitelimit.com:443?allowInsecure=1&path=%2Fassignment&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@www.calmloud.com:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@141.193.213.30:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4er8J+HtyIsImFkZCI6Im5vZGUtZnIuY29ubmVjdHN1aXRlLm9yZyIsInBvcnQiOjIwNTMsImlkIjoiMmY0MjM0ZjktOGYzMy00YzdmLTk1MmYtNTY1ZmZhNWY1ZmI3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiIiLCJmcCI6bnVsbH0
-trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@185.18.250.245:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@104.20.6.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@83.243.86.117:10443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&security=reality&sni=www.cloudflare.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://humanity@www.gossipglove.com:443?allowInsecure=1&path=%2Fassignment&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://40bf709c-4353-4552-ba26-406d2bf7821d@95.182.96.225:20567?security=reality&encryption=none&pbk=1WOtQYIQ-3sJtbrhSA1LW6gAnO-wG0Z5aCnlL_zoiXQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=b82d7208fe23#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdg-1.fromblancwithlove.com&allowInsecure=0#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0=@51.254.128.106:2083#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
