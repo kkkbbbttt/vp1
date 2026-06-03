@@ -3,6 +3,3 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
 vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&encryption=none&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=83#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%BF
-vless://593f4d6c-aff1-4832-87a7-b5d8e71584ea@kz-1.nodes.ac:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=kz-1.nodes.ac&fp=chrome&security=reality&pbk=uz1Lb_2451iPvrwWCZ-4I9_WHdYm7ML0yjeJAZwBk3E&sid=73b4306eb38fe3d6#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%BF
-vless://593f4d6c-aff1-4832-87a7-b5d8e71584ea@kz-1.nodes.ac:443?security=reality&encryption=none&pbk=uz1Lb_2451iPvrwWCZ-4I9_WHdYm7ML0yjeJAZwBk3E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kz-1.nodes.ac&sid=73b4306eb38fe3d6#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%BF
-vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?security=reality&type=tcp&sni=google.com&fp=chrome&flow=xtls-rprx-vision&sid=b318242471ba4f5b&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&encryption=none#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%BF
