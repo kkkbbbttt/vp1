@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://edc33a23-0574-480a-9b72-ab5b97497200@93.115.10.160:443?security=reality&encryption=none&pbk=UNmXDP41M-gwlnBgRgtt6Pw3LwI1-wFmbIDa-CNRejA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=8755d3406d69#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://15115772-74b5-4c9b-9049-d7237a9c68f9@37.221.79.69:8443?mode=auto&path=/&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=kSqgT4C5AcpCMLdW1VCvFSiv5UX6UDLaF33ECFpzUgQ&fp=chrome&spx=/&type=xhttp&sni=www.yahoo.com&sid=41#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
