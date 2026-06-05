@@ -2,7 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://a4caef32-090f-4f17-b7fa-2808f205620d@64.49.46.225:57502?security=reality&encryption=none&pbk=IOAu39FSiRk_VX4sfzCVZorWhUY0ikftPdHqcmNoY1c&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=ebfeeffb94d5bd5d#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+hysteria2://e3a5bb40be52de65@89.251.26.111:55555?insecure=1&sni=apps.apple.com#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh63wn4ewIiwiYWRkIjoiMTU1LjI1NC4xMjYuMjQ5IiwicG9ydCI6IjYwMDEiLCJ0eXBlIjoibm9uZSIsImlkIjoiYTAzMDg0MmEtZDI5YS00ZWE5LWE3NzYtMTRmYzRiOWUxMDJkIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6Imd0bS1zZy1jYzU0cTdkMXEwMS4zNjVjbG91ZDAyODUuY29tIiwidGxzIjoiIn0
 vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@156.224.78.8:10001?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.icloud.com&fp=chrome&pbk=D_kMOsg1KCtT0tudPFVDXGuEcSqZGtUYqBB-BiIxmls&sid=f7223dab&type=tcp&headerType=none&path=/#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 hysteria2://6yhPOr3f9o@47.242.216.193:30236?sni=go.microsoft.com&insecure=1&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
