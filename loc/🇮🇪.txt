@@ -4,4 +4,5 @@
 
 trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=146.70.90.197#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
+vless://e886fa93-8260-4f8e-ba3a-4879a4d69946@85.159.229.84:443?security=reality&sni=www.google.com&fp=random&pbk=ogPhlqdcw50ySFPbrYeLT0_L2vFHDfwAuu1pIKboODY&sid=93&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
 trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=146.70.90.198#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA

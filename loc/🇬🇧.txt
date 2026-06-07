@@ -11,7 +11,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://c7addea9-6d8a-48d6-8a00-aa99b8ece143@188.114.97.6:443?path=/path&security=tls&encryption=none&insecure=0&host=ws35.adsvxpro.com&fp=chrome&type=ws&allowInsecure=0&sni=ws35.adsvxpro.com#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://353d1d68-1523-415e-9d89-d14a9a55e253@best2.darkteam.info:443?encryption=none&type=ws&host=speedtest.net&path=/DarkTeam_VPN&security=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://adea61c0-0bb2-4ad3-8dba-7766eebd50f8@167.104.223.57:7443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=d82fb387&sni=www.microsoft.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://6ca8ea5b-e47f-4c19-adee-365456e1e87c@45.86.159.171:7443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=be0ce047&sni=www.microsoft.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
