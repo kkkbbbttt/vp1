@@ -2,7 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-hysteria2://b880e510-8196-44bb-b715-781a9461b4a0@aestheticperforator.ru:8443?security=tls&insecure=0&sni=aestheticperforator.ru#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 hysteria2://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@89.167.25.28:11004/?sni=fi-node.farnet.top#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 hysteria2://rstnnl2705%3AZmRjX7MkeEqZ5GQUIT5VO53ARuy6nrmQ@144.31.224.163:8932?insecure=1&obfs=salamander&obfs-password=CvxXZnSth1bVJKGFP2cof4rI52ifHJ2W&sni=nrealistic.nn-foto.ru#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
