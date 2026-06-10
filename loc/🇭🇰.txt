@@ -2,7 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
+vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiODQ1ZTZiMDgtMjkxOS00MjkwLWFkZTAtNWRjN2RjZWE1OWNhIiwibmV0Ijoid3MiLCJwYXRoIjoiL2Fya2k/ZWQ9MjA0OCIsInBvcnQiOjQ0ODY3LCJwcyI6ImhhbWVkcDcxOjrwn4et8J+HsCIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0
 vless://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?security=reality&encryption=none&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=hkg1.fromblancwithlove.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 trojan://BxceQaOe@119.246.1.143:443?allowInsecure=1&sni=t.me%2Fripaojiedian#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-vless://c00ae81e-68dc-4951-aeea-c495f32f91a5@another-cf.dnsyes.kawaii520.icu:443?mode=multi&security=tls&encryption=none&type=ws&fp=chrome&sni=dfs8545fads4ds5.another-appleid.ccwu.cc&path=/&host=dfs8545fads4ds5.another-appleid.ccwu.cc&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
