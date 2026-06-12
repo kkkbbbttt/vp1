@@ -2,20 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://bff7b258-8291-4298-bdee-991a92c1f33c@45.195.137.112:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=cf9d145ad8f1ea55#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://3b7950ed-e076-4a51-8df2-222a88689700@45.197.134.24:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d037f6f67cc90016#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://97bf06ad-c9a8-4ea4-afb5-9092cc092214@45.195.137.72:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=cf9d145ad8f1ea55#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@45.197.134.89:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d515d6cfdfe60b02#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@bypass.ch-gt-01.com:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d515d6cfdfe60b02#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.84:45553?allowInsecure=1&sni=ch.01.naiun.bilibili.com#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.94:45553?allowInsecure=1&sni=ch.01.naiun.bilibili.com#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.89:45553?allowInsecure=1&sni=ch.01.naiun.bilibili.com#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.85:45553?sni=ch.01.naiun.bilibili.com&allowInsecure=1&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.44:45553?allowInsecure=1&sni=ch.01.naiun.bilibili.com#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://83989465-4ec6-4dbe-97c6-2779df88d9e0@83.228.235.106:443?encryption=none&fp=&pbk=MK3NN842R-fVl71Rdcn9oLAQNJrd-igvxPaKS_c6928&security=reality&sid=accd8c&sni=varzesh3.com&type=tcp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:45553?security=tls&sni=ch.01.naiun.bilibili.com&type=tcp&headerType=none&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:45553?security=tls&sni=ch.01.naiun.bilibili.com&headerType=none&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.96:45553?security=tls&sni=ch.01.naiun.bilibili.com&type=tcp&headerType=none&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-trojan://duaR-NjjdGGLeZ+W6j=3NY46vZW+zyMD1z@89.125.95.152:11300?sni=www.toughapp.click&path=%2f#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.93:45553?allowInsecure=1&sni=ch.01.naiun.bilibili.com#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
