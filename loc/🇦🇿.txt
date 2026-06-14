@@ -1,6 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
-
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.93:41943?sni=az.01.naiun.bilibili.com#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BF
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.99:41943?sni=az.01.naiun.bilibili.com#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BF
