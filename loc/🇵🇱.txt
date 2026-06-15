@@ -3,7 +3,12 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
 trojan://humanity@216.24.57.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@www.creationlong.org:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none&path=/&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://fb9e4c3a-936f-44c7-ac89-d5d422690fcf@77.239.114.176:19105?security=reality&encryption=none&pbk=IS6TNMONlIVvcUBvo2RXQvx2Jopcv4wzPyZhxPhWqT8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=e6#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@www.creationlong.org:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://7a5cd520-f42a-5190-802f-d2cf86772c95@193.200.16.127:2052?path=/vless&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.103:4443?security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@216.24.57.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.104:4443?security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@104.18.7.147:443?security=tls&type=ws&sni=www.creationlong.org&path=/assignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
