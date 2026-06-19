@@ -11,7 +11,5 @@ ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#hamedp71%3A%3A%F0%
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://53821f3c-5b03-456a-89f3-f8379f130752@51.89.229.134:443?encryption=none&fp=chrome&pbk=4e4FI0siWxFtLCRCVDQurn1wLTuvKWhRY0zj1SaUcyw&security=reality&sid=a13a7cc5&sni=www.samsung.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 trojan://hF7uSJfeBPtSNXKtuYvTRNaBdGkkXHpKJfLRfbpaDWovomSL@3.8.238.251:443?path=/uk1-uk1-gcjtze&security=tls&insecure=0&host=uk1.bw8848.org&type=ws&allowInsecure=0&sni=uk1.bw8848.org#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443?#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vmess://eyJhZGQiOiI1Ny4xMjguMTc0LjEyNCIsImFpZCI6IjAiLCJhbHBuIjoiaDIsaHR0cC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiIiLCJpZCI6ImFlOTExMTNiLTkxNWYtNGE1Ni1iOTk4LWU1MmQ4YTEyZGEzOSIsImluc2VjdXJlIjoiMSIsIm5ldCI6ImdycGMiLCJwYXRoIjoiYXBpIiwicG9ydCI6IjIwOTYiLCJwcyI6ImhhbWVkcDcxOjrwn4es8J+HpyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ
-vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443?path=/?ed=2048&security=tls&encryption=none&host=t01.tzteam.online&fp=chrome&type=ws&sni=t01.tzteam.online#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
