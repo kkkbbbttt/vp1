@@ -2,8 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@156.224.78.8:10001?security=reality&encryption=none&pbk=D_kMOsg1KCtT0tudPFVDXGuEcSqZGtUYqBB-BiIxmls&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=f7223dab#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-trojan://BxceQaOe@18.163.186.129:11035?sni=t.me%252Fripaojiedian&allowInsecure=1&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 vless://9e13f74e-3ad7-437d-aba6-5def3c42b046@64.49.44.87:19107?security=reality&encryption=none&pbk=rdfVgNqwK528X1X4ZdKe9abvTm7yMICZ5FRUmdYLF14&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=bedc231e12dd39#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@156.224.78.8:10001?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.icloud.com&fp=chrome&pbk=D_kMOsg1KCtT0tudPFVDXGuEcSqZGtUYqBB-BiIxmls&sid=f7223dab&type=tcp&headerType=none&path=/#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 trojan://e0195c73018d597b1c2f0ea89d8676ae@43.198.206.201:2008?sni=www.nintendogames.net&allowInsecure=1&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
