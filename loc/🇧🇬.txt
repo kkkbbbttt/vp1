@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:41943?allowInsecure=1&sni=az.01.naiun.bilibili.com#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AC
+vless://f68435e2-ac00-4374-8c03-c1d36e171088@185.148.147.27:1443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=yOUdRfWt1VaYEeJvHWtfoHoDesPHZPOCaaYe8XDwCB0&sid=0441f3e34348cb40&sni=bulg.kupivodku.top#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AC
