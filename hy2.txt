@@ -2,11 +2,9 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-hysteria2://lak374gtxzrxz241@social.klipp.su:443/?obfs=salamander&obfs-password=3sv5vpdl9xr84lyb&sni=social.klipp.su#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://940f51d6-e0a4-4add-b96b-328e4a84b642@140.245.27.220:51000/?insecure=1&sni=cn.cremedelamer.com#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-002.fastervpn.world:443/?insecure=1#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://github.com/Alvin9999-newpac/fanqiang@hy2.313186.xyz:18066/?sni=hy2.313186.xyz#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-hysteria2://lak374gtxzrxz241@social.klipp.su:443?obfs=salamander&obfs-password=3sv5vpdl9xr84lyb&sni=social.klipp.su#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433/?sni=de1.xiaoliyu.cyou#hamedp71%3A%3A%E2%9D%93
+hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433/?sni=de1.xiaoliyu.cyou#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.79.47.137:443/?insecure=1#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.66.236.81:443/?insecure=1#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
