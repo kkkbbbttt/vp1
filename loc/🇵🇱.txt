@@ -6,5 +6,6 @@ trojan://humanity@216.24.57.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.
 trojan://humanity@www.creationlong.org:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@43.169.18.179:443?host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://c8e4a7ee-07da-4d61-aed9-634b9714bb6e@57.128.240.247:35306?security=reality&encryption=none&pbk=hff4DYvLOoFv2EstI0ssEra-S8ZIXwsZR9cqe7P1TH8&headerType=none&fp=chrome&spx=/GozargahAzadi&type=tcp&sni=play.google.com&sid=cac010b8710a#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?path=%2F&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@www.creationlong.org:443?fp=chrome&path=%2Fassignment&type=ws#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
