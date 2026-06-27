@@ -7,9 +7,11 @@ hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.212.34.63:443/?insecure=1&sni=https://t.me/Wan
 hy2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?sni=fta.fontanvpn.com&path=%2f#hamedp71%3A%3A%E2%9D%93
 hysteria2://t-me-V2RayyNGvpn@65.109.177.191:443?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&sni=www.oracle.com#hamedp71%3A%3A%E2%9D%93
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443/?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#hamedp71%3A%3A%E2%9D%93
+hysteria2://gdubbi2zb6gdp0c8@103.251.167.168:443?security=tls&obfs=salamander&obfs-password=2a7e8084206388f4&insecure=0&sni=gettestin.xxee.ru#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443/?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#hamedp71%3A%3A%E2%9D%93
 hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@31.76.28.28:443/?sni=argg5.auragg.org#hamedp71%3A%3A%E2%9D%93
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?sni=https%3a%2f%2ft.me%2foneclickvpnkeys&path=%2f&allow_insecure=1#hamedp71%3A%3A%E2%9D%93
 hysteria2://f7cb07a0-e6f9-4d22-a60e-c61854450c89@vn2.yuntong.click:443?obfs=salamander&obfs-password=eNM%2FNfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo%3D&sni=vn2.yuntong.click#hamedp71%3A%3A%F0%9F%87%BB%F0%9F%87%B3
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?sni=https%3a%2f%2ft.me%2foneclickvpnkeys&path=%2f&allow_insecure=1#hamedp71%3A%3A%E2%9D%93
 hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443/?sni=newlte.kihsuyhf8jkiugsxb.cfd#hamedp71%3A%3A%E2%9D%93
 hysteria2://gdubbi2zb6gdp0c8@103.251.167.168:443/?obfs=salamander&obfs-password=2a7e8084206388f4&sni=gettestin.xxee.ru#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
