@@ -2,7 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJLWJQM2xGaC5kVEczWGl0RjdYdFZLODNDWjdySTJVdD1u@45.32.122.179:23027#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://8477aa4b-8fb2-4b75-9e21-6b2a57f6f4cd@161.118.242.129:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=KsOXdJFQC-zahqfSmDcR4BrRK2R0o19T9SBgARXkHSU&security=reality&sid=c16b8a1f2b520040&sni=addons.mozilla.org&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.117.69:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.131.248.82:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
