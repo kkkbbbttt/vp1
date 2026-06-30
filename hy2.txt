@@ -8,12 +8,10 @@ hysteria2://555e6448-d1e0-465d-8ee0-b56aad452e32@hg.baiyi.cloudns.org:36603?sni=
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?sni=https%3a%2f%2ft.me%2foneclickvpnkeys&path=%2f&allow_insecure=1#hamedp71%3A%3A%E2%9D%93
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.131.248.82:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 hysteria2://c6a56551-94a7-4c78-aa64-5d410d5a4e42@tw.baiyi.cloudns.org:55292?sni=tw.baiyi.cloudns.org#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
-hysteria2://89f9b1f6-5301-468f-b394-a7450152d3b5@hk.baiyi.cloudns.org:43923?sni=hk.baiyi.cloudns.org#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+hysteria2://89f9b1f6-5301-468f-b394-a7450152d3b5@hk.baiyi.cloudns.org:43923?sni=hk.baiyi.cloudns.org#hamedp71%3A%3A%E2%9D%93
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443/?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#hamedp71%3A%3A%E2%9D%93
 hysteria2://12475dcd-6fc9-4a40-8d84-b34d58d8114a@mg.baiyi.cloudns.org:34604?sni=mg.baiyi.cloudns.org#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 hy2://653m8mmiy7048p0f@social.klipp.su:443?sni=social.klipp.su&path=%2f&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hy2://653m8mmiy7048p0f@social.klipp.su:443/?sni=social.klipp.su&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.131.248.82:443?sni=vpn-sg-001.fastervpn.world&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-sg-003.fastervpn.world:443?insecure=1&sni=vpn-sg-003.fastervpn.world#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-hy2://653m8mmiy7048p0f@musicclips.videolinks.ru:8443/?sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443/?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#hamedp71%3A%3A%E2%9D%93
