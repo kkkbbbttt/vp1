@@ -2,12 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://3e06720a-86f0-49b9-8f00-062681e3b385@vip.bcjdvip.com:14006?security=reality&type=tcp&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&sid=ff5ebee2264c&pbk=XPLe-686APp5RHaiFHZDTJsf1kMo-aMZuKjKeHmdyEM&encryption=none#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ==@212.192.13.91:30129#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-vless://3e06720a-86f0-49b9-8f00-062681e3b385@vip.bcjdvip.com:14002?security=reality&encryption=none&pbk=D4eZTpgaPV_2YQa7cbiDMGnZs6NBEU2JkfUroHpvoWs&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=7cabb05b68f63b#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 vless://a0fe052d-6ca1-4a9c-b626-7ecf78f386cb@108.162.194.165:2086?encryption=none&type=httpupgrade&path=%2F&host=arshia.lezzatArshia.ir#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-vless://3e06720a-86f0-49b9-8f00-062681e3b385@vip.bcjdvip.com:14003?security=reality&type=tcp&sni=apple.com&fp=firefox&flow=xtls-rprx-vision&sid=80963776&pbk=bHHdXJs2NGgY4tDUBwmoLBaKM7y_5sd49geQcdbihz0#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-vless://3e06720a-86f0-49b9-8f00-062681e3b385@vip.bcjdvip.com:14004?security=reality&type=tcp&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&sid=22c485f4000241&pbk=zSt5a1vs3C3oxm3fSUB_egA98IO3XZr7JGzE6OdMTz8#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-vless://3e06720a-86f0-49b9-8f00-062681e3b385@vip.bcjdvip.com:14005?security=reality&type=tcp&sni=apple.com&fp=safari&flow=xtls-rprx-vision&sid=97a01dfaef&pbk=sKWozGVep6wrIm63253QviGBtMLVrGB_W1JJHLEHi0s&encryption=none#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-vless://3e06720a-86f0-49b9-8f00-062681e3b385@vip.bcjdvip.com:14010?security=reality&encryption=none&pbk=PT1gw9B5majPBH2_qST-vymli9f6RlTmvGS2gPtdhF8&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=1ebaa8ea57a71ffc#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-vless://3e06720a-86f0-49b9-8f00-062681e3b385@vip.bcjdvip.com:14009?security=reality&type=tcp&sni=apple.com&fp=safari&flow=xtls-rprx-vision&sid=6a1a47&pbk=CAFHM6x5kO2ofkpEDelcOJlZ4i6Kw4ZlDNIfdV6ptUw&encryption=none#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+trojan://BxceQaOe@119.246.1.143:443?security=tls&sni=t.me%2fripaojiedian&type=tcp&headerType=none&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
