@@ -2,13 +2,16 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-hysteria2://zhangyang@130.61.50.75:6443?security=tls&insecure=1&sni=https://www.silvercore.net#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.131.248.82:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.0.40:443?insecure=1&sni=vpn-sg-001.fastervpn.world#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.251.212.188:443?insecure=1&sni=vpn-sg-001.fastervpn.world#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+hysteria2://github.com/Alvin9999-newpac/fanqiang@clash-ip1.934618.xyz:18271/?sni=clash-ip1.934618.xyz#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.179.149.169:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+hysteria2://zru63dr6vokx56iy@tr-1.metsima.com:52067?security=tls&obfs=salamander&obfs-password=60wvbymjlc9zw3gk&insecure=0&sni=tr-1.metsima.com#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443/?sni=fta.fontanvpn.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.229.94.221:443?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@47.128.242.210:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443/?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-hysteria2://653m8mmiy7048p0f@2.26.49.16:443/?obfs=salamander&obfs-password=3sv5vpdl9xr84lyb&sni=social.klipp.su#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443/?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.229.94.221:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.213.12.36:443?insecure=1&sni=vpn-sg-001.fastervpn.world#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.54.181:443?insecure=1&sni=vpn-sg-001.fastervpn.world#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+hysteria2://653m8mmiy7048p0f@2.26.49.16:443?security=tls&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb&insecure=0&sni=social.klipp.su#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.250.29.24:443?insecure=1&sni=vpn-sg-001.fastervpn.world#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.231.108.76:443/?insecure=1#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.229.51.19:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
