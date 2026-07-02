@@ -2,5 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
+vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNDViODM1MTktOWM0Zi00MDUyLWExMWItMDJlMDE3YjYzNmQ0IiwibmV0Ijoid3MiLCJwYXRoIjoiL2Fya2k/ZWQ9MjA0OCIsInBvcnQiOjM2NzAzLCJwcyI6ImhhbWVkcDcxOjrwn4et8J+HsCIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0
 vless://181d203a-e738-4aa4-a2d8-d82765f1c0c5@31.77.146.252.cdn-one.org:443?encryption=none&fp=chrome&pbk=OSiNJZQmDVJdoemKMEV5j60iRIQmZwPJUaXBgqUlDD4&security=reality&sid=8b981a7e399c3920&sni=31-77-146-252.cdn-one.org&spx=/KPuyF7PCFHn9pUq&type=tcp#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-vless://a0fe052d-6ca1-4a9c-b626-7ecf78f386cb@108.162.194.165:2086?encryption=none&type=httpupgrade&path=%2F&host=arshia.lezzatArshia.ir#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?encryption=none&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
