@@ -4,4 +4,3 @@
 
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@213.21.240.223:2053?encryption=none&fp=chrome&host=vpn47.cc.cd&path=/&security=tls&sni=vpn47.cc.cd&type=ws#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@88.216.223.37:8443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://681314c5-b3ee-41f1-a959-fa42841f5383@cdn3.portalcode.ir:2095?encryption=none&security=none&type=httpupgrade&headerType=none&path=/&host=wqoefj.rainzone.ir#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
