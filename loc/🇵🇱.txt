@@ -7,5 +7,4 @@ vless://199436d3-2fa2-4e34-a1de-844419de5a4f@Pl-AllNet.OnlinerNet.Ir:20000?secur
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@95.85.253.109:8443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=/&security=tls&sni=vpn47.cc.cd&type=ws#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@188.114.98.0:443?security=tls&type=ws&sni=www.creationlong.org&path=/assignment&host=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@198.202.211.1:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://9fb2d0b1-171b-45c0-aae3-3313a73cba29@193.247.82.40:448?encryption=none&flow=xtls-rprx-vision&fp=&pbk=MbaP34cAgypweQZ7L2hx1wihw_K5c3g4SBlOpgD7wRo&security=reality&sid=e0274f4ac227090f&sni=www.googletagmanager.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@31.169.126.66:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=/&security=tls&sni=vpn47.cc.cd&type=ws#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
