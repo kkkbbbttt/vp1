@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-trojan://PI36027154@tight-possum.rooster465.autos:443?#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ZnNjU0RjYi1TZUVxcVJiLm9telZHZ1ZnTnBYaDNiQTF1@67.219.106.119:26286#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
+trojan://PI36027154@tight-possum.rooster465.autos:443?allowInsecure=1#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
