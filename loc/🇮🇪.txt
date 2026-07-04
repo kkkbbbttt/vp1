@@ -4,4 +4,3 @@
 
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
 trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?security=tls&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0Vk5YOUxEdTZmcEVsWExp@20.107.201.69:443#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
