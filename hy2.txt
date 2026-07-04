@@ -20,8 +20,8 @@ hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.134:8449/?insecure=1
 hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.204:8449/?insecure=1&sni=https://t.me/WangCai2🇨🇳#hamedp71%3A%3A%E2%9D%93
 hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.244:8449/?insecure=1&sni=https://t.me/WangCai2🇨🇳#hamedp71%3A%3A%E2%9D%93
 hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@66.234.150.247:8449/?insecure=1&sni=https://t.me/WangCai2🇨🇳#hamedp71%3A%3A%E2%9D%93
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.246:8449/?insecure=1&sni=https://t.me/WangCai2🇨🇳#hamedp71%3A%3A%E2%9D%93
 hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443/?sni=fta.fontanvpn.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.246:8449/?insecure=1&sni=https://t.me/WangCai2🇨🇳#hamedp71%3A%3A%E2%9D%93
 hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.227:8449/?insecure=1&sni=https://t.me/WangCai2🇨🇳#hamedp71%3A%3A%E2%9D%93
 hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.206:8449/?insecure=1&sni=https://t.me/WangCai2🇨🇳#hamedp71%3A%3A%E2%9D%93
 hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.231:8449/?insecure=1&sni=https://t.me/WangCai2🇨🇳#hamedp71%3A%3A%E2%9D%93
