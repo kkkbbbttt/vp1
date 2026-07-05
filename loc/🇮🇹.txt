@@ -2,12 +2,14 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.speedmeter.shop:8880?security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca17.speedmeter.shop:8880?security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca17.directdnsai.shop:8880?security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca27.speedmeter.shop:8880?security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca14.speedmeter.shop:8880?security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.165.172:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.speedmeter.shop:8880?mode=gun&security=&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca38.speedmeter.shop:8880?encryption=none&security=none&sni=&type=grpc&alpn=&host=&path=#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@103.241.66.76:14605#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.21:8880?descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F13a8dc&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca23.directdnsai.shop:8880?mode=gun&security=&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca25.directdnsai.shop:8880?mode=gun&security=&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
@@ -18,8 +20,8 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca15.speedmeter.shop:8880?mode=gun
 vless://a2415a12-3f92-4636-9823-9828d3ceb818@it-just.dataload-cdn.ru:443?encryption=none&security=reality&sni=www.sony.com&fp=chrome&pbk=lZf2K14GxiyyUM4zovDM20iuvkYQcGrXbPd18F3Jyzo&sid=1ab2&type=tcp&headerType=none&host=it-just.dataload-cdn.ru&path=%2F#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca13.directdnsai.shop:8880?encryption=none&security=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca14.speedmeter.shop:8880?encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://3f298aca-2412-49ac-9f20-235f0e448d31@talianaccentclouding.iranlast.com:7009?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.speedmeter.shop:8880?encryption=none&security=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://3f298aca-2412-49ac-9f20-235f0e448d31@talianaccentclouding.iranlast.com:7009?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca22.directdnsai.shop:8880?mode=gun&security=&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca35.speedmeter.shop:8880?mode=gun&security=&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca31.speedmeter.shop:8880?encryption=none&security=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
