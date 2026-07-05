@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?security=&encryption=none&headerType=&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
+vless://3f298aca-2412-49ac-9f20-235f0e448d31@www.speedtest.net:2095?encryption=none&type=httpupgrade&host=chek.carefreemob2.com.&security=none&path=/#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
