@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFeUd5MTFCTWZlUC02VUhqc2dhald3@193.233.161.92:8390#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
+trojan://NAdtbpuyJXPH=CfKmdBqD2YVbzdvwAtuxw@38.60.252.118:443?sni=38.60.252.118&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%BB%F0%9F%87%B3
