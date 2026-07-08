@@ -2,6 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://b08f7f87-fda7-4674-8e40-82fdcc09672a@digitalocean.com:2086?path=%2F&security=&encryption=none&host=arshia.lezzatArshia.ir&type=httpupgrade#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh63wn4ewIiwiYWRkIjoibjE3NDc2MjQyNzQuNHU5bWEuaWN1IiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJkOGRhZjUwNy1hNGFjLTRlZWEtODM5OS04ZjBjZDA3MWViNTIiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJuMTc0NzYyNDI3NC40dTltYS5pY3UiLCJ0bHMiOiJ0bHMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
 vless://0bef99f1-1ab7-4949-8991-80914d9c7535@207.57.129.74:51864?encryption=none&flow=xtls-rprx-vision&fp=&pbk=p8vKj6rINds1EgmeSIFOv6uds8IxnN8ypjIslksAYgA&security=reality&sni=dash.cloudflare.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+vless://2166fcae-8e93-4f50-d3c4-94c7042767ac@82.158.229.125:11126?security=none&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0

@@ -11,7 +11,6 @@ vless://52b71b75-4b77-4cec-990b-046ec1938e1f@67.159.56.57:443?encryption=none&fl
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://367ff772-a8f4-4895-8e99-3702a868f0c6@gbos2.osvp.online:443?sni=gbos2.osvp.online&type=grpc&serviceName=grpc-api&fp=chrome&security=tls#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://36644091-0cec-47fe-9955-97c3f424baf7@51.89.224.108:443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&type=tcp&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
