@@ -8,4 +8,3 @@ vless://ef3e206d-3cbc-4254-8374-df04fe35a762@fi.karzino-connected.com:443?securi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyS0F1OWVNbUd3U2hXVFdjdXl5bm1MRTgxUFZrb0tEdlEzZmIyOWRQU2NjMWJNVVc1eTZocHByWHFWV3FTcWpUaTIzNGhGR2REZjNBckN1V3RCdzVGQTZ6VjV3QmdXVFA=@mail2.thirdpaull.monster:57327#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meowfin.nethcloud.top:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&security=reality&sni=www.wikihow.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://d432d64b-0f0d-4bbd-83e9-fa05ba2a052f@bot.sobhanpor.ir:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=bot.sobhanpor.ir#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
