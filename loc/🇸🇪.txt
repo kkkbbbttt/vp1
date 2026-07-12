@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
+vless://88c2a4b2-a095-7906-5dee-4853ae284141@cc.ircybersec.org:443?path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F&security=tls&encryption=none&insecure=0&host=cp.kermanshahi.org&type=ws&allowInsecure=0&sni=cp.kermanshahi.org#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://60576147-90e7-4afc-9cf9-c7361a8c7fd8@148.253.211.10:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=B3MWDjEWGQsObyH-9npa_PlkaoQDBqzwlwURFK1zlE8&security=reality&sid=3e0527d94cc8d1&sni=vk.me&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
