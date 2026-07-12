@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
+vless://7499f0a0-3670-4cf6-a31c-ad4cd943cf18@82.41.30.100:443?flow=xtls-rprx-vision&security=reality&sni=kz.hagrid-connected.com&fp=firefox&pbk=nfkwd9xJCoNuWrvvieBB9VfpcDldsARAdFPL0dF5A1Q&sid=305570274c0c72cc&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%BF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzOExiSkNnVWlHWGVDS1ZjNjN0SEpQ@94.198.220.183:64674#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%BF
