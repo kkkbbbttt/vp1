@@ -2,10 +2,9 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://a7555676-0421-4307-bdaa-220b0c2299b4@45.134.38.116:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=mBi2PpqpCcfwAy3Fkq5kqrs3SlZfS23j-dTYdMO4D1w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.varzesh3.com&sid=7e8f9a0b#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 vmess://eyJhZGQiOiIzMS43Ny4xNDkuMTMxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVlZDcyMDZhLWNkOGQtNGIwMi1hZGQxLTRmN2I3ODcxNzhjOSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTEwIiwicHMiOiJoYW1lZHA3MTo68J+HrfCfh7AiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
-vless://cab5e715-ddf0-497d-a065-5e04b1eafea9@149.104.29.83:8443?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=3314ee8700a0affe&pbk=40-QvWVq-gj9xlnE9UxB6HUHAXg_XvR1T0Sc-B5U0nY#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-trojan://13d29042-ab82-4195-9cd4-2bafc518e201@23.227.38.178:443?sni=q6clkp794liy3y90.hktimecsgo.xyz&allowInsecure=1&type=ws&path=%2Fimages&fp=chrome#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 vless://9c64064c-aaaf-449f-9344-77632fc9ff1c@38.207.177.236:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=47de54e71fee3451&pbk=maES4RMEtsm5emBCixDRa6Y5GvmVwmwZNBL2G4Q03D4&encryption=none#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?encryption=none&fp=chrome&host=amooaliii.net&path=/jdhfyws&security=tls&sni=amooaliii.net&type=ws#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 trojan://XG59623478@growing-oyster.rooster465.autos:443?sni=growing-oyster.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-vmess://eyJhZGQiOiJuMTc0NzYyNDI2MC40dTltYS5pY3UiLCJhaWQiOjAsImhvc3QiOiJuMTc0NzYyNDI2MC40dTltYS5pY3UiLCJpZCI6ImVlZThjYjcyLTdlYWItNDAzNC1hMzA4LWVkMDZjYjA3ZTAwMyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo0NDMsInBzIjoiaGFtZWRwNzE6OvCfh63wn4ewIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.16.174.3:443?encryption=none&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=JoinProxyVPN11.amooaliii.net&type=ws#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@108.162.192.75:443?encryption=none&fp=chrome&host=amooaliii.net&path=/jdhfyws&security=tls&sni=amooaliii.net&type=ws#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
