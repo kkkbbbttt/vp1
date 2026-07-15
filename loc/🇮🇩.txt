@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52000?insecure=0&security=tls&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=gu74jg3ym0e21zco#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B1
+trojan://3632736327@ine07011438.tmdsb.org:3367?allowInsecure=1&sni=ine07011438.tmdsb.org#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%A9
