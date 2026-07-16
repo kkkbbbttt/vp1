@@ -2,7 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433/?insecure=1&sni=de1.xiaoliyu.cyou#hamedp71%3A%3A%E2%9D%93
 hysteria2://b547b58b-6628-4127-b67d-40aa0be26c67@139.59.98.251:443?hop-interval=30&sni=addons.mozilla.org&mport=20000-50000&pinSHA256=8A%3A24%3AAD%3AB1%3A0F%3A73%3A00%3A69%3ABF%3A83%3A37%3A62%3AFF%3AD0%3AB4%3A75%3A6E%3A79%3A85%3A73%3A05%3AA5%3ACC%3AD3%3AA0%3ADA%3AC7%3A84%3A0B%3ABF%3A98%3ADC#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 hysteria2://b7c9e2f1-4d83-42a1-9e5f-sg2026proxy@209.74.81.28:8443?insecure=1&sni=209.74.81.28#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 hysteria2://d5m-5bGOsVbFgRlxsEyO3pCF@138.2.116.23:55020?insecure=1&sni=140.245.74.46.sslip.io#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
