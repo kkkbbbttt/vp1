@@ -2,9 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433/?insecure=1&sni=de1.xiaoliyu.cyou#hamedp71%3A%3A%E2%9D%93
-hysteria2://V2RayyNGvpn-@91.107.152.188:31999?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&sni=www.amd.com#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://Ov5kSglMCd@91.107.152.188:31999?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&sni=www.amd.com#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-hysteria2://V2RayyNGvpn@91.107.174.32:25810?security=tls&obfs=salamander&obfs-password=T-ME-V2RayyNGvpn&insecure=1&pinSHA256=acc6131ab42c77173ab179a5ac5707ececd64387bfd8b34c531278b561485d27&sni=www.amd.com#hamedp71%3A%3A%E2%9D%93
-hysteria2://e3a5bb40be52de65@q.baoge.me:2328?insecure=1&sni=apps.apple.com#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
+hysteria2://e3a5bb40be52de65@q.baoge.me:2328?insecure=1&sni=apps.apple.com#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?sni=https%3a%2f%2ft.me%2foneclickvpnkeys&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
