@@ -16,5 +16,6 @@ trojan://KV63147582@more-trout.rooster465.autos:443?allowInsecure=0&sni=more-tro
 trojan://humanity@202.37.33.80:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@www.creationlong.org:443?fp=chrome&path=%2Fassignment&type=ws#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@216.24.57.1:443?host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?path=%2F&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@pl1.buycloud.app:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=JoIT56dCrKkeYJWSPA6-rllSqlXYKPg1rC2w7D_xogU&security=reality&sid=212a8beb0ea4817b&sni=pl1.buycloud.app&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://2de9c80d-ec8c-454c-930e-52a497dbda78@94.156.99.58:2095?security=reality&encryption=none&pbk=jygYfIzKfnJtGGdQwyY_pTeIidLC___FLiYoB5c-n3Y&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=37ffd7d641e95c81#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
