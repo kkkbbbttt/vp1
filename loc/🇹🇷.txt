@@ -3,4 +3,3 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
 vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?encryption=none&security=reality&sni=www.google.com&fp=chrome&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&sid=44&spx=%2F&type=xhttp&path=%2F&mode=auto#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://384a72e6-8a10-4695-9ee5-c93728ef7e2a@sokot.tarfiq.ir:38733?mode=gun&security=reality&encryption=none&pbk=CXOpQI3hwCqEp5ul2SKWfdAK-PBjjzUn-eRb7bAxDgU&fp=chrome&type=grpc&serviceName=&sni=play.google.com&sid=09e78c1d381f98ed#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7

@@ -2,14 +2,15 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@162.159.38.119:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none&type=ws&path=%2F#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://CF68213490@emerging-weevil.rooster465.autos:443?sni=emerging-weevil.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meow-warsaw.nethcloud.top:443?security=reality&encryption=none&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&host=LevikoConfig&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.wikihow.com#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meow-warsaw.nethcloud.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.wikihow.com&fp=chrome&security=reality&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&sid=&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@104.18.32.47:443?encryption=none&security=tls&sni=www.creationlong.org&alpn=h3,h2,http/1.1&fp=chrome&type=ws&host=www.creationlong.org&path=/assignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@www.creationlong.org:443?fp=chrome&path=%2Fassignment&type=ws#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://NQ26071394@kind-unicorn.rooster465.autos:443?sni=kind-unicorn.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://NQ26071394@62.112.222.177:443?sni=kind-unicorn.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://0c74ec62-91b3-4dbf-bf2f-d824e09980f0@31.56.188.87:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=HQ0kcyQp4LLPMJNtI7kEcQZw1o5AA1YNkOMfUUrsTjU&security=reality&sid=22adce68ed227a4a&sni=site.rumedia-cdn.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://NQ26071394@62.112.222.177:443?sni=kind-unicorn.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@198.202.211.10:443?security=tls&type=ws&sni=www.creationlong.org&path=/assignment#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://8bba3194-4856-46d1-8319-075817d87eb1@pl4.cyphervpn.pro:2443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&security=reality&sid=8f9d033ad6d2cebf&sni=pl4.cyphervpn.pro&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://KV63147582@more-trout.rooster465.autos:443?allowInsecure=0&sni=more-trout.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
