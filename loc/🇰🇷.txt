@@ -4,6 +4,7 @@
 
 trojan://CF68213490@3.38.213.204:443?sni=allowing-halibut.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://NQ26071394@merry-falcon.rooster465.autos:443?security=tls&sni=merry-falcon.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7Dwn4e3IiwiYWRkIjoiZmFtaWx5LmJ1Y2tldC54OS5rZmMtNTIwLmNvbSIsInBvcnQiOiIxMDAzOCIsInR5cGUiOiJub25lIiwiaWQiOiIxZGM3MzUyOS1mMDMwLTNhYzUtYWQ2NC1mNzY2NmI5YTUxYmMiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiZmFtaWx5LmJ1Y2tldC54OS5rZmMtNTIwLmNvbSIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 trojan://CF68213490@43.201.146.77:443?sni=aware-puma.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://CF68213490@43.201.102.23:443?sni=upward-yak.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://NQ26071394@living-hagfish.rooster465.autos:443?sni=living-hagfish.rooster465.autos&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
@@ -14,7 +15,6 @@ trojan://CF68213490@together-impala.rooster465.autos:443?allowInsecure=0&sni=tog
 trojan://CF68213490@gentle-mastiff.rooster465.autos:443?sni=gentle-mastiff.rooster465.autos&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://NQ26071394@polished-shrew.rooster465.autos:443?sni=polished-shrew.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://CF68213490@aware-puma.rooster465.autos:443?sni=aware-puma.rooster465.autos&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-trojan://CF68213490@3.38.190.61:443?sni=excited-squirrel.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://NQ26071394@devoted-heron.rooster465.autos:443?sni=devoted-heron.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://NQ26071394@accurate-cat.rooster465.autos:443?sni=accurate-cat.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://CF68213490@central-jawfish.rooster465.autos:443?sni=central-jawfish.rooster465.autos&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
@@ -26,7 +26,6 @@ trojan://NQ26071394@capable-jay.rooster465.autos:443?sni=capable-jay.rooster465.
 trojan://NQ26071394@massive-ocelot.rooster465.autos:443?security=tls&sni=massive-ocelot.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://CF68213490@enormous-whippet.rooster465.autos:443?allowInsecure=0&sni=enormous-whippet.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://NQ26071394@gentle-platypus.rooster465.autos:443?sni=gentle-platypus.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-trojan://CF68213490@pure-ram.rooster465.autos:443?allowInsecure=0&sni=pure-ram.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://CF68213490@13.125.159.219:443?sni=star-bluejay.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://NQ26071394@legible-ocelot.rooster465.autos:443?sni=legible-ocelot.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://CF68213490@aware-lionfish.rooster465.autos:443?security=tls&sni=aware-lionfish.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
@@ -41,20 +40,17 @@ trojan://CF68213490@3.36.60.83:443?sni=gentle-mastiff.rooster465.autos&fp=chrome
 trojan://CF68213490@helping-shark.rooster465.autos:443?sni=helping-shark.rooster465.autos&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://CF68213490@upward-yak.rooster465.autos:443?allowInsecure=0&sni=upward-yak.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://NQ26071394@internal-peacock.rooster465.autos:443?allowInsecure=1&sni=internal-peacock.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-trojan://CF68213490@3.35.214.88:443?sni=pure-ram.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://CF68213490@climbing-frog.rooster465.autos:443?allowInsecure=0&sni=climbing-frog.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://CF68213490@tolerant-stag.rooster465.autos:443?allowInsecure=0&sni=tolerant-stag.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://NQ26071394@43.201.251.27:443?sni=thorough-foxhound.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://CF68213490@3.36.94.34:443?sni=awake-satyr.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://NQ26071394@guided-pelican.rooster465.autos:443?sni=guided-pelican.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://CF68213490@allowing-halibut.rooster465.autos:443?security=tls&sni=allowing-halibut.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7Dwn4e3IiwiYWRkIjoiMTMyLjE0NS44MC4yMzAiLCJwb3J0IjoiODAiLCJpZCI6IjUxNTU4NjBlLWQwN2QtNDZjMy05MTI4LTNhZmJkODQ2MjZjNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJrcjAyLmEwYS54eXoiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNyJ9
 trojan://NQ26071394@flexible-titmouse.rooster465.autos:443?sni=flexible-titmouse.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://NQ26071394@genuine-cougar.rooster465.autos:443?security=tls&sni=genuine-cougar.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://NQ26071394@thorough-foxhound.rooster465.autos:443?sni=thorough-foxhound.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://NQ26071394@dynamic-eel.rooster465.autos:443?allowInsecure=0&sni=dynamic-eel.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://CF68213490@eternal-horse.rooster465.autos:443?allowInsecure=0&sni=eternal-horse.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-trojan://CF68213490@excited-squirrel.rooster465.autos:443?sni=excited-squirrel.rooster465.autos&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://CF68213490@3.35.81.139:443?sni=climbing-frog.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://NQ26071394@mighty-lemming.rooster465.autos:443?sni=mighty-lemming.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
