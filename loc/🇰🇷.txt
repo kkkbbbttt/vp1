@@ -6,7 +6,6 @@ vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4ew8J+HtyIsImFkZCI6IjE0MC4yMzguMi4y
 trojan://IQ68037294@flowing-gobbler.rooster465.autos:443#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://IQ68037294@steady-lemming.rooster465.autos:443?allowInsecure=1&sni=steady-lemming.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://3632736327@kr04021338.tmdsb.org:1864?sni=kr04021338.tmdsb.org&path=%2f#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-trojan://3632736327@kr04212337.tmdsb.org:1738?security=tls&sni=kr04212337.tmdsb.org&type=tcp&headerType=none&path=%2f#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://3632736327@43.131.241.175:1864?sni=kr04021338.tmdsb.org&path=%2f#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://IQ68037294@absolute-boxer.rooster465.autos:443#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://IQ68037294@stirred-sunbeam.rooster465.autos:443#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
@@ -14,6 +13,6 @@ trojan://IQ68037294@whole-perch.rooster465.autos:443?allowInsecure=1&sni=whole-p
 trojan://IQ68037294@growing-tuna.rooster465.autos:443?allowInsecure=1&sni=growing-tuna.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7Dwn4e3IiwiYWRkIjoiMTMyLjE0NS44MC4yMzAiLCJwb3J0IjoiODAiLCJpZCI6IjUxNTU4NjBlLWQwN2QtNDZjMy05MTI4LTNhZmJkODQ2MjZjNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJrcjAyLmEwYS54eXoiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiODMifQ
 trojan://IQ68037294@robust-toucan.rooster465.autos:443#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4ew8J+HtyIsImFkZCI6IjE0Ni41Ni4xMTIuMTEwIiwicG9ydCI6ODg4OCwiaWQiOiJlN2MzMDJmMy05MGQ2LTQyZGQtOWQ3ZC05NGEzNjgzYTM3MDciLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ
+vmess://eyJhZGQiOiIxNTIuNjcuMjE4LjM4IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJiNWU5NDgwYS1iN2FhLTQwYTQtZjlhNy01Mjk5YjVlMzYzYjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDQzLCJwcyI6ImhhbWVkcDcxOjrwn4ew8J+HtyIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0
 trojan://IQ68037294@adjusted-labrador.rooster465.autos:443?allowInsecure=1&sni=adjusted-labrador.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://IQ68037294@adapted-quetzal.rooster465.autos:443?allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
