@@ -2,6 +2,9 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@fl02.auragg.org:8443/?sni=fl02.auragg.org#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-hysteria2://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@fl01.auragg.org:443?insecure=1&sni=fl01.auragg.org#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-hysteria2://gG5szcxrbt@51.15.110.119:19978?security=tls&obfs=salamander&obfs-password=Telegram=V2RayyNGvpn&insecure=1&pinSHA256=c9ab2d723ac19048abdbc53fbcff44b64436390c5c7a60b9b993588c190f263b&sni=www.amd.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?security=tls&insecure=0&sni=hy2.123266.xyz#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://Pld6E6l8xI@51.15.110.119:19978?security=tls&obfs=salamander&obfs-password=Telegram=V2RayyNGvpn&insecure=1&pinSHA256=c9ab2d723ac19048abdbc53fbcff44b64436390c5c7a60b9b993588c190f263b&sni=www.amd.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?sni=https://t.me/oneclickvpnkeys&insecure=1&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
+hysteria2://o3774es6cfv74kaf@nrealistic.nn-foto.ru:1935/?obfs=salamander&obfs-password=lhfl2z9mjngb7csh&sni=nrealistic.nn-foto.ru#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+hysteria2://gG5szcxrbt@51.15.110.119:19978/?insecure=1&obfs=salamander&obfs-password=Telegram=V2RayyNGvpn&sni=www.amd.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+hysteria2://ZkWtnfGK6h@91.107.152.188:31999?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&sni=www.amd.com#hamedp71%3A%3A%E2%9D%93
