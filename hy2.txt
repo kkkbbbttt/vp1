@@ -7,4 +7,3 @@ hysteria2://Pld6E6l8xI@51.15.110.119:19978?security=tls&obfs=salamander&obfs-pas
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?sni=https://t.me/oneclickvpnkeys&insecure=1&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
 hysteria2://o3774es6cfv74kaf@nrealistic.nn-foto.ru:1935/?obfs=salamander&obfs-password=lhfl2z9mjngb7csh&sni=nrealistic.nn-foto.ru#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://gG5szcxrbt@51.15.110.119:19978/?insecure=1&obfs=salamander&obfs-password=Telegram=V2RayyNGvpn&sni=www.amd.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-hysteria2://ZkWtnfGK6h@91.107.152.188:31999?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&sni=www.amd.com#hamedp71%3A%3A%E2%9D%93

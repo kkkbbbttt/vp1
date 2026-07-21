@@ -7,7 +7,6 @@ trojan://ON38567014@endless-crappie.rooster465.autos:443?security=tls&sni=endles
 trojan://ON38567014@fit-calf.rooster465.autos:443?sni=fit-calf.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
 trojan://OD90375861@fit-calf.rooster465.autos:443?sni=fit-calf.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
 trojan://NQ26071394@3.255.100.31:443?sni=thankful-piranha.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTdGZzl6cGdwVlM0REdF@20.166.58.64:443#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
 trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?allowInsecure=1#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
 trojan://PD07395842@fit-calf.rooster465.autos:443?sni=fit-calf.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
 trojan://NQ26071394@funky-opossum.rooster465.autos:443?sni=funky-opossum.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
@@ -15,8 +14,8 @@ trojan://NQ26071394@3.255.155.50:443?sni=tops-marlin.rooster465.autos&fp=chrome&
 trojan://OD90375861@18.202.244.191:443?sni=fit-calf.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
 trojan://NQ26071394@correct-starfish.rooster465.autos:443?sni=correct-starfish.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
 trojan://NQ26071394@thankful-piranha.rooster465.autos:443?security=tls&sni=thankful-piranha.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
-trojan://IQ68037294@moving-wren.rooster465.autos:443?allowInsecure=1&sni=moving-wren.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
 trojan://XG59623478@singular-lark.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=%2f#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
+trojan://IQ68037294@moving-wren.rooster465.autos:443?allowInsecure=1&sni=moving-wren.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
 trojan://NQ26071394@108.131.117.154:443?sni=funky-opossum.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
 trojan://OD90375861@wired-tick.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=%2f&allow_insecure=0#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
 trojan://OD90375861@52.212.156.233:443?sni=wired-tick.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
