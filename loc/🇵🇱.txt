@@ -23,9 +23,8 @@ trojan://PD07395842@fast-ghost.rooster465.autos:443?sni=fast-ghost.rooster465.au
 trojan://NQ26071394@62.112.222.177:443?sni=kind-unicorn.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://NQ26071394@kind-unicorn.rooster465.autos:443?sni=kind-unicorn.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://IQ68037294@sensible-haddock.rooster465.autos:443?allowInsecure=0&sni=sensible-haddock.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none&type=ws&path=%2F#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://ON38567014@smiling-ray.rooster465.autos:443?sni=smiling-ray.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://594b601b-b807-4998-a44e-9466f92ee4fa@193.111.117.8:1443?security=reality&type=tcp&sni=pls.snowfall.top&fp=firefox&flow=xtls-rprx-vision&sid=0441f3e34348cb45&pbk=jtEyL2mfSJ5rlvpMfYgkY6HaleCFRif0DnOOOXNHhxg#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://ON38567014@smiling-ray.rooster465.autos:443?sni=smiling-ray.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://e2cbcf20-e57d-44ab-bd8e-8834c83314b8@144.31.113.56:28663?encryption=none&fp=&pbk=9KQZrX1kgUPGV-ChDKJLYQarHB1rMX-9fxe7-eG4P1U&security=reality&sid=91be886b71a6e4&sni=ymail.com&type=grpc#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://PD07395842@emerging-weevil.rooster465.autos:443?sni=emerging-weevil.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://PD07395842@strong-haddock.rooster465.autos:443?sni=strong-haddock.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
