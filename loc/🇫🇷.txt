@@ -2,16 +2,24 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?path=%2Fsea&security=tls&encryption=none&insecure=0&host=deicl.redstone-vex.sbs&fp=chrome&type=ws&allowInsecure=0&sni=deicl.redstone-vex.sbs#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?path=%2Fsea&security=tls&encryption=none&insecure=1&host=deicl.redstone-vex.sbs&type=ws&allowInsecure=1&sni=deicl.redstone-vex.sbs#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.50:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.147.22:443?path=%2Fodiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&fp=chrome&type=ws&allowInsecure=0&sni=octopusss.net#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@89.116.250.135:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@www.speedtest.net:443?path=%2Fodiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&fp=chrome&type=ws&allowInsecure=0&sni=octopusss.net#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.2:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.2:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@188.114.97.6:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?path=%2Frsedgws&security=tls&encryption=none&insecure=1&host=shegeftihaaa.net&type=ws&allowInsecure=1&sni=shegeftihaaa.net#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@108.162.192.75:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.101:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@162.159.38.119:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://IQ68037294@definite-giraffe.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=definite-giraffe.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://PD07395842@13.39.127.43:443?sni=united-bedbug.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://ON38567014@13.39.249.40:443?sni=one-quail.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@www.calmlunch.com:443?host=www.calmlunch.com&path=/assignment&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://ON38567014@ready-kangaroo.rooster465.autos:443?security=tls&sni=ready-kangaroo.rooster465.autos&fp=chrome&type=tcp&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@172.67.74.2:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?encryption=none&fp=firefox&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@ad-020.limaklhc6.info:8443/?type=ws&encryption=none&flow=&path=/&security=tls&sni=ad-020.limaklhc6.info#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@www.ignitelimit.com:443?allowInsecure=1&path=%2Fassignment&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://PD07395842@tough-pigeon.rooster465.autos:443?fp=chrome#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
@@ -22,12 +30,16 @@ trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ec
 trojan://IQ68037294@desired-pony.rooster465.autos:443?fp=chrome#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://ff3e10a8-2a5c-4792-a14e-20fd11b1bed9@31.56.146.93:8443?security=reality&encryption=none&pbk=8i-67NPZNxTU8dgnF5yKYpijyu4GbQsDOdZSHQjsLGQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://ON38567014@one-quail.rooster465.autos:443?security=tls&path=%2f#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.147.22:443?encryption=none&security=tls&sni=octopusss.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=octopusss.net&path=/odiyfws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@www.speedtest.net:443?encryption=none&fp=chrome&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@185.18.250.252:443?allowInsecure=1&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://NQ26071394@lucky-marmot.rooster465.autos:443?sni=lucky-marmot.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://NQ26071394@13.38.35.46:443?sni=lucky-marmot.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?encryption=none&type=ws&security=tls&path=%2Frsedgws&host=shegeftihaaa.net&sni=shegeftihaaa.net&insecure=0&allowInsecure=0#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@cf.levikogjgfdd.ir:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://PD07395842@united-bedbug.rooster465.autos:443?fp=chrome#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://ON38567014@lucky-marmot.rooster465.autos:443?security=tls&sni=lucky-marmot.rooster465.autos&fp=chrome&type=tcp&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://7b4b7d4e-7a53-4c0c-bd8e-9f3b1b2c7f21@51.91.158.180:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.speedtest.net&security=reality&pbk=wwH_L9FmhJ7AyOBKm9J8YGKdVo1G-QlDEuw5-s3eGEM&sid=9a4c7d2f8e1b6a3c#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@45.130.125.217:443/?type=ws&encryption=none&flow=&host=shegeftihaaa.net&path=/rsedgws&security=tls&sni=shegeftihaaa.net#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://IQ68037294@firm-warthog.rooster465.autos:443?fp=chrome#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://NQ26071394@ready-kangaroo.rooster465.autos:443?sni=ready-kangaroo.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://PD07395842@13.39.195.215:443?sni=tough-pigeon.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
