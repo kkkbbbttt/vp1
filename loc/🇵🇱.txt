@@ -2,9 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://humanity@202.37.33.80:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://humanity@162.159.38.119:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://PD07395842@fast-ghost.rooster465.autos:443?sni=fast-ghost.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://WG39087154@fast-ghost.rooster465.autos:443?sni=fast-ghost.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://IQ68037294@eternal-swift.rooster465.autos:443?sni=eternal-swift.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
@@ -37,6 +35,7 @@ trojan://OD90375861@62.112.222.212:443?sni=more-trout.rooster465.autos&fp=chrome
 trojan://KV63147582@legible-possum.rooster465.autos:443?sni=legible-possum.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://IQ68037294@62.112.222.151:443?sni=emerging-weevil.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://PI36027154@62.112.222.26:443?security=tls&sni=upright-hamster.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none&type=ws&path=%2F#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://cb784d00-d34a-4389-b938-8717f7b28353@81.90.17.164:443?security=reality&encryption=none&pbk=v0XQn6uvyC8q5CThcRYLer1F1OOYpZDn5NLOvDicaWg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yastatic.net&sid=b31c2b75add2e5fa#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://KV63147582@62.112.222.46:443?sni=legible-possum.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://IQ68037294@62.112.222.27:443?sni=optimal-urchin.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
@@ -50,11 +49,10 @@ trojan://IQ68037294@62.112.222.236:443?sni=eternal-swift.rooster465.autos&fp=chr
 trojan://CF68213490@62.112.222.151:443?security=tls&sni=emerging-weevil.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://CF68213490@emerging-weevil.rooster465.autos:443?security=tls&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://IQ68037294@sensible-haddock.rooster465.autos:443?sni=sensible-haddock.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://humanity@202.37.33.80:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://IQ68037294@62.112.222.109:443?sni=strong-haddock.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://PD07395842@62.112.222.46:443?sni=legible-possum.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://NQ26071394@62.112.222.12:443?security=tls&sni=ready-lion.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://NQ26071394@62.112.222.177:443?security=tls&sni=kind-unicorn.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://NQ26071394@62.112.222.12:443?security=tls&sni=ready-lion.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://WG39087154@emerging-weevil.rooster465.autos:443?sni=emerging-weevil.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://PD07395842@62.112.222.57:443?sni=fast-ghost.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://OD90375861@62.112.222.69:443?sni=ideal-robin.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1

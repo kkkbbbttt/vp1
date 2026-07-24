@@ -13,4 +13,3 @@ vless://79a5be11-ec1f-4e18-b7fc-aef854234c43@199.232.78.159:443?path=/TELEGRAM_N
 vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@141.98.87.48:9999?encryption=none&path=%2f#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@85.192.49.169:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=V4SeM4OMxXoSKBmmyC5C0kZEhgL33a5vVZBe7ysJ42U&security=reality&sid=0a30e2aee95a7571&sni=fi.buycloud.app&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@85.192.49.165:443?security=reality&encryption=none&pbk=V4SeM4OMxXoSKBmmyC5C0kZEhgL33a5vVZBe7ysJ42U&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fi.buycloud.app&sid=0a30e2aee95a7571#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVWlFZOWhOalZOV3dhbWFqclhBZjF2dDh1NjNuajBmRg==@31.76.80.205:8388#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
