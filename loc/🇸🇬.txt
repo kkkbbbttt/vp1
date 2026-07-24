@@ -18,6 +18,7 @@ trojan://IQ68037294@brave-cattle.rooster465.autos:443?sni=brave-cattle.rooster46
 trojan://IQ68037294@apt-midge.rooster465.autos:443?security=tls&sni=apt-midge.rooster465.autos&type=tcp&headerType=none&path=%2f&allow_insecure=0#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://IQ68037294@humane-hawk.rooster465.autos:443?security=tls&sni=humane-hawk.rooster465.autos&type=tcp&headerType=none&path=%2f&allow_insecure=0#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://IQ68037294@pet-albacore.rooster465.autos:443?sni=pet-albacore.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@apinbxs.eovay.com:40118?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.lamer.com.sg&fp=safari&pbk=x1nqrSzJzU5Hq7fr36PEmtBfOf98A2XiFuRzIsdcz20&sid=5895914d&type=tcp&headerType=none&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://cdd37253-5f9b-4dcb-8b01-ad60a29384b8@sgp3xui.jzy88.top:54324?security=tls&type=grpc&mode=gun&serviceName=grpc&sni=sgp3xui.jzy88.top&fp=chrome#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 hysteria2://b7c9e2f1-4d83-42a1-9e5f-sg2026proxy@209.74.81.28:8443?insecure=1&sni=209.74.81.28#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://IQ68037294@pleased-sawfly.rooster465.autos:443?sni=pleased-sawfly.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
@@ -30,6 +31,7 @@ trojan://IQ68037294@neat-duck.rooster465.autos:443?sni=neat-duck.rooster465.auto
 trojan://IQ68037294@prepared-turkey.rooster465.autos:443?security=tls&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://IQ68037294@whole-grub.rooster465.autos:443?sni=whole-grub.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://IQ68037294@happy-mutt.rooster465.autos:443?security=tls&sni=happy-mutt.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?sni=grape-power-sg.roxa.org&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://IQ68037294@glowing-deer.rooster465.autos:443?sni=glowing-deer.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://IQ68037294@fun-salmon.rooster465.autos:443?sni=fun-salmon.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://IQ68037294@helpful-possum.rooster465.autos:443?sni=helpful-possum.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
