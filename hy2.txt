@@ -12,7 +12,7 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.95.225.70:443/?insecure=1&sni=https://t.
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.245.180.117:443/?insecure=1#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2@fr2.h2corp.org:443/#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 hysteria2://o3774es6cfv74kaf@musicclips.videolinks.ru:8443/?obfs=salamander&obfs-password=8zzng75tz4tf82pj&sni=musicclips.videolinks.ru#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa1.spectrumproxy.shop:443?sni=usa1.spectrumproxy.shop#hamedp71%3A%3A%E2%9D%93
+hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa1.spectrumproxy.shop:443?sni=usa1.spectrumproxy.shop#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@germany1.noesissite.ru:443/?sni=germany1.noesissite.ru#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52060?security=tls&obfs=salamander&obfs-password=l960g2kn19nphlra&insecure=0&sni=assets.gateway-stream.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 hysteria2://nNS3WyiBOL@178.128.65.195:19108?insecure=1&obfs=salamander&obfs-password=vwrgaergG&sni=aws.amazon.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
