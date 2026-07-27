@@ -2,6 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@77.222.35.36:4100?path=/v1&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?security=reality&sni=enterprisekitten.com&allowInsecure=1&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@168.222.140.204:4100?&type=ws&headerType=none&path=/v1#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@77.222.46.162:2200?path=%2Fv1&security=&encryption=none&host=77.222.46.162&type=ws#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@130.17.2.27:4100?path=/v1&security=none&encryption=none&host=live.ok.ru&type=ws#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA

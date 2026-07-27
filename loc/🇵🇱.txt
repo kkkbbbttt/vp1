@@ -5,5 +5,8 @@
 vless://8bba3194-4856-46d1-8319-075817d87eb1@45.140.204.162:2443?security=reality&encryption=none&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&headerType=&type=tcp&flow=xtls-rprx-vision&sni=pl4.cyphervpn.pro&sid=8f9d033ad6d2cebf#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://IQ68037294@pl.levikogjgfdd.ir:443?security=tls&sni=optimal-urchin.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://8bba3194-4856-46d1-8319-075817d87eb1@45.140.204.162:2443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&security=reality&sid=8f9d033ad6d2cebf&sni=pl4.cyphervpn.pro&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?path=%2F&security=&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://8bba3194-4856-46d1-8319-075817d87eb1@45.140.204.162:2443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pl4.cyphervpn.pro&security=reality&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&sid=8f9d033ad6d2cebf#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://7b81d175-d180-4ec8-bbc5-dfe80e8d3b68@144.31.0.100:443?security=reality&encryption=none&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&headerType=&type=tcp&flow=xtls-rprx-vision&sni=vaultivo-hgooe.ru&sid=5e3ab3ab228625#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 hysteria2://419bfbd4-3097-4cef-a6b3-aebd78506ed7@ppl.myispace.xyz:8443/?sni=ppl.myispace.xyz#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://humanity@188.114.96.3:443?host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
