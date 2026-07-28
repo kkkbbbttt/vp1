@@ -3,10 +3,10 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
 hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-hysteria2://HYi0xllvAM@91.107.178.22:443?security=tls&obfs=salamander&obfs-password=RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak&insecure=1&pinSHA256=06c9289b97b5b4d2a002cce385e52ed6a434c9e0b4e56fc8eb7f608b7079ea9d&sni=www.refersion.com#hamedp71%3A%3A%E2%9D%93
+hysteria2://HYi0xllvAM@91.107.178.22:443?security=tls&obfs=salamander&obfs-password=RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak&insecure=1&pinSHA256=06c9289b97b5b4d2a002cce385e52ed6a434c9e0b4e56fc8eb7f608b7079ea9d&sni=www.refersion.com#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@nland1.noesissite.ru:443/?sni=nland1.noesissite.ru#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443/?insecure=1&sni=www.microsoft.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-hysteria2://voQTxwGh4I@91.107.178.22:443?security=tls&obfs=salamander&obfs-password=RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak&insecure=1&pinSHA256=06c9289b97b5b4d2a002cce385e52ed6a434c9e0b4e56fc8eb7f608b7079ea9d&sni=www.refersion.com#hamedp71%3A%3A%E2%9D%93
+hysteria2://voQTxwGh4I@91.107.178.22:443?security=tls&obfs=salamander&obfs-password=RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak&insecure=1&pinSHA256=06c9289b97b5b4d2a002cce385e52ed6a434c9e0b4e56fc8eb7f608b7079ea9d&sni=www.refersion.com#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52021?security=tls&obfs=salamander&obfs-password=mtg2vchyir6la3et&insecure=0&sni=assets.gateway-stream.com#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52061/?obfs=salamander&obfs-password=fd3olglr2bmimgje&sni=assets.gateway-stream.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52060?security=tls&obfs=salamander&obfs-password=l960g2kn19nphlra&insecure=0&sni=assets.gateway-stream.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA

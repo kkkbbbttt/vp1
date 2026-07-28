@@ -1,0 +1,5 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
+
+vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.198.240:2053?&security=tls&fp=chrome&sni=learn00.evany.de5.net&type=ws&headerType=none&host=learn00.evany.de5.net&path=/fdip=tw.william.us.ci!txt#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B5
