@@ -3,18 +3,15 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
 hysteria2://qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2@fr2.h2corp.org:443/#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52025?security=tls&obfs=salamander&obfs-password=iknjsvsjagi449mm&insecure=0&sni=assets.gateway-stream.com#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443/?insecure=1&sni=5.255.102.165#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://voQTxwGh4I@91.107.178.22:443/?insecure=1&obfs=salamander&obfs-password=RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak&sni=www.refersion.com#hamedp71%3A%3A%E2%9D%93
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@germany1.noesissite.ru:443/?sni=germany1.noesissite.ru#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52061?security=tls&obfs=salamander&obfs-password=fd3olglr2bmimgje&insecure=0&sni=assets.gateway-stream.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443/?insecure=1&sni=www.microsoft.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@usp.noesissite.ru:443?sni=usp.noesissite.ru#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://EaDTeupk9I@91.107.178.22:43913?security=tls&obfs=salamander&obfs-password=V2RayyNGvpn&insecure=0&pinSHA256=990e8a1ca2efec24a7de4373c7123a78b23e9c3d18e10f0e026ddebf85e5b774&sni=assets.gateway-stream.com#hamedp71%3A%3A%E2%9D%93
 hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@5.180.97.78:443/?sni=nederland.gamestocke.ru#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@172.86.95.17:8433/?sni=de1-hy2.veilvpn.life#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://76dff95d-a720-4909-8ca6-3d848e786a9c@159.65.178.189:443/?insecure=1&sni=www.bing.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52021?security=tls&obfs=salamander&obfs-password=mtg2vchyir6la3et&insecure=0&sni=assets.gateway-stream.com#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.245.180.117:443/?insecure=1#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443/?sni=ro.h2corp.org#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333/?sni=hy2.123266.xyz#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
