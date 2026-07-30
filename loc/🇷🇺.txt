@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@89.127.217.9:4100?encryption=none&type=ws&path=%2Fv1&host=live.ok.ru#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@130.17.2.27:4100?encryption=none&type=ws&path=%2Fv1&host=live.ok.ru#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
