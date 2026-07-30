@@ -7,9 +7,9 @@ vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh6/wn4e1IiwiYWRkIjoiMTY4LjEzOC40My43
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vmess://eyJhZGQiOiIxNDAuODMuNTEuMTYxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJqcDAyLmEwYS54eXoiLCJpZCI6IjY3MzNjMzU3LWJhMTEtNGU5Zi1mMDBmLTdkODdmMjc3NmZmOSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9jY3R2MTMubTN1OCIsInBvcnQiOiIyNTY4NiIsInBzIjoiaGFtZWRwNzE6OvCfh6/wn4e1Iiwic2N5IjoiYXV0byIsInNuaSI6ImpwMDIuYTBhLnh5eiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-vless://e34501b9-faa9-356f-8b30-8f2c986b764b@t1.hhaakk9922.com:46784?security=tls&type=grpc&mode=gun&serviceName=ljfxz&sni=t1.hhaakk9922.com&fp=chrome#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vmess://eyJhZGQiOiIxNjEuMzMuMTM5LjEzOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiMTYxLjMzLjEzOS4xMzgiLCJpZCI6IjE2MTBmOGRjLTA2NjEtNDAzMi1hYzZhLWE3MjUwNjAzZjYwOCIsIm5ldCI6IndzIiwicGF0aCI6Ii8xNjEwZjhkYy0wNjYxLTQwMzItYWM2YS1hNzI1MDYwM2Y2MDgtdm0iLCJwb3J0IjoiNTg5MDUiLCJwcyI6ImhhbWVkcDcxOjrwn4ev8J+HtSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:10583?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20129?allowInsecure=1&sni=hk.catxstar.com#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-vless://e34501b9-faa9-356f-8b30-8f2c986b764b@t1.hhaakk9922.com:46782?security=tls&type=grpc&mode=gun&serviceName=ljfxz&sni=t1.hhaakk9922.com&fp=chrome#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://d050aca3-9df2-4461-90ec-92373c1d7636@v2jp.k1.ssnss.live:44184?sni=v2jp.k1.ssnss.live&allowInsecure=1&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
