@@ -3,7 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga6.api3-max.ru:443?sni=taga6.api3-max.ru#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@vpna.poorifast.ir:1080#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@Vpna.Poorifast.ir:1080#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga5.api3-max.ru:443/?sni=taga5.api3-max.ru#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://dd280dbb-75ec-4631-9979-d65237e27185@5.175.136.134:2053?mode=auto&path=/&security=reality&encryption=none&fm={"tcp":[{"settings":{"delays":[],"lengths":["100-200"],"maxSplit":"","packets":"1-3"},"type":"fragment"}]}&pbk=AsmltIw-2fVcbpcbckmIJZrWiVyDW_Kid8VIvHkcmC4&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=81053c0bc6adc9#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vmess://eyJhZGQiOiI1LjE4OC4xOTAuMjUyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6IjIyMzI0IiwicHMiOiJoYW1lZHA3MTo68J+HufCfh7ciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
