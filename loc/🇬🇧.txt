@@ -2,16 +2,12 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://2e8beadd-99bf-4fda-8692-8493886504bc@ad-007.cloud25075.info:8443?path=%2F&security=tls&encryption=none&insecure=0&host=ad-007.cloud25075.info&fp=chrome&type=ws&allowInsecure=0&sni=ad-007.cloud25075.info#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://2e8beadd-99bf-4fda-8692-8493886504bc@172.67.175.34:8443?path=%2F&security=tls&encryption=none&insecure=0&host=ad-007.cloud25075.info&fp=chrome&type=ws&allowInsecure=0&sni=ad-007.cloud25075.info#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa6.api3-max.ru:443/?sni=wopa6.api3-max.ru#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vmess://eyJ2IjoiMiIsImFkZCI6IjE3Mi42Ny4xNzYuMjQ1IiwicG9ydCI6IjQ0MyIsImlkIjoiMDYzMmJmYTktYjE1Yy00MjU3LThjNzUtMzJmN2MwYzUzYjI3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJjZzFjMTIud2FpbWFvamQuY29tIiwicGF0aCI6Ii9hcGkvdjEvZ3JhcGhxbCIsImhvc3QiOiJjZzFjMTIud2FpbWFvamQuY29tIiwicHMiOiJoYW1lZHA3MTo68J+HrPCfh6cifQ
-vless://2e8beadd-99bf-4fda-8692-8493886504bc@172.67.175.34:8443?encryption=none&fp=chrome&host=ad-007.cloud25075.info&path=%2F&security=tls&sni=ad-007.cloud25075.info&type=ws#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh6zwn4enIiwiYWRkIjoiNTcuMTI4LjE3NC4xMjQiLCJwb3J0IjoiMjA5NiIsImlkIjoiYWU5MTExM2ItOTE1Zi00YTU2LWI5OTgtZTUyZDhhMTJkYTM5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJncnBjIiwidHlwZSI6Imd1biIsImhvc3QiOiIiLCJwYXRoIjoiYXBpIiwidGxzIjoidGxzIiwic25pIjoiIiwidGVzdF9uYW1lIjoiOTYifQ
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa9.api3-max.ru:443/?sni=wopa9.api3-max.ru#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh6zwn4enIiwiYWRkIjoiNTcuMTI5LjEzMi4yMjMiLCJwb3J0IjoiODAiLCJpZCI6ImEyNWNiZjExLTI5MDgtNGExYi1hM2E4LTlhNTcxNzc3ZGNhMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6Imdvb2dsZS5jb20iLCJwYXRoIjoiL3ZtZXNzLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjI2In0
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa3.api3-max.ru:443/?sni=wopa3.api3-max.ru#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vmess://eyJ2IjoiMiIsImFkZCI6ImNnMWMxMi53YWltYW9qZC5jb20iLCJwb3J0IjoiNDQzIiwiaWQiOiIwNjMyYmZhOS1iMTVjLTQyNTctOGM3NS0zMmY3YzBjNTNiMjciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6InRscyIsInNuaSI6ImNnMWMxMi53YWltYW9qZC5jb20iLCJwYXRoIjoiL2FwaS92MS9ncmFwaHFsIiwiaG9zdCI6ImNnMWMxMi53YWltYW9qZC5jb20iLCJwcyI6ImhhbWVkcDcxOjrwn4es8J+HpyJ9
-vmess://eyJ2IjoiMiIsImFkZCI6IjEwNC4yMS40My44MSIsInBvcnQiOiI0NDMiLCJpZCI6IjA2MzJiZmE5LWIxNWMtNDI1Ny04Yzc1LTMyZjdjMGM1M2IyNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwic25pIjoiY2cxYzEyLndhaW1hb2pkLmNvbSIsInBhdGgiOiIvYXBpL3YxL2dyYXBocWwiLCJob3N0IjoiY2cxYzEyLndhaW1hb2pkLmNvbSIsInBzIjoiaGFtZWRwNzE6OvCfh6zwn4enIn0
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?encryption=none&host=google.com&path=/vless/&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@107.181.134.90:443/?sni=wopa7.api3-max.ru#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
