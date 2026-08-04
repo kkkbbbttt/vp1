@@ -2,7 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://245bb424-b186-4738-8f42-bdbde719d4c9@172.66.40.99:443?path=%2Fnova-geo-psiphon-ca&security=tls&alpn=h2&encryption=none&insecure=0&host=pinalo.zenvorix.ir&fp=chrome&type=ws&allowInsecure=0&sni=pinalo.zenvorix.ir#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoiaGFtZWRwNzE6OvCfh6jwn4emIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh6jwn4emIiwiYWRkIjoiMTU4LjUxLjEyMS42MyIsInBvcnQiOiI0NDMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6InNlcmlidXMub3JnIiwicGF0aCI6Imxpbmt2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJzZXJpYnVzLm9yZyIsInRlc3RfbmFtZSI6IjI1In0
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
@@ -11,5 +10,7 @@ vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?security=reality
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@185.196.61.82:8080#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4eo8J+HpiIsImFkZCI6IjIzLjE2Mi4yMDAuMTk4IiwicG9ydCI6MTgwMDAsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9
 vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.orbitqgr7v.info:8443?encryption=none&type=ws&security=tls&path=%2F&host=ad-013.orbitqgr7v.info&sni=ad-013.orbitqgr7v.info&fp=chrome&insecure=0&allowInsecure=0#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+vless://3a17b816-a8ae-415d-a592-29345d7a7591@104.17.108.69:443?path=%2Fnova-geo-psiphon-ca&security=tls&encryption=none&insecure=0&host=89drg3d.zenvorix.ir&type=ws&allowInsecure=0&sni=89drg3d.zenvorix.ir#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.milo1fmyz.info:8443?encryption=none&fp=chrome&host=ad-013.milo1fmyz.info&path=%2F&security=tls&sni=ad-013.milo1fmyz.info&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.rapid4yjcz.info:8443?security=tls&sni=ad-013.rapid4yjcz.info&fp=chrome&type=ws&host=ad-013.rapid4yjcz.info&path=%2f#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?security=reality&encryption=none&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&host=BIA_TELEGRAM?=@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0e#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6

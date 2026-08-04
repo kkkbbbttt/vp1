@@ -5,8 +5,6 @@
 hysteria2://DSgrpvSRAu@91.107.178.22:443?security=tls&obfs=salamander&obfs-password=RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak&insecure=1&pinSHA256=06c9289b97b5b4d2a002cce385e52ed6a434c9e0b4e56fc8eb7f608b7079ea9d&sni=www.refersion.com#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.237.197.139:443/?insecure=1&sni=vpn-fr-002.fastervpn.world#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 hysteria2://dongtaiwang.com@hy2.561891.xyz:44356/?sni=hy2.561891.xyz#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-hysteria2://9dada88d-f8f8-459d-8a4f-4df2c973fe43@216.57.111.222:8443/?insecure=1&sni=h2.ecliptic-it.ru#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-hysteria2://XhVX5cnBmJ@185.253.117.217:443?security=tls&obfs=salamander&obfs-password=TelEgRam=V2RayyNGvpn&insecure=1&pinSHA256=6e630338f6b8432a50db80988e00002c669ca0306c64d1856daa6e89a1bc6c3b&sni=www.intel.com#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AD
 hy2://https://xship.2fa.cat@starlink-ft.251313.xyz:443/?insecure=1&sni=www.cloudflare.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@51.44.213.137:443/?insecure=1&sni=vpn-fr-002.fastervpn.world#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@167.104.219.217:443/?sni=taga5.api3-max.ru#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
