@@ -4,8 +4,7 @@
 
 vless://f0dc4d4f-c956-0002-bc3a-021424b8e879@192.142.23.99:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jwtdecoder.xyz&sid=1c3e8241a8743df9#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://bd92eda1-8b37-0002-91fb-dafe419590ea@192.142.23.30:443?encryption=none&type=tcp&security=reality&headerType=none&sni=jwtdecoder.xyz&fp=chrome&insecure=1&allowInsecure=1&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&sid=1c3e8241a8743df9&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://428f4386-9d8e-4c52-8fbe-2e7708fd108b@194.87.30.92:37305?path=/&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://f7e0e597-636e-4550-9f54-6ab1c0e8cf49@62.60.231.42:2053?security=reality&encryption=none&pbk=Xx3r5KsSKa1I8O3avmwMbgXOWj_-MqiqzTO_7BzBxyU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=58c5b3ee013bdc8f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://8c3578fe-cbaa-46eb-a20f-c834d65d9663@194.87.30.92:16739?path=/&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@swe-one.quiet-rogue.site:443/?sni=swe-one.quiet-rogue.site#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://d1c624fc-d0b0-49c7-8afa-e15a5949bc17@st.onnstreaming.ru:443?security=reality&encryption=none&pbk=1c7TsslPz_gsvzX4ENkEa36Pp3gm-M3SRLhvqtGaAz4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=st.onnstreaming.ru&sid=e8e019c424ccb765#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.92:22647?path=/&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
