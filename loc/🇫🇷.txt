@@ -2,21 +2,23 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
+vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?security=reality&encryption=none&pbk=KCbW84C8h2Ja01LS0Ro8EpLLfzMTjs11t1ldDWLd5zo&headerType=none&type=tcp&sni=deepl.com&sid=aae8#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?security=reality&encryption=none&pbk=KCbW84C8h2Ja01LS0Ro8EpLLfzMTjs11t1ldDWLd5zo&headerType=&type=tcp&sni=deepl.com&sid=aae8#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkaU9NQlU1SUR2SmNGcXlOUGJSallS@137.74.119.18:10443#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://ND91608427@15.237.49.244:443?sni=star-kiwi.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://49e76398-5127-4005-90cb-c2a971f745f1@108.162.194.119:443/?type=ws&encryption=none&flow=&host=oekja.megacitylab-nomt.sbs&path=/carbon&security=tls&sni=oekja.megacitylab-nomt.sbs&alpn=channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-&fp=chrome#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://ND91608427@15.237.219.234:443?sni=careful-tadpole.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://ND91608427@13.36.175.151:443?sni=classic-gator.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://49e76398-5127-4005-90cb-c2a971f745f1@love.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=oekja.megacitylab-nomt.sbs&path=/carbon&security=tls&sni=oekja.megacitylab-nomt.sbs&fp=chrome&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?encryption=none&fp=&pbk=KCbW84C8h2Ja01LS0Ro8EpLLfzMTjs11t1ldDWLd5zo&security=reality&sid=aae8&sni=deepl.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?encryption=none&fp=&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&security=reality&sid=a8ae&sni=deepl.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.237.197.139:443/?insecure=1&sni=https://t.me/clashv8🇨🇳#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://1b97d3d9-8320-4015-92d7-c94a07ae48fc@fr-6.flowersyellow.ru:443?security=reality&encryption=none&pbk=SAw2LG0CxynFfpOpX9-5PZOxlz7eQloRLSnbQh9pRUs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://ND91608427@careful-tadpole.rooster465.autos:443?sni=careful-tadpole.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://ND91608427@15.237.137.197:443?sni=fancy-skink.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://fae3277c-0541-4ae9-bbbb-8247453ea652@194.226.169.36:443?encryption=none&fp=&pbk=i4Mx_tDND0Xxac3WyA7HgT9rvXdZlXpm5m1EGiQF-Uk&security=reality&sid=b8aa&sni=yahoo.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://dbe85a41-4f66-4874-89b2-580c7896951c@188.114.96.2:443?encryption=none&type=ws&security=tls&path=/?ed=2560&host=france.havray2025.ir&sni=france.havray2025.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 hy2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111/?insecure=1&sni=bing.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2fassignment&allow_insecure=0#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://ND91608427@classic-gator.rooster465.autos:443?security=tls&sni=classic-gator.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://795d5f5b-318c-49a6-844f-ee2ab63bbe94@35.180.187.82:12228?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tesla.com&fp=chrome&pbk=hvyaRhFtrj3cGv1Ya5uXpE256i2PoUi2fOgU0KlvKmI&sid=59625eb3275249ca&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://7b4b7d4e-7a53-4c0c-bd8e-9f3b1b2c7f21@51.91.158.180:443?security=reality&encryption=none&pbk=wwH_L9FmhJ7AyOBKm9J8YGKdVo1G-QlDEuw5-s3eGEM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=9a4c7d2f8e1b6a3c#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
@@ -25,7 +27,6 @@ hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.237.219.57:443/?insecure=1&sni=https://t.me/cl
 vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443/?type=tcp&encryption=none&flow=&sni=deepl.com&security=reality&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&sid=a8ae#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@chatgpt.com:2053?path=/J5aLQOY1R9ONWYCM&security=tls&encryption=none&insecure=0&host=ov.iran-servers.shop&fp=chrome&type=ws&allowInsecure=0&sni=ov.iran-servers.shop#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://ND91608427@fancy-skink.rooster465.autos:443?sni=fancy-skink.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://49e76398-5127-4005-90cb-c2a971f745f1@108.162.194.119:443?encryption=none&fp=chrome&host=oekja.megacitylab-nomt.sbs&path=/carbon&security=tls&sni=oekja.megacitylab-nomt.sbs&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://QV31589740@great-krill.rooster465.autos:443#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@51.44.213.137:443/?insecure=1&sni=vpn-fr-002.fastervpn.world#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 hysteria2://qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2@fr2.h2corp.org:443/#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
