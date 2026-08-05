@@ -5,7 +5,6 @@
 hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-002.fastervpn.world:443/?insecure=1&sni=vpn-us-002.fastervpn.world#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 hy2://71cada65-d23e-418c-88e4-a06188d14689@it-one.quiet-rogue.site:443/?sni=it-one.quiet-rogue.site#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-hy2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@es1.xiaoliyu.cyou:4433/?insecure=1&sni=es1.xiaoliyu.cyou#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@87.121.105.108:443/?sni=swe-one.quiet-rogue.site#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.237.197.139:443/?insecure=1&sni=https://t.me/clashv8🇨🇳#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 hy2://Krab9Hyst2_Rk7pQ2xL@de2.vpn.legendaah.xyz:36723/?insecure=1&sni=www.cloudflare.com#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
