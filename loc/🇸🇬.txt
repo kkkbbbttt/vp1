@@ -2,7 +2,9 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
+vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@104.17.70.206:2096?security=tls&type=ws&path=%2Ffree-server.techsonic.dev&host=free-server.techsonic.dev&alpn=h2%2Chttp%2F1.1&sni=free-server.techsonic.dev&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:10574?encryption=none&flow=xtls-rprx-vision&fp=&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://f1178fbe-1420-4eef-b087-4f33b32b4a19@free-server.techsonic.dev:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&sni=aka.ms#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://ND91608427@54.255.35.23:443?sni=tidy-gelding.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://ND91608427@tidy-gelding.rooster465.autos:443?sni=tidy-gelding.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?security=tls&type=ws&path=/dula&host=speed.dulacloud.store&packetEncoding=xudp&sni=speed.dulacloud.store&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
