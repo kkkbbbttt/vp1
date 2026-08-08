@@ -7,5 +7,6 @@ trojan://ND91608427@relaxed-gull.rooster465.autos:443?sni=relaxed-gull.rooster46
 vless://9a9fe945246a431ebd051cb981464c8d@2.59.163.45:59992?&type=tcp&headerType=none&path=/#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://ND91608427@202.78.163.248:443?security=tls&sni=relaxed-gull.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://ND91608427@202.78.163.148:443?sni=discrete-basilisk.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@31.76.251.127.cdn-one.org:443?&security=tls&fp=chrome&type=ws&headerType=none&host=31.76.251.127.cdn-one.org&path=/10336/2GCOqG7bvA#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://b406bc51-9002-474c-beae-b194b02c91da@144.31.131.241:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&security=reality&sid=a20d3ed244c76426&sni=mold.speedload.online&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://ND91608427@discrete-basilisk.rooster465.autos:443?sni=discrete-basilisk.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
