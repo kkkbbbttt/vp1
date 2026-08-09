@@ -2,9 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-trojan://ND91608427@57.180.13.78:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=healthy-louse.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@3.113.24.17:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=nearby-egret.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-trojan://ND91608427@43.207.155.134:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=smart-pup.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://ND91608427@57.180.13.78:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=healthy-louse.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@13.230.118.96:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=real-werewolf.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@35.72.13.34:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=casual-bee.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@18.178.132.111:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=devoted-heron.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
@@ -20,16 +19,16 @@ trojan://ND91608427@nearby-egret.rooster465.autos:443?allowInsecure=1&sni=nearby
 trojan://ND91608427@54.249.34.120:443?sni=social-mutt.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@learning-leopard.rooster465.autos:443?allowInsecure=1&sni=learning-leopard.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@13.231.232.184:443?security=tls&sni=better-molly.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4ev8J+HtSIsImFkZCI6IjE0MC44My41MS4xNjEiLCJwb3J0IjoyNTY4NiwiaWQiOiI2NzMzYzM1Ny1iYTExLTRlOWYtZjAwZi03ZDg3ZjI3NzZmZjkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IjE0MC44My41MS4xNjEiLCJhbHBuIjpudWxsLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0
+vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:11452?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.apple.com&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@jp-ak.astralweb.tech:443?flow=xtls-rprx-vision&security=reality&sni=jp-ak.astralweb.tech&fp=chrome&pbk=Z2c9dK70_0OWBEZGgeaXJyt9dup9h2-hZlCCvIGLg1Q&sid=496ee75c2f91f51d&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@sure-humpback.rooster465.autos:443?allowInsecure=1&sni=sure-humpback.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@3.113.24.17:443?security=tls&sni=nearby-egret.rooster465.autos&type=tcp&headerType=none&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@tough-robin.rooster465.autos:443?allowInsecure=1&sni=tough-robin.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@3.112.238.99:443?security=tls&sni=stunning-mite.rooster465.autos&type=tcp&headerType=none&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@picked-guinea.rooster465.autos:443?allowInsecure=1&sni=picked-guinea.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@18.179.31.199:443?security=tls&sni=prompt-duckling.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@moral-buzzard.rooster465.autos:443?allowInsecure=1&sni=moral-buzzard.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwiYWlkIjowLCJob3N0IjoiTm9uZSIsImlkIjoiMTFjMzYyN2YtMzFlOC00Njk1LWRmYmQtMzQwNzZlMmYxZjVkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwicG9ydCI6IjgwIiwicHMiOiJoYW1lZHA3MTo68J+Hr/Cfh7UiLCJzbmkiOiJOb25lIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 trojan://ND91608427@social-mutt.rooster465.autos:443?allowInsecure=1&sni=social-mutt.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@relaxing-bluebird.rooster465.autos:443?security=tls&sni=relaxing-bluebird.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@perfect-slug.rooster465.autos:443?allowInsecure=1&sni=perfect-slug.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
@@ -37,13 +36,12 @@ trojan://ND91608427@stunning-mite.rooster465.autos:443?allowInsecure=1&sni=stunn
 trojan://ND91608427@57.180.27.225:443?security=tls&sni=picked-guinea.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@devoted-heron.rooster465.autos:443?security=tls&sni=devoted-heron.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@healthy-louse.rooster465.autos:443?allowInsecure=1&sni=healthy-louse.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?allowInsecure=1&sni=hk.catxstar.com#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@13.192.168.51:443?security=tls&sni=learning-leopard.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@18.181.164.216:443?security=tls&sni=upright-impala.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://98944209-4d92-41b2-9c24-c5ac17b3b493@46.250.250.149:2053?security=reality&sni=www.cloudflare.com&fp=chrome&pbk=2mp1wwmKQyvIVuGujoT0AGoAHwP1IFXlZRj8jB_UnGo&sid=61abecf0a82c31f5&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-trojan://ND91608427@smart-pup.rooster465.autos:443?allowInsecure=1&sni=smart-pup.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@52.194.230.221:443?security=tls&sni=happy-mutt.rooster465.autos&type=tcp&headerType=none&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@57.180.13.78:443?security=tls&sni=healthy-louse.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-trojan://ND91608427@43.207.155.134:443?security=tls&sni=smart-pup.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@casual-bee.rooster465.autos:443?allowInsecure=1&sni=casual-bee.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@thankful-mustang.rooster465.autos:443?allowInsecure=1&sni=thankful-mustang.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@13.230.118.96:443?security=tls&sni=real-werewolf.rooster465.autos&type=tcp&headerType=none&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5

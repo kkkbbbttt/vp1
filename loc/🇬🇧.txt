@@ -2,9 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@185.232.117.114:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&sni=vl04.skorostnet.space#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://52b71b75-4b77-4cec-990b-046ec1938e1f@67.159.56.57:443?security=reality&type=tcp&packetEncoding=xudp&sni=uk.bvps.cloud&fp=chrome&flow=xtls-rprx-vision&sid=60debb3ab744d8ce&pbk=j5qmR8E9er-0n5zZbK6s_SdvYm-tYlraXVYm49ArWS8&encryption=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@millionaire.levikogjgfdd.ir:443?encryption=none&type=ws&host=terazhediii.info&path=/hdgrbws&security=tls&sni=terazhediii.info#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://ad4dd89a-2e4b-4f33-bb96-7e9c4eb85d0b@169.197.113.179:20190?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@185.232.117.115:443?security=reality&type=tcp&sni=vl05.skorostnet.space&fp=firefox&flow=xtls-rprx-vision&sid=fdda9806fe5d8584&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&encryption=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
