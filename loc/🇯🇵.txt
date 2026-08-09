@@ -38,8 +38,8 @@ trojan://ND91608427@18.178.132.111:443?sni=devoted-heron.rooster465.autos&fp=chr
 trojan://ND91608427@35.72.13.34:443?sni=casual-bee.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@prompt-duckling.rooster465.autos:443?sni=prompt-duckling.rooster465.autos&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@real-werewolf.rooster465.autos:443?security=tls&sni=real-werewolf.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-vless://44ebd5d8-c8a3-408c-8195-1cb1e97c5c21@64.176.61.124:443?security=reality&encryption=none&pbk=kOzjn-aqsOrs5AXRAYKOsU-xY-NdK3Q8ZH0XdwitFRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=products.amd.com&sid=069fba81c72d1e#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@picked-guinea.rooster465.autos:443?sni=picked-guinea.rooster465.autos&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+vless://44ebd5d8-c8a3-408c-8195-1cb1e97c5c21@64.176.61.124:443?security=reality&encryption=none&pbk=kOzjn-aqsOrs5AXRAYKOsU-xY-NdK3Q8ZH0XdwitFRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=products.amd.com&sid=069fba81c72d1e#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@43.207.155.134:443?sni=smart-pup.rooster465.autos&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@18.179.31.199:443?security=tls&sni=prompt-duckling.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@healthy-louse.rooster465.autos:443?security=tls&sni=healthy-louse.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
