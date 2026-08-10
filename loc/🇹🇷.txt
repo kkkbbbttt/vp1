@@ -2,8 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
+vless://e3a1a6f5-2491-42e8-b2e1-7c84f0c547e8@bobopanelsi.jorgotr.ir:49199?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@81.177.215.156:13868/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=amd.com&security=reality&pbk=FaX6hUpswBFFN-GaXFmFK8bVWYcPlrB4KP26n_INgko&sid=e852dc#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://e86c6e2a-382d-4f03-8f52-f52a5ab38a3f@titi.k44lawm.ir:2547?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://205a1240-ff84-4ac1-a84d-82175bddf999@www.speedtest.net:8880?security=none&type=httpupgrade&headerType=&path=%2Fv-hu&host=tr.web.doctor-alan-cloud.ir#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://e3a1a6f5-2491-42e8-b2e1-7c84f0c547e8@bobopanelsi.jorgotr.ir:42754?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@81.177.215.156:13868?security=reality&encryption=none&pbk=FaX6hUpswBFFN-GaXFmFK8bVWYcPlrB4KP26n_INgko&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=e852dc#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@170.168.97.7:443?mode=auto&path=/&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&type=xhttp&sni=download.nvidia.com#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7

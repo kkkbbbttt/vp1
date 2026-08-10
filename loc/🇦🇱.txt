@@ -1,5 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
-
-vless://d2d546bd-1ca2-4796-84d1-fe7cc43f2835@login.hevmexo.ir:443?headerType=none&flow=xtls-rprx-vision&sid=da1b206f25650b86&pbk=k7iCwXaEzwo1QxLCbFHUDdi5hfNzXer5Rl8wN9XyezU&security=reality&fp=chrome&sni=token.safebrowsing.apple&encryption=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B1

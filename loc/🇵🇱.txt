@@ -7,6 +7,5 @@ vless://c26a059d-e324-4c93-912f-443ddec99643@byocsv48182d.dxdx3.com:15744?encryp
 trojan://ND91608427@discrete-basilisk.rooster465.autos:443?sni=discrete-basilisk.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://ND91608427@202.78.163.248:443?sni=relaxed-gull.rooster465.autos&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://ND91608427@relaxed-gull.rooster465.autos:443?sni=relaxed-gull.rooster465.autos&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@31.76.251.127.cdn-one.org:443?&security=tls&fp=chrome&type=ws&headerType=none&host=31.76.251.127.cdn-one.org&path=/10336/2GCOqG7bvA#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://ND91608427@202.78.163.148:443?sni=discrete-basilisk.rooster465.autos&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@104.18.1.1:2053?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=music1000.melobitmusic1.ir&fp=chrome&type=ws&allowInsecure=0&sni=music1000.melobitmusic1.ir#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
