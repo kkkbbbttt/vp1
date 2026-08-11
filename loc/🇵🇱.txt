@@ -2,8 +2,15 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-trojan://ND91608427@discrete-basilisk.rooster465.autos:443?sni=discrete-basilisk.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://ND91608427@202.78.163.248:443?sni=relaxed-gull.rooster465.autos&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://ND91608427@relaxed-gull.rooster465.autos:443?sni=relaxed-gull.rooster465.autos&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://ND91608427@202.78.163.148:443?sni=discrete-basilisk.rooster465.autos&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@104.18.1.1:2053?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=music1000.melobitmusic1.ir&fp=chrome&type=ws&allowInsecure=0&sni=music1000.melobitmusic1.ir#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://8bbd4b7c-20d3-49c1-bdf1-1aef933a021b@2.26.225.117:443?encryption=none&fp=chrome&pbk=lQhPrhzCv3iS1ayqarGi46MlP6N43zAhPpzhvccwtRo&security=reality&serviceName=apisub&sid=7d68fe7a&sni=bshis.xanka.best&type=grpc#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://ND91608427@discrete-basilisk.rooster465.autos:443?security=tls&sni=discrete-basilisk.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://ND91608427@202.78.163.248:443?security=tls&sni=relaxed-gull.rooster465.autos&type=tcp&headerType=none&path=%2f&allow_insecure=0#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@pol3.freeinternat.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&security=reality&sid=ff776ff77be48b88&sni=pol3.freeinternat.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://ND91608427@202.78.163.148:443?sni=discrete-basilisk.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://b406bc51-9002-474c-beae-b194b02c91da@144.31.131.241:8443?security=reality&encryption=none&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mold.speedload.online&sid=a20d3ed244c76426#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://ND91608427@relaxed-gull.rooster465.autos:443?security=tls&sni=relaxed-gull.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://8970d7c5-55b5-491d-8a3c-5635b81d2f3c@217.12.207.24:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=-UvUcf7EzjiCgbF99XtLh4-gfw0hvw-iNC-7Vaaqsko&security=reality&sid=75f8575e5396a2fe&sni=pol-s1.mustgate.org&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@95.85.227.142:8443?mode=auto&security=reality&encryption=none&pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&fp=chrome&type=xhttp&sni=wikihow.com#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://8bbd4b7c-20d3-49c1-bdf1-1aef933a021b@bshis.xanka.best:443?encryption=none&fp=chrome&pbk=lQhPrhzCv3iS1ayqarGi46MlP6N43zAhPpzhvccwtRo&security=reality&serviceName=apisub&sid=7d68fe7a&sni=bshis.xanka.best&type=grpc#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meow-warsaw.nethcloud.top:8443?encryption=none&fp=&host=wikihow.com&mode=auto&path=/&pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&security=reality&sni=wikihow.com&type=xhttp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meow-warsaw.nethcloud.top:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.wikihow.com&fp=chrome&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1

@@ -1,0 +1,5 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
+
+vless://db9a9b0f-fd4c-404b-9437-16e567544665@yt.czh.xanka.best:1337?flow=xtls-rprx-vision&security=reality&encryption=none&sni=czh.xanka.best&alpn=http%2f1.1&fp=firefox&pbk=8ik0rnxTlrrGfJaQnmLnUXpY0DSm_xohbJGvmfrbMSA&sid=459193ba&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
