@@ -11,11 +11,11 @@ hy2://d1a0857bc1eb833a9edf96be4c1f999e@host-vds2-fr.kvncococ.org:55443?sni=host-
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@nl1.noesissite.ru:443/?insecure=1&sni=nl1.noesissite.ru#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.213.89.22:443?insecure=1&sni=vk.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 hy2://gf1:gfhysteria2024@185.156.44.99:443?sni=www.amazon.com&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
+hy2://2ef4cf10-34df-4c0f-9d82-bf6ca9e45025@node-degame.bangboonet.ru:443?sni=node-degame.bangboonet.ru&path=%2f#hamedp71%3A%3A%E2%9D%93
 hy2://95e8532b-cc69-42d4-9553-e3c23292b15b@176.124.222.180:8443?sni=j47lq.pleiades.codes&path=%2f#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hy2://95e8532b-cc69-42d4-9553-e3c23292b15b@176.124.222.180:8443/?sni=j47lq.pleiades.codes#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.89.239:443?sni=vpn-kr-003.fastervpn.world&path=%2f&allow_insecure=1#hamedp71%3A%3A%E2%9D%93
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.89.239:443?sni=vpn-kr-003.fastervpn.world&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 hysteria2://Configvibes@107.181.155.107:2096?security=tls&obfs=salamander&obfs-password=IL+pm5"K?4gef:Jvn8^G+:N,Neyy8&insecure=1&pinSHA256=4d885985ade324c2cee16b7107ae41fdda03800eb8676b946ea4760162a1279c&sni=ftp.debian.org#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 hy2://gf1:gfhysteria2024@5.129.235.85:443?sni=www.linux.com&path=%2f&allow_insecure=1#hamedp71%3A%3A%E2%9D%93
 hy2://22j0d00lev7mq0yv@musicclips.videolinks.ru:8443?sni=musicclips.videolinks.ru&path=%2f&obfs=salamander&obfs-password=8zzng75tz4tf82pj&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@138.124.68.188:443/?sni=usa1.spectrumproxy.shop#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://gf1:gfhysteria2024@173.212.201.85:443/?insecure=1&sni=www.docker.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
