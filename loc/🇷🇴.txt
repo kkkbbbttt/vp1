@@ -4,3 +4,4 @@
 
 hy2://gf1:gfhysteria2024@185.156.44.99:443?sni=www.amazon.com&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@ytryurdj64bbb.localip.ir:443?&security=tls&fp=chrome&alpn=http/1.1&sni=ro-3.ariyuz.org&type=ws&headerType=none&host=ro-3.ariyuz.org&path=/#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
+vless://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@87.58.205.88:443?mode=auto&path=/&security=reality&encryption=none&pbk=v_s3GW5_7jvB081tdUeyoDUUTq6fZwqKbVS7CdvLFA0&fp=chrome&type=xhttp&sni=google.com&sid=72cd47c079c0a3df#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
