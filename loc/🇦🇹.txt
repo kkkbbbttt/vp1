@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://000f16e8-cc68-4951-b336-acd81996efde@45.155.71.170:50443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&security=reality&pbk=hp9ht_jsxocTnQEbChb1G3JoDF50x-xDT8UYr66D1TQ&sid=#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
-vless://000f16e8-cc68-4951-b336-acd81996efde@45.155.71.170:50443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=hp9ht_jsxocTnQEbChb1G3JoDF50x-xDT8UYr66D1TQ&security=reality&sni=www.icloud.com&type=tcp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
+vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@152.53.114.186:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=as.tunnelx.space&fp=firefox&pbk=UO3EObgU3xUrhIGEE0gfCn5ZOz8YxNcwwW6ZaYzD3SA&sid=4e9b0c2d1a3f5768&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
