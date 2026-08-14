@@ -2,6 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?encryption=none&security=none&type=ws&path=/vless/#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?encryption=none&type=ws&security=tls&path=/vless/&insecure=1&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://95ae0de8-d944-4b1e-b450-d34d80f9a528@xit.saturn-cloud.net:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=xit.saturn-cloud.net&pbk=UjwVdSvY-6dV5UKCNO7ROokiSF_aLaXYyUaG6RybOmI&sid=2762604ed2e0fa2f&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
