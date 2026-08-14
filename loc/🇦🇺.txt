@@ -3,5 +3,5 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENI@45.77.232.213:15675#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
-hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@au1.xiaoliyu.cyou:4433?insecure=1&sni=au1.xiaoliyu.cyou#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
+trojan://AE62539071@darling-mutt.rooster465.autos:443?allowInsecure=1#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
+trojan://AE62539071@together-dingo.rooster465.autos:443?allowInsecure=1#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
