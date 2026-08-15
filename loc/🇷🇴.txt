@@ -2,6 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@ytryurdj64bbb.localip.ir:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ro-3.ariyuz.org&type=ws&allowInsecure=0&sni=ro-3.ariyuz.org#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
-vless://53db95fa-4ebe-4450-8013-a2b0a5827f3f@87.58.205.109:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.googletagmanager.com&allowInsecure=1&fp=chrome&security=reality&pbk=GUYDQKGvNl3_YozhbqG8bvecxjQ7HL5A8iqbuYBUUkw&sid=01c1bb79d6a7c6cf&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
-vless://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@87.58.205.88:443?encryption=none&security=reality&sni=google.com&pbk=v_s3GW5_7jvB081tdUeyoDUUTq6fZwqKbVS7CdvLFA0&sid=72cd47c079c0a3df&type=xhttp&mode=auto&path=/#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
+hy2://gf1:gfhysteria2024@185.156.44.99:443?sni=www.amazon.com&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
+vless://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@rm1.levikogjgfdd.ir:443?mode=auto&path=/&security=reality&encryption=none&pbk=v_s3GW5_7jvB081tdUeyoDUUTq6fZwqKbVS7CdvLFA0&host=Telegram-Leviko_v2ray&type=xhttp&sni=google.com&sid=72cd47c079c0a3df#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
+vless://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@87.58.205.88:443?encryption=none&fp=&mode=auto&path=/&pbk=v_s3GW5_7jvB081tdUeyoDUUTq6fZwqKbVS7CdvLFA0&security=reality&sid=72cd47c079c0a3df&sni=google.com&type=xhttp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
