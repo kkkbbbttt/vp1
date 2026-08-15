@@ -25,6 +25,7 @@ trojan://ND91608427@stunning-mite.rooster465.autos:443?allowInsecure=1&sni=stunn
 trojan://ND91608427@54.249.34.120:443?sni=social-mutt.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@43.207.139.153:443?security=tls&sni=sensible-mongrel.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://AE62539071@premium-weevil.rooster465.autos:443?allowInsecure=1#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYTZ6YzRKb0xSSkE=@176.97.73.215:8388#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@57.180.27.225:443?sni=picked-guinea.rooster465.autos&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@3.112.238.99:443?security=tls&sni=stunning-mite.rooster465.autos&type=tcp&headerType=none&path=%2f&allow_insecure=0#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682?allowInsecure=1&sni=t11.qifei.app#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
@@ -34,9 +35,9 @@ trojan://ND91608427@picked-guinea.rooster465.autos:443?security=tls&sni=picked-g
 trojan://ND91608427@nearby-egret.rooster465.autos:443?security=tls#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://9bb81a28-00d0-4dcc-bf81-369721d208c9@207.56.229.202:28194?security=reality&encryption=none&pbk=n2anijZfw3LrcKiltBET1nLOv0lVrxxvh_pSC5eu6U4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=493b786f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://AE62539071@main-impala.rooster465.autos:443?allowInsecure=1#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4ev8J+HtSIsImFkZCI6IjIwNy41Ni4yMjkuMjAyIiwicG9ydCI6MjA1MiwiaWQiOiI5YmI4MWEyOC0wMGQwLTRkY2MtYmY4MS0zNjk3MjFkMjA4YzkiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJ3d3cuYmluZy5jb20iLCJhbHBuIjpudWxsLCJwYXRoIjoiOWJiODFhMjgtMDBkMC00ZGNjLWJmODEtMzY5NzIxZDIwOGM5LXZtIiwidGxzIjpudWxsLCJzbmkiOm51bGwsImZwIjpudWxsfQ
 trojan://ND91608427@upright-impala.rooster465.autos:443?allowInsecure=1&sni=upright-impala.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@adjusted-labrador.rooster465.autos:443?security=tls&sni=adjusted-labrador.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://ND91608427@54.65.167.167:443?sni=tough-robin.rooster465.autos&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@internal-sunbird.rooster465.autos:443?sni=internal-sunbird.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://AE62539071@polished-imp.rooster465.autos:443?allowInsecure=1&sni=polished-imp.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@better-molly.rooster465.autos:443?sni=better-molly.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
@@ -47,6 +48,7 @@ trojan://ND91608427@57.180.13.78:443?sni=healthy-louse.rooster465.autos&path=%2f
 trojan://ND91608427@thankful-mustang.rooster465.autos:443?security=tls&sni=thankful-mustang.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@35.72.13.34:443?sni=casual-bee.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@devoted-heron.rooster465.autos:443?security=tls&sni=devoted-heron.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://ND91608427@tough-robin.rooster465.autos:443?security=tls&sni=tough-robin.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@13.231.232.184:443?sni=better-molly.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@18.178.132.111:443?security=tls&sni=devoted-heron.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@casual-bee.rooster465.autos:443?security=tls&sni=casual-bee.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
