@@ -2,10 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@gb1.murhost.network:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=gb1.murhost.network&fp=chrome&security=reality&pbk=-nB-tCeZ4Zr72ArHUKnbUphbs4PlBS6iId6PkrPQQTE&sid=84f9881951050a30#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vmess://eyJhZGQiOiJydXNoLTcyZnJmLm1lZW9wcC5zaXRlIiwiYWlkIjowLCJob3N0IjoicnVzaC03MmZyZi5tZWVvcHAuc2l0ZSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjQ0MywicHMiOiJoYW1lZHA3MTo68J+HrPCfh6ciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@164.37.104.234:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=-nB-tCeZ4Zr72ArHUKnbUphbs4PlBS6iId6PkrPQQTE&security=reality&sid=84f9881951050a30&sni=gb1.murhost.network&type=tcp#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@gb1.murhost.network:443?security=reality&type=tcp&sni=gb1.murhost.network&fp=chrome&flow=xtls-rprx-vision&sid=84f9881951050a30&pbk=-nB-tCeZ4Zr72ArHUKnbUphbs4PlBS6iId6PkrPQQTE&encryption=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-hy2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@yg3.mangshe.xyz:2056?sni=yg3.mangshe.xyz&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@uk2.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=-nB-tCeZ4Zr72ArHUKnbUphbs4PlBS6iId6PkrPQQTE&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=gb1.murhost.network&sid=84f9881951050a30#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@194.150.166.12:443?encryption=none&flow=xtls-rprx-vision&security=reality&type=tcp&fp=chrome&pbk=b75SrHI--As9QxOVfRIPkGmGfXjs53CGAjbws2K99Rs&sni=www.avito.ru#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://ad4dd89a-2e4b-4f33-bb96-7e9c4eb85d0b@169.197.113.179:20190?encryption=none&security=none&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
