@@ -2,10 +2,33 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7jwn4esIiwiYWRkIjoiMTQwLjgzLjU3LjIwIiwicG9ydCI6IjEzMTE4IiwiaWQiOiIxZjAxZTM4OS1mYmNiLTQ5NGMtZTQ2YS0yMTBlYzM2MzI5YzIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJzZy4xMTE2MDMyMS5kZTUubmV0IiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJzZy4xMTE2MDMyMS5kZTUubmV0IiwidGVzdF9uYW1lIjoiMTA2In0
-trojan://AE62539071@integral-quetzal.rooster465.autos:443?allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjoiMCIsImFscG4iOm51bGwsImZwIjpudWxsLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuYW1lIjoi8J+HuPCfh6wgU0cgMSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6MTgwMDAsInBzIjoiaGFtZWRwNzE6OvCfh7jwn4esIiwic2N5IjpudWxsLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOm51bGwsInRscyI6IiIsInR5cGUiOm51bGwsInYiOm51bGx9
-vless://1bc380b1-cff7-446f-b13f-5c0ad29fc75a@16.176.42.97:443?&security=tls&fp=chrome&sni=zero.csmaster.ggff.net&type=ws&headerType=none&host=zero.csmaster.ggff.net&path=/#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://AE62539071@noted-bass.rooster465.autos:443?security=tls&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.140:2096?security=tls&type=ws&path=/free-server.techsonic.dev&host=free-server.techsonic.dev&packetEncoding=xudp&sni=free-server.techsonic.dev&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.57:2096?encryption=none&fp=chrome&host=free-server.techsonic.dev&path=%2Ffree-server.techsonic.dev&security=tls&sni=free-server.techsonic.dev&type=ws#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?security=reality&encryption=none&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=d1742269#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://AE62539071@13.229.94.200:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=massive-terrapin.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://FH72359861@13.229.56.205:443?sni=exciting-turtle.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://AE62539071@stirred-buck.rooster465.autos:443?sni=stirred-buck.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://AE62539071@smooth-hornet.rooster465.autos:443?sni=smooth-hornet.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://AE62539071@rich-mule.rooster465.autos:443?sni=rich-mule.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://FH72359861@13.229.94.200:443?sni=massive-terrapin.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://FH72359861@charming-ox.rooster465.autos:443?security=tls&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://AE62539071@simple-rodent.rooster465.autos:443?security=tls&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://AE62539071@massive-terrapin.rooster465.autos:443?sni=massive-terrapin.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://FH72359861@47.129.156.223:443?sni=immune-grackle.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://FH72359861@immune-grackle.rooster465.autos:443?security=tls&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://FH72359861@54.254.235.88:443?sni=charming-ox.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://FH72359861@13.212.204.216:443?sni=funny-hawk.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://FH72359861@13.250.119.54:443?sni=casual-basilisk.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://FH72359861@54.179.23.28:443?sni=boss-sailfish.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://FH72359861@47.129.7.255:443?sni=stable-racer.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://FH72359861@47.129.157.81:443?sni=noted-bass.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://FH72359861@13.229.109.201:443?sni=relative-labrador.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://FH72359861@13.212.173.162:443?sni=integral-quetzal.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4e48J+HrCIsImFkZCI6IjE0OS44OC4yMy4yMDciLCJwb3J0IjoxODAwMCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ
+trojan://AE62539071@rested-osprey.rooster465.autos:443?sni=rested-osprey.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://AE62539071@excited-sole.rooster465.autos:443?security=tls&sni=excited-sole.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://FH72359861@13.212.59.213:443?sni=guided-ferret.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&security=reality&sid=d1742269&sni=www.cloudflare.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://AE62539071@elegant-marten.rooster465.autos:443?sni=elegant-marten.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://AE62539071@integral-quetzal.rooster465.autos:443?security=tls&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://AE62539071@sacred-anemone.rooster465.autos:443?security=tls&sni=sacred-anemone.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://FH72359861@worthy-perch.rooster465.autos:443?allowInsecure=0&sni=worthy-perch.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://AE62539071@noted-bass.rooster465.autos:443?sni=noted-bass.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
