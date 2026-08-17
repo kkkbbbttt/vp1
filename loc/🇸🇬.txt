@@ -6,7 +6,6 @@ vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?security=reality&
 trojan://AE62539071@54.169.241.164:443?sni=rested-osprey.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://AE62539071@rich-mule.rooster465.autos:443?sni=rich-mule.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://AE62539071@47.129.157.81:443?sni=noted-bass.rooster465.autos&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-hy2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@xjp4.mangshe.xyz:2060/?insecure=1&sni=xjp4.mangshe.xyz#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://AE62539071@smooth-hornet.rooster465.autos:443?sni=smooth-hornet.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://AE62539071@rested-osprey.rooster465.autos:443?sni=rested-osprey.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://FH72359861@13.212.204.216:443?sni=funny-hawk.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC

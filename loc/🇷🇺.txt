@@ -2,10 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://bceda826-c83c-45d0-891e-15c4bfec76bc@168.222.141.146:2200?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/v1&security=none&encryption=none&host=rzd.ru&type=ws#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://e7299042-7d8f-440f-8368-2516b0e69341@tn.tmn141246.ru:2200?encryption=none&type=ws&path=/v1&host=rzd.ru&security=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://77fd4d9e-c314-4203-b3e0-b836a1d969b4@188.225.27.238:2200?path=/v1&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-hysteria2://2a0099ded5baa93c55823af39229c5b1@185-22-155-81.liao.kdns.fr:50160/?sni=185-22-155-81.liao.kdns.fr#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@168.222.140.236:4100?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/v1&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://d69008f8-f222-4016-a8c2-349c21e6f2af@144.31.190.133:8081?type=tcp&security=reality&sni=sun6-21.userapi.com&fp=firefox&flow=xtls-rprx-vision&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://2e79f3ca-b8db-4d4d-a96e-8f7313480696@168.222.203.14:4100?path=/v1&security=none&encryption=none&host=live.ok.ru&type=ws#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@91.196.35.146:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=uo-U-FDlo7Cqldg7JKUe8jHvYnwP08NanGX0tUFrqEc&security=reality&sid=bef240e96a8474a3&sni=russia.cendora.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://ba222add-6ac1-45f1-9a18-f91cb38e324f@201.51.1.84:16923?encryption=none&fp=&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&security=reality&serviceName=neurex&sid=10ffb85da1c2d986&sni=api-maps.yandex.ru&type=grpc#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
