@@ -2,6 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://2e79f3ca-b8db-4d4d-a96e-8f7313480696@168.222.203.14:4100?path=/v1&security=none&encryption=none&host=live.ok.ru&type=ws#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@91.196.35.146:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=uo-U-FDlo7Cqldg7JKUe8jHvYnwP08NanGX0tUFrqEc&security=reality&sid=bef240e96a8474a3&sni=russia.cendora.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-hysteria2://d325f389-7bc9-4d6a-8a2b-7dd4f7ab6e9f@ru.h.topbelka.ru:443?security=tls&insecure=1&sni=ru.h.topbelka.ru#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://ba222add-6ac1-45f1-9a18-f91cb38e324f@201.51.1.84:16923/?type=grpc&encryption=none&flow=&serviceName=neurex&sni=api-maps.yandex.ru&security=reality&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
