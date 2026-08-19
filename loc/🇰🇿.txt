@@ -4,3 +4,4 @@
 
 vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?security=reality&encryption=none&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=69a2#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%BF
 vless://7d641c2e-6897-4b9f-8a82-3f0cc8980db1@magazinetut.online:8443?security=tls&type=tcp&sni=magazinetut.online&fp=firefox&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%BF
+vless://9d01e9f2-1569-48cd-beb3-36f706f5ad5b@45.146.131.154:8452?security=reality&encryption=none&pbk=neW65LaKi88zH-X9gRQPhl5YqQLz9E4IrVnOpS4BnkU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=45b10e93bc618c2c#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%BF
