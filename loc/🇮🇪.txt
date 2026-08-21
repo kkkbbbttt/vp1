@@ -43,6 +43,4 @@ trojan://PQ05174892@nice-elephant.rooster465.autos:443?sni=nice-elephant.rooster
 trojan://EQ30679154@54.74.185.175:443?sni=romantic-kangaroo.rooster465.autos&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
 trojan://AE62539071@worthy-labrador.rooster465.autos:443?sni=worthy-labrador.rooster465.autos&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
 trojan://FH72359861@cunning-grub.rooster465.autos:443?security=tls&path=%2f#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
-trojan://FH72359861@summary-firefly.rooster465.autos:443?security=tls&path=%2f#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
 trojan://FH72359861@54.216.139.140:443?sni=cunning-grub.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
-trojan://FH72359861@balanced-heron.rooster465.autos:443?security=tls&path=%2f#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
