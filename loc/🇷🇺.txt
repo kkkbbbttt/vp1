@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://7b2ce6b0-6d2b-4926-b7bf-6247eb1a0050@5.42.103.91:2200?path=/v1&security=&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.233:2200?path=/v1&security=&encryption=none&host=rzd.ru&type=ws#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
