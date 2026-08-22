@@ -4,12 +4,11 @@
 
 trojan://FH72359861@many-pangolin.rooster465.autos:443?security=tls&sni=many-pangolin.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://PQ05174892@13.113.231.8:443?sni=unbiased-coyote.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-vless://2942bae7-9dcf-4a2e-f928-933c0ab3eab0@139.180.198.220:52143?&type=tcp&headerType=none&path=/#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?mode=gun&security=reality&encryption=none&pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&fp=firefox&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vmess://eyJhZGQiOiIxNzIuMTExLjE0Ni42NCIsImFpZCI6MCwiaG9zdCI6IjE3Mi4xMTEuMTQ2LjY0IiwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIiwicG9ydCI6IjgwIiwic25pIjoiMTcyLjExMS4xNDYuNjQiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJoYW1lZHA3MTo68J+Hr/Cfh7UifQ
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh6/wn4e1IiwiYWRkIjoiMTY4LjEzOC40My43NSIsInBvcnQiOiI4MCIsImlkIjoiMTFjMzYyN2YtMzFlOC00Njk1LWRmYmQtMzQwNzZlMmYxZjVkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJ0bHMiOiIiLCJzbmkiOiJOb25lIiwidGVzdF9uYW1lIjoiMTA1In0
 trojan://PQ05174892@unbiased-coyote.rooster465.autos:443?sni=unbiased-coyote.rooster465.autos&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-trojan://fg20mtCFHy@172.237.3.17:5443/?type=tcp&security=tls&sni=www.bing.com&allowInsecure=1&fp=chrome#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYTZ6YzRKb0xSSkE=@176.97.73.215:8388#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://048a61f8-b236-4082-b1c3-c22a85693c12@162.128.181.182:443?security=reality&encryption=none&pbk=gcqSfWJ1yR5Aa2fsBYZ3vyaC0yQnil4qqNMZN4weZlE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=674a07ea4d1c4255#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
