@@ -36,12 +36,9 @@ trojan://AE62539071@relative-locust.rooster465.autos:443?sni=relative-locust.roo
 trojan://PQ05174892@electric-sturgeon.rooster465.autos:443?sni=electric-sturgeon.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://AE62539071@202.78.163.89:443?sni=tolerant-mosquito.rooster465.autos&fp=chrome&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://AE62539071@202.78.163.100:443?sni=enough-basilisk.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://EQ30679154@pretty-mollusk.rooster465.autos:443?sni=pretty-mollusk.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://PQ05174892@202.78.163.146:443?sni=electric-sturgeon.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://FH72359861@202.78.163.233:443?sni=magnetic-caiman.rooster465.autos&fp=chrome&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://PQ05174892@more-trout.rooster465.autos:443?sni=more-trout.rooster465.autos&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://EQ30679154@202.78.163.164:443?sni=pretty-mollusk.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@172.67.118.45:2053?type=ws&security=tls&sni=music1000.melobitmusic1.ir&path=/&host=music1000.melobitmusic1.ir#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://PQ05174892@202.78.163.156:443?sni=primary-leech.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://EQ30679154@distinct-ibex.rooster465.autos:443?sni=distinct-ibex.rooster465.autos&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://d23cb516-40db-4aa4-8142-6b45ff882f90@pl4.lckdwn.ru:443?encryption=none&type=ws&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
