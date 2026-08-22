@@ -2,20 +2,19 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-hy2://9gWt2z3KdC9VI8kAQYVvvSvhT9e05CfI@vip-sg-1.hkd4fwmg.vip:12645?sni=vip-sg-1.hkd4fwmg.vip&path=%2f&allow_insecure=1#hamedp71%3A%3A%E2%9D%93
+hy2://9gWt2z3KdC9VI8kAQYVvvSvhT9e05CfI@vip-sg-1.hkd4fwmg.vip:12645?sni=vip-sg-1.hkd4fwmg.vip&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 hysteria2://Krab9Hyst2_Rk7pQ2xL@151.247.197.253:36723/?insecure=1&sni=www.cloudflare.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 hy2://Krab9Hyst2_Rk7pQ2xL@fr.vpn.legendaah.xyz:36723?sni=www.cloudflare.com&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 hy2://P6qkAwznuC076mbIR2cGPg==@43.156.90.144:34567?sni=bing.com&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-hy2://oU4tGn37oQ9JGmqnlTGkU3knrfAbclsq@vip-jp-4.hkd4fwmg.vip:32135/?insecure=1&sni=vip-jp-4.hkd4fwmg.vip#hamedp71%3A%3A%E2%9D%93
+hy2://oU4tGn37oQ9JGmqnlTGkU3knrfAbclsq@vip-jp-4.hkd4fwmg.vip:32135/?insecure=1&sni=vip-jp-4.hkd4fwmg.vip#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 hysteria2://dongtaiwang.com@hy2.561891.xyz:44356/?sni=hy2.561891.xyz#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443/?insecure=1&sni=germany3.h2corp.local#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-hy2://9gWt2z3KdC9VI8kAQYVvvSvhT9e05CfI@vip-sg-1.hkd4fwmg.vip:12645/?insecure=1&sni=vip-sg-1.hkd4fwmg.vip#hamedp71%3A%3A%E2%9D%93
+hy2://9gWt2z3KdC9VI8kAQYVvvSvhT9e05CfI@vip-sg-1.hkd4fwmg.vip:12645/?insecure=1&sni=vip-sg-1.hkd4fwmg.vip#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.149.228.246:443/?insecure=1&sni=vpn-us-003.fastervpn.world#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 hy2://P6qkAwznuC076mbIR2cGPg==@43.156.90.144:34567/?insecure=1&sni=bing.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?sni=202.146.222.29&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?sni=https%3a%2f%2ft.me%2foneclickvpnkeys&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
-hy2://oU4tGn37oQ9JGmqnlTGkU3knrfAbclsq@vip-jp-4.hkd4fwmg.vip:32135?sni=vip-jp-4.hkd4fwmg.vip&path=%2f&allow_insecure=1#hamedp71%3A%3A%E2%9D%93
-hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@150.241.102.127:443/?insecure=1&sni=150.241.102.127#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+hy2://oU4tGn37oQ9JGmqnlTGkU3knrfAbclsq@vip-jp-4.hkd4fwmg.vip:32135?sni=vip-jp-4.hkd4fwmg.vip&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 hy2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@pixelcast.wwwinternetvideo.click:443?sni=pixelcast.wwwinternetvideo.click&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hy2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@pixelcast.wwwinternetvideo.click:443/?insecure=1&sni=pixelcast.wwwinternetvideo.click#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
