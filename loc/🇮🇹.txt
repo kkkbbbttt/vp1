@@ -2,10 +2,9 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://626c0789-16d1-4815-be8b-bd03959d7d12@185.207.66.243:443?mode=gun&security=reality&encryption=none&pbk=eNvO4-6_VFngHHC6D5AhcCpCpOdi5gY7-Srimhh-6Xw&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://485717cf-e96c-40db-9bc1-624060b89f20@211.76.176.156:49475?security=reality&encryption=none&pbk=i0nN_0uLl5ha8pIf6gNNLeLQe7it-nXDFLC5eM1BHV4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.python.org&sid=bb9b8f5f#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://2b622609-bb92-49e8-9631-4ada00324f47@45.155.68.9:443?encryption=none&fp=chrome&path=/&security=tls&sni=it2ws.wba-pn.ru&type=ws#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://2b622609-bb92-49e8-9631-4ada00324f47@45.155.68.9:443/?type=ws&encryption=none&flow=&path=/&security=tls&sni=it2ws.wba-pn.ru&fp=chrome#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://419f25c1-bc35-412e-93fb-258efee859b5@it1.murhost.network:443?security=reality&encryption=none&pbk=H9-mAKSPlIPGVDI2uBSZqxxOkLGTsfciqL5rAKIwUlg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it1.murhost.network&sid=ad416bcb922d986b#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://2b622609-bb92-49e8-9631-4ada00324f47@it2ws.wba-pn.ru:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=it2ws.wba-pn.ru#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://2b622609-bb92-49e8-9631-4ada00324f47@it2ws.wba-pn.ru:443/?type=ws&encryption=none&flow=&path=/&security=tls&sni=it2ws.wba-pn.ru#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
