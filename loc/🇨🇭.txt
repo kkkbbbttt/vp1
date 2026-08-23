@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://d900a139-8b5f-4758-8a32-389c6f36fc86@132.243.174.112:2054?mode=gun&security=reality&encryption=none&pbk=JFzd2AbfzZSnMefyKEXNIae_QEZAo5o239pmuHHZsAY&fp=chrome&type=grpc&serviceName=grpc&sni=www.swisscom.ch&sid=b27b172e7453e810#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@che01plrhy01.tcp-reset-club.net:443/?insecure=1&sni=che01plrhy01.tcp-reset-club.net#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD

@@ -2,8 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://ba222add-6ac1-45f1-9a18-f91cb38e324f@201.51.1.84:16923?encryption=none&fp=chrome&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&security=reality&serviceName=neurex&sid=10ffb85da1c2d986&sni=api-maps.yandex.ru&type=grpc#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://db7de26b-96d8-452c-8b9d-4a6bf55a7da7@87.249.54.103:4100?path=/v1&security=none&encryption=none&host=live.ok.ru&type=ws#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://791a171e-c0af-4bd7-b8ce-43541c7585db@31.76.84.62:443?mode=gun&security=reality&encryption=none&authority=id.pervye.ru&pbk=QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8&fp=firefox&type=grpc&serviceName=ns&sni=id.pervye.ru#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@87.228.122.108:4100?path=/v1&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://a237ca49-48d5-466f-aee5-c44f728a99ab@201.24.53.247:8443?security=reality&encryption=none&pbk=Z3dT5WeVvmrbBtZycHfI3kO6kyoLH3tAqpT_ReaMaxI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.rumedia-cdn.com&sid=4f676caa93313eab#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
