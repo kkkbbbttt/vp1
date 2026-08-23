@@ -4,3 +4,4 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
 hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@xby.mangshe.xyz:2056/?insecure=1&sni=mg2.mangshe.xyz#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY=@108.181.121.226:8388#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8

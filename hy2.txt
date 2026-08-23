@@ -13,6 +13,6 @@ hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@fast.wwwinternetvid
 hysteria2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@pixelcast.wwwinternetvideo.click:443/?insecure=1&sni=pixelcast.wwwinternetvideo.click#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@xby.mangshe.xyz:2056/?insecure=1&sni=mg2.mangshe.xyz#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
 hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@iq5ny.pleiades.codes:8443/?insecure=1&sni=iq5ny.pleiades.codes#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1&sni=vpn-tw-002.fastervpn.world#hamedp71%3A%3A%E2%9D%93
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1&sni=vpn-tw-002.fastervpn.world#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
 hysteria2://gf1:gfhysteria2024@173.212.201.85:443/?insecure=1&sni=www.docker.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1&sni=127.0.0.1#hamedp71%3A%3A%E2%9D%93
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1&sni=127.0.0.1#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
