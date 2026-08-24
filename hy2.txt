@@ -3,17 +3,17 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
 hysteria2://083417772bc618cd61f0cca23dd91680@gorbachev-new-th.kvnfreetest.uk:55443?insecure=1&sni=gorbachev-new-th.kvnfreetest.uk#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-hysteria2://dongtaiwang.com@hy2.561891.xyz:44356/?sni=hy2.561891.xyz#hamedp71%3A%3A%E2%9D%93
+hysteria2://dongtaiwang.com@hy2.561891.xyz:44356/?sni=hy2.561891.xyz#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f@replay.wwwinternetvideo.click:443?insecure=1&sni=replay.wwwinternetvideo.click#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://1ba59989-225e-4f1c-ab62-9bd7366009cb@194.135.34.207:443?insecure=1&sni=194.135.34.207#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-germany.unlimited-access.ru:8443/?insecure=1&sni=hy2-germany.unlimited-access.ru#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01@streambox.wwwinternetvideo.click:443/?insecure=1&sni=streambox.wwwinternetvideo.click#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 hysteria2://083417772bc618cd61f0cca23dd91680@gorbachev-new-th.kvnfreetest.uk:55443/?insecure=1&sni=gorbachev-new-th.kvnfreetest.uk#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443/?insecure=1&sni=202.146.222.29#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1&sni=vpn-tw-002.fastervpn.world#hamedp71%3A%3A%E2%9D%93
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1&sni=vpn-tw-002.fastervpn.world#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
 hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@che01plrhy01.tcp-reset-club.net:443/?insecure=1&sni=che01plrhy01.tcp-reset-club.net#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@44.255.13.86:443/?insecure=1&sni=vpn-us-002.fastervpn.world#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 hy2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-germany.unlimited-access.ru:8443/?insecure=1&sni=hy2-germany.unlimited-access.ru#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-hy2://HowdyHysteria2023w0W@hysteria.udpgw.com:8443/?insecure=1&sni=sni-here.com&obfs=salamander&obfs-password=HysteriaHowdy#hamedp71%3A%3A%E2%9D%93
+hy2://HowdyHysteria2023w0W@hysteria.udpgw.com:8443/?insecure=1&sni=sni-here.com&obfs=salamander&obfs-password=HysteriaHowdy#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.96.245:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1&sni=127.0.0.1#hamedp71%3A%3A%E2%9D%93
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1&sni=127.0.0.1#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
