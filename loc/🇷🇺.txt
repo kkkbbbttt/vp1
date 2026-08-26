@@ -3,3 +3,5 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
 vless://f0528a17-863f-4160-a5a0-0d9ad03f2ee7@81.200.144.27:4100?path=/v1&security=none&encryption=none&host=live.ok.ru&type=ws#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://33c150b7-c0ca-4133-9a52-6f1207da9b8b@xhttpru.enotvpn.net:443?encryption=none&security=reality&sni=deepl.com&fp=chrome&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&sid=15affa0af66dfc79&type=xhttp&path=/&mode=auto#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://af60d475-3c13-41cf-af0e-18353d08877a@201.24.49.77:2200?security=none&encryption=none&type=ws&host=rzd.ru&path=%2fv1#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA

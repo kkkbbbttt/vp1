@@ -1,5 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
-
-vless://308cf8e0-e922-49bb-9b68-203e5aafcc97@188.130.234.239:443?security=reality&encryption=none&sni=kz.node.goidanet.com&fp=firefox&pbk=xXxqDpB8gQjBddOHSOFb52xVS2Odmb63z1PYhMqe0Uo&sid=1a55b8fd25417fbf&type=grpc&path=%2f#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%BF
