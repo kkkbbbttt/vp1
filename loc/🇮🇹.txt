@@ -2,6 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA==@62.76.234.92:10901#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@104.105.78.231:17780/?type=tcp&encryption=none&flow=&sni=amp-api-edge.apps.apple.com&fp=chrome&security=reality&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&sid=a0fbc54d937aaccb#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://699ce9a1-abbb-4525-988e-b940381352e8@itproxy3.lockdwn.com:443/?type=ws&encryption=none&flow=#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://699ce9a1-abbb-4525-988e-b940381352e8@itproxy3.lockdwn.com:443?&type=ws&headerType=none&host=itproxy3.lockdwn.com&path=/#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
