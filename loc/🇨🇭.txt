@@ -2,6 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@138.124.255.221:443?type=tcp&security=reality&sni=russia.cendora.ru&pbk=uo-U-FDlo7Cqldg7JKUe8jHvYnwP08NanGX0tUFrqEc&sid=bef240e96a8474a3&fp=chrome&encryption=none&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-switzerlandgopota.unlimited-access.ru:443/?sni=hy2-switzerlandgopota.unlimited-access.ru#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@185.191.238.202:443/?insecure=1&sni=che01plrhy01.tcp-reset-club.net#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160/?insecure=1&sni=www.bing.com#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://10b93dba-7b48-46fe-98b5-fef94e2520cd@89.124.251.61:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&security=reality&sni=d.tranzit-net.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://10b93dba-7b48-46fe-98b5-fef94e2520cd@de46.tranzit-net.ru:443?security=reality&encryption=none&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=d.tranzit-net.ru#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
