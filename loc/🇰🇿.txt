@@ -3,6 +3,5 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
 hysteria2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@194.238.40.185:443/?insecure=1&sni=kaz0001hy01.packet-drop-society.net#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%BF
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7Dwn4e/IiwiYWRkIjoiMzguMTA3LjIzNC41NyIsInBvcnQiOiI4MCIsImlkIjoiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiIiwicGF0aCI6Ii92bWVzcy8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxMjIifQ
 vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@kz3.freeinternat.com:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=kz3.freeinternat.com&fp=qq&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=%2f&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%BF
 hysteria2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@kaz0001hy01.packet-drop-society.net:443/?insecure=1&sni=kaz0001hy01.packet-drop-society.net#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%BF
