@@ -8,6 +8,7 @@ hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@fast.wwwinternetvid
 hysteria2://wrSuBorIlf@hys9.wba-pn.ru:443/?insecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://EkF2Yw0Lc7@hys34.wba-pn.ru:443/?insecure=1&sni=hys34.wba-pn.ru#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://OD6gGbGU9a@195.133.24.124:443/?sni=hys26.wba-pn.ru#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=130.61.50.75#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://BWAFlp8g53@hys28.wba-pn.ru:443/?insecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://OD6gGbGU9a@hys26.wba-pn.ru:443/?sni=hys26.wba-pn.ru#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@51.44.162.6:443/?insecure=1&sni=vpn-fr-001.fastervpn.world#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
