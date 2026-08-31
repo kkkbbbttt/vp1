@@ -2,6 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?security=tls&sni=127.0.0.1&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg00129437x.cybervena.com:50099#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
 vless://b0342e8a-a25e-4e30-b598-d9391b0df4c9@34.80.184.198:44848?flow=xtls-rprx-vision&security=reality&sni=www.tesla.com&fp=ios&pbk=w9vWLOHjl46krA8IEpGoPI9scTL0rFdjCtjdukJDciU&sid=2338740580a5de&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
 vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&path=%2f#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
 vless://0fada528-59c7-44b7-a3d7-377c36c55d97@35.229.131.182:47394?flow=xtls-rprx-vision&security=reality&sni=www.nvidia.com&fp=chrome&pbk=yrZ6uI4z0IVUK3s_FJxIhEfLofvK9PwxT0HcSj_ljmQ&sid=8ecbc93134b311&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
