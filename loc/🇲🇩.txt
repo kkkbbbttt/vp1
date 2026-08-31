@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-hy2://60e2a548-96aa-4850-a279-1edab743c39b@md1.cnyvpn.com:443/?insecure=1&sni=md1.cnyvpn.com#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%A9
+vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@mold.freeinternat.com:443?security=reality&type=tcp&sni=mold.freeinternat.com&fp=firefox&flow=xtls-rprx-vision&sid=ff776ff77be48b88&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&encryption=none#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%A9
