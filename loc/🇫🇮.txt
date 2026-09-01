@@ -3,7 +3,6 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
 vless://ea48c5b6-7a19-4fea-9902-17004a424452@95.216.27.15:2053?security=reality&encryption=none&pbk=JmAuytyIXW4klA7zqeSYi3EtWR0d4fNJCq4nR0LMQE8&headerType=none&type=tcp&sni=www.apple.com&sid=07316dd7d0e11c90#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://5a92a9d2-3067-49cd-bfc5-989bbdfc5d52@31.76.4.128:5001?security=reality&type=tcp&allowInsecure=1&sni=fi.aeternavpn.space&fp=qq&flow=xtls-rprx-vision&sid=a1b2c3d4&pbk=HNjZe5pYUhcuE8sASYVVrVSMW_jFfekgLnrnO4xXIyQ#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://785923c4-0b40-43b4-8506-523e31578d21@87.58.153.39:8443?security=reality&type=tcp&sni=amp-api-edge.apps.apple.com&fp=chrome&sid=5dea88&pbk=v5gYvnzEnIBByr3VdAeEYMNgQ3XoUKYpHKRl09spFWU&encryption=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 hy2://BPvdjudCGodsF67hRP3xgBYvcKp48coTsh6ANydLhQs=@fin14qr.wwwinternetvideo.click:443?sni=fin14qr.wwwinternetvideo.click&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@138.124.8.117:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fin2.helper-internet.com&sid=ff776ff77be48b88#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
