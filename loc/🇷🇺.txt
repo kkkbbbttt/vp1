@@ -2,9 +2,12 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.233:2200?encryption=none&type=ws&security=none&path=/v1&host=rzd.ru#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://2cd5f052-6455-4153-b7d3-0545184dc64c@201.24.49.69:4100?encryption=none&path=/v1&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+hysteria2://5bcodmhjtyfyyrqh@91.142.73.159:36758?security=tls&obfs=salamander&obfs-password=dzcb7hv6i2kx2zze&insecure=1&sni=cdn77.dmtr.ru#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://7ee53e03-96ed-4121-9da2-62f3d3374506@178.72.147.249:4100?path=%2Fv1&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://ba222add-6ac1-45f1-9a18-f91cb38e324f@201.51.1.84:16923?encryption=none&fp=chrome&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&security=reality&serviceName=neurex&sid=10ffb85da1c2d986&sni=api-maps.yandex.ru&type=grpc#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.34.121:443?security=reality&type=tcp&sni=russia.cendora.ru&fp=firefox&flow=xtls-rprx-vision&sid=bef240e96a8474a3&pbk=uo-U-FDlo7Cqldg7JKUe8jHvYnwP08NanGX0tUFrqEc#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9001?encryption=none&fp=chrome&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=grpc#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@45.138.100.226:2083/?type=grpc&encryption=none&flow=&serviceName=grpc&security=tls&sni=vk.com&allowInsecure=1&fp=chrome#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@178.250.186.139:8443?type=tcp&security=reality&sni=auto.cendora.ru&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&fp=chrome&encryption=none&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://5181e3af-4a0c-47d7-8beb-7e4fa4786cdd@201.24.51.241:4100?encryption=none&path=%2Fv1&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://716903b1-e6bf-4420-9e27-65e4451692e9@201.24.49.19:2200?encryption=none&type=ws&security=none&path=/v1&host=rzd.ru#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA

@@ -2,7 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-hysteria2://5bcodmhjtyfyyrqh@91.142.73.159:36758?security=tls&obfs=salamander&obfs-password=dzcb7hv6i2kx2zze&insecure=1&sni=cdn77.dmtr.ru#hamedp71%3A%3A%E2%9D%93
+hysteria2://5bcodmhjtyfyyrqh@91.142.73.159:36758?security=tls&obfs=salamander&obfs-password=dzcb7hv6i2kx2zze&insecure=1&sni=cdn77.dmtr.ru#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 hysteria2://436114b5f36b2e704bdfa0927d57b6cd@47.241.108.227:50160?insecure=1&sni=www.bing.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 hysteria2://wrSuBorIlf@hys9.wba-pn.ru:443/?insecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://sxc15led4b0vp5fy@social.klipp.su:443/?obfs=salamander&obfs-password=3sv5vpdl9xr84lyb&sni=social.klipp.su#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
