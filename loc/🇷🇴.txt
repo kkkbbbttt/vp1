@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443/?insecure=1&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&sni=hy2-new.aspidnet.xyz#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
+vless://f5e98e30-28b8-468a-a5a5-c6c22be64055@196.245.156.30:443?security=reality&encryption=none&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rm2.magazinnarubeva.ru&sid=8718c58d3d51db59#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
