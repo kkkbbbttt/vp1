@@ -2,5 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA==@194.87.47.204:10901#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://bd6ebd72-25cd-4209-a418-a8c72946da90@ww4.levikogjgfdd.ir:32396/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.sony.com&security=reality&pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&sid=dd6ce6af95001a#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vmess://eyJhZGQiOiI1Ny4xMzEuMzIuMTkxIiwiaG9zdCI6Ik9WLUl0YWx5MS4wOXZwbi5jb20iLCJpZCI6Ijg0OGFmMzNjLTgxZjItNDBjOS05M2IyLTQ2ODFkMDU2OTM2YiIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0Ijo4NDQzLCJwcyI6ImhhbWVkcDcxOjrwn4eu8J+HuSIsInNuaSI6IjU3LjEzMS4zMi4xOTEiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0
+vless://bd6ebd72-25cd-4209-a418-a8c72946da90@172.232.196.241:32396?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&security=reality&sid=dd6ce6af95001a&sni=www.sony.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
