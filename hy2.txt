@@ -2,12 +2,11 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160/?insecure=1&sni=www.bing.com#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-hysteria2://5bcodmhjtyfyyrqh@91.142.73.159:36758/?insecure=1&obfs=salamander&obfs-password=dzcb7hv6i2kx2zze&sni=cdn77.dmtr.ru#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-hysteria2://8674df07-56b3-43ea-b687-aef2b1a20137@31.76.22.210:443/?insecure=1&sni=crt.ultimagamest.com#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443/?insecure=1&sni=germany3.h2corp.local#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-hysteria2://BPvdjudCGodsF67hRP3xgBYvcKp48coTsh6ANydLhQs=@fin14qr.wwwinternetvideo.click:443/?insecure=1&sni=fin14qr.wwwinternetvideo.click#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-hy2://19f72087-4591-4d72-930b-2697078ec2be@sg1.xiaoliyu.cyou:1933/?insecure=1&sni=sg1.xiaoliyu.cyou#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 hysteria2://oCYFcbOo8s@201.51.24.4:443/?sni=hys22.wba-pn.ru#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-hysteria2://HowdyHysteria2023w0W@hysteria.udpgw.com:8443/?insecure=1&obfs=salamander&obfs-password=HysteriaHowdy&sni=sni-here.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443/?insecure=1&sni=germany3.h2corp.local#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://gf1:gfhysteria2024@185.156.44.99:443/?insecure=1&sni=css.rbxcdn.com#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
+hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-latvia2.unlimited-access.ru:443/?sni=hy2-latvia2.unlimited-access.ru#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
+hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111/?insecure=1&sni=bing.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+hysteria2://8674df07-56b3-43ea-b687-aef2b1a20137@31.76.22.210:443/?insecure=1&sni=crt.ultimagamest.com#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+hy2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160/?insecure=1&sni=www.bing.com#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443/?insecure=1&sni=admin.wwwinternetvideo.click#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1

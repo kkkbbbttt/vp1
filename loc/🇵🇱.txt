@@ -2,13 +2,10 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://98673856-cd6f-4aa0-b2c9-d2ec90c0f47b@pl5.lckdwn.ru:443?&type=ws&headerType=none&host=pl5.lckdwn.ru&path=/#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@pl140.vpnbook.com:443#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.140:443#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@pl134.vpnbook.com:443#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://cb784d00-d34a-4389-b938-8717f7b28353@81.90.17.164:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=v0XQn6uvyC8q5CThcRYLer1F1OOYpZDn5NLOvDicaWg&security=reality&sid=b31c2b75add2e5fa&sni=yastatic.net&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://758f49d3-5f5f-47e7-bfa4-4ce96faf800d@2.26.224.91:8443?encryption=none&type=grpc&security=reality&sni=cdn.shopify.com&pbk=NI5Rkfn6zO_gF-UC1nuvJwu4SDakCXh3ygJOKU1EITU&sid=f747a7a5793b5714&fp=chrome&alpn=http/1.1#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://9e998501-eaae-4d7e-bbe5-6cecfaef8334@217.69.167.135:15392?mode=gun&security=reality&encryption=none&pbk=O8yFUnhj9NOtJ2eUVQTwrGk8HrkHq94QAO090azV428&fp=chrome&spx=/&type=grpc&serviceName=grpc&sni=google.com&sid=6a326909#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://24a3853d-01c7-4fae-a0cc-97ef0f25a455@pl8.bexait.ir:2434?encryption=none&security=reality&sni=icloud.com&fp=chrome&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&sid=9de041877612a718&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 hysteria2://8674df07-56b3-43ea-b687-aef2b1a20137@31.76.22.210:443/?insecure=1&sni=crt.ultimagamest.com#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://e459d26c-0957-4695-b1ac-0719e8df64f6@82.118.20.109:443?security=reality&encryption=none&pbk=U1X__Tg779LinTpcP65AVLHtxAGPSKzr04K1Fq_mDy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=146c918c71da5d81#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://d23cb516-40db-4aa4-8142-6b45ff882f90@94.183.209.59:443?path=%2F&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.134:443#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://98673856-cd6f-4aa0-b2c9-d2ec90c0f47b@151.243.182.249:443?encryption=none&path=/&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSnRzZ2xsRERKZk5tYVRl@64.176.73.160:8388#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443/?insecure=1&sni=admin.wwwinternetvideo.click#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
