@@ -2,9 +2,14 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.67.156.147:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://eddee2c9-fdf9-4b55-b8ac-3481a680b060@52.194.245.53:33486?security=reality&encryption=none&pbk=0XefSfdaAV77RBJrVSVBIdRNUHUlaMGmFT5mX_Aw6G8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=1671781f157ac27e#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+vless://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://a68f2c6c-3525-4050-9129-8759e4327660@jp200m.jiasu.asia:50000?sni=jp200m.jiasu.asia&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYTZ6YzRKb0xSSkE=@176.97.73.215:8388#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1VEJqWmhEbU9Nd0JWQUpJ@45.32.16.53:8388#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-vless://37c00ed0-de07-4c7d-a4cf-049805c98713@35.77.87.249:42263?security=reality&encryption=none&pbk=lLbzgXK1hx6K2J6rDUARlzZzjWqVXMjIhHsKmgEQI0U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=d5cd4778d2da33#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://059fbe5b-21dc-413f-8f5c-dac39201914c@13.114.89.187:16611?Telegram=Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server&security=reality&encryption=none&pbk=cDzA5Efsd52LehcCFXh9bS3eCuj7HQZwau-yjPqLPgQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=701b0c5c9dee514d#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
