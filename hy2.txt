@@ -4,7 +4,6 @@
 
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-uk-001.fastervpn.world:443/?insecure=1&sni=vpn-uk-001.fastervpn.world#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-002.fastervpn.world:443?insecure=1&sni=css.rbxcdn.com#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
-hysteria2://tnnls:b735eacd-3ca7-4019-b98c-3559918100e6@bwdf2fnt.xn--e1aatfr8bwa.online:30000?security=tls&obfs=salamander&obfs-password=b6d1f3888ab1d90dd11aac1dce427b81&insecure=0&sni=bwdf2fnt.xn--e1aatfr8bwa.online#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://tnnls:b735eacd-3ca7-4019-b98c-3559918100e6@bwdf2fnt.xn--e1aatfr8bwa.online:30000?security=tls&obfs=salamander&obfs-password=b6d1f3888ab1d90dd11aac1dce427b81&insecure=0&sni=bwdf2fnt.xn--e1aatfr8bwa.online#hamedp71%3A%3A%E2%9D%93
 hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@85.159.228.22:443/?sni=hy2-latvia2.unlimited-access.ru#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
 hysteria2://gf1:gfhysteria2024@5.129.235.85:443/?insecure=1&sni=www.linux.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@fast.wwwinternetvideo.click:443/?insecure=1&sni=fast.wwwinternetvideo.click#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE

@@ -1,5 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
-
-vless://f1d247db-d7ce-4eb8-9c0d-7b10603cd0b4@60.248.219.53:443?&security=tls&fp=chrome&sni=ty986gfazs.cainiaohub.xyz&type=ws&headerType=none&host=ty986gfazs.cainiaohub.xyz&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb530#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
