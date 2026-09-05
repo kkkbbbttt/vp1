@@ -3,13 +3,10 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-ss://YWVzLTI1Ni1nY206a0tFZDByQnJkNTZGdXJqeg==@2.58.81.221:443#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.168.95:443?security=reality&type=tcp&sni=eu-central.cendora.ru&fp=chrome&flow=xtls-rprx-vision&sid=00bca5982f82d083&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&encryption=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://tnnls:b735eacd-3ca7-4019-b98c-3559918100e6@bwdf2fnt.xn--e1aatfr8bwa.online:30000?security=tls&obfs=salamander&obfs-password=b6d1f3888ab1d90dd11aac1dce427b81&insecure=0&sni=bwdf2fnt.xn--e1aatfr8bwa.online#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://218fd696-e3a2-4c33-b397-a5f13a82969e@94.156.155.27:443?encryption=none&fp=&pbk=bY0-zlTOPCaEWDMw_BTzuzJW513tl6Hc61n4Z-q1cHE&security=reality&sid=8f892fa1&sni=www.telekom.de&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://fe73f296-e5c0-45a6-8064-f8e76a75e946@87.58.152.18:8443?encryption=none&fp=&pbk=v-y8lgU3a2wSMalMiBveBtwHLwqW4WWTOgUoMNNBKFQ&security=reality&sid=c0dc8d7fda62ee7f&sni=amp-api-edge.apps.apple.com&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://bfde1878-f157-4ec7-a5ad-38e8835c6e36@2.27.202.112:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Uaq2YojNeUXGkaCPKxcR_IF9iaatuc3srHfFuwwG7FA&security=reality&sid=a19516e2d20b09e9&sni=github.com&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://1c332eae-7e02-4acd-996d-4eb3e652401c@prep.wwwinternetvideo.click:443?security=reality&type=tcp&sni=yandex.ru&fp=firefox&flow=xtls-rprx-vision&sid=bbe46bd8f6b96839&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://3614a2a2-b0db-43f7-9a34-b1248539d848@5.75.203.195:64584?encryption=none&security=none&type=tcp&headerType=none&path=%2F&host=amp-api-edge.apps.apple.com#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://bbfd1f68-ec64-452f-8404-9e2bcf1df951@95.85.230.35:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=mJ-0fJDvKp0rhuyUvs1bw4RasRRM-BEOAl9iAZ8gXy0&security=reality&sni=de.oblaco.bet&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://1c332eae-7e02-4acd-996d-4eb3e652401c@144.31.50.236:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&security=reality&sid=bbe46bd8f6b96839&sni=yandex.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
