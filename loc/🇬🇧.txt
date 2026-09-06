@@ -3,8 +3,5 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
 vless://e5d917f5-fc78-455e-bbb5-81d08715f3d6@95.154.196.61:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=2ATxqiR22wlo3yXOHc43LFHM5NzWCdSGZLdBay_vJgM&security=reality&sid=e4a1b53b03eff60d&sni=strapi.io&type=tcp#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://3acd49a9-fd3e-4fc7-b638-a3332a0a96d9@78.129.149.85:443?flow=xtls-rprx-vision&security=reality&sni=foodnetwork.com&fp=firefox&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ==@149.102.149.207:80#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://bae47c97-9bc1-48f6-a133-a383ee71c12e@95.154.196.63:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=o3OWFYnKad6q2C-eo6-rA74OCbjQoZfaUFYZsNqJJz0&security=reality&sid=1e977d0b52eab755&sni=foodnetwork.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-uk-001.fastervpn.world:443?sni=vpn-uk-001.fastervpn.world&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
