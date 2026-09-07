@@ -10,10 +10,11 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-002.fastervpn.world:443/?insecure=1&
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443/?obfs=salamander&obfs-password=uw9b2qq5rx&sni=fiproxy1.lockdwn.com#hamedp71%3A%3A%E2%9D%93
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443/?insecure=1&sni=germany3.h2corp.local#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://gf1:gfhysteria2024@5.129.235.85:443/?insecure=1&sni=www.linux.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=0&sni=hy2-new.aspidnet.xyz#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=0&sni=hy2-new.aspidnet.xyz#hamedp71%3A%3A%E2%9D%93
 hy2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@news.gazette.help:443/?sni=news.gazette.help#hamedp71%3A%3A%E2%9D%93
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443/?insecure=1&sni=admin.wwwinternetvideo.click#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443/?insecure=1&sni=admin.wwwinternetvideo.click#hamedp71%3A%3A%E2%9D%93
 hy2://sxc15led4b0vp5fy@musicclips.videolinks.ru:8443/?sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 hysteria2://BWAFlp8g53@72.56.102.31:443/?insecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443/?obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&sni=hy2-new.aspidnet.xyz#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
-hysteria2://Telegram:vpnjey@77.110.96.201:36264?sni=se.vpnjey2.dpdns.org&alpn=h3&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=1#hamedp71%3A%3A%E2%9D%93
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443/?obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&sni=hy2-new.aspidnet.xyz#hamedp71%3A%3A%E2%9D%93
+hysteria2://Telegram:vpnjey@31.76.27.23:37009?sni=de.vpnjey.store&alpn=h3&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=1#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://Telegram:vpnjey@77.110.96.201:36264?sni=se.vpnjey2.dpdns.org&alpn=h3&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=1#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
