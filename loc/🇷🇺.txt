@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
+vless://a289a3d3-5833-4b28-8809-ae72898a98d0@ru05.abvpn.ru:443?&security=tls&fp=chrome&sni=ru05.abvpn.ru&type=ws&headerType=none&host=ru05.abvpn.ru&path=/websocket#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://8d1a1b09-12d6-4b76-82f0-893cc805d9c0@46.173.25.146:443?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.crunch-crunch.com&sid=ea1058117be12087#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
