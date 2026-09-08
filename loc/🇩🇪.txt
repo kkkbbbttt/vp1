@@ -2,16 +2,11 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sid=b28db60d77c50b4f#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://70d482eb-7584-4841-a02a-c668f1ee33e7@de2.routeliora.ru:8443?security=reality&encryption=none&pbk=bDDR3ubmqiA8nv8uD72QLIKgpcWaENtY0Vumrce6jgg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de2.routeliora.ru&sid=9f3a7c2d#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://a04814d9-d006-4e7b-ae20-8ab304b3b429@151.242.17.99:8443?type=grpc&headerType=none&security=reality&encryption=none&sni=de.emvservice.com&fp=chrome&pbk=6Yskxg5U0WxPGtuCAAGH9uD57T4U8LeGrErTBNvIrwM&sid=bc&spx=/#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://3db8407b-1f96-4b82-bfeb-55258c1e57b4@200.165.229.159:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=HKKWGVu7xJfscDTH_28WhqSfSnp8fA5jpj7X1eMO-mU&security=reality&sid=1067b23f928e7618&sni=flarora.ferreo.sbs&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://9015f0bc-2053-4ca1-9b9b-a018b97b32d2@144.31.125.60:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SVgtyuD9khylgHuB0treGekxVSHPOS-wPZTNHUf6zj8&security=reality&sid=85c86a9863&sni=www.intel.com&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE=@51.195.126.38:8388#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://2da9c09a-842f-4aed-a099-8a07c0266efc@45.131.213.34:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=9GEc6lOjnGQyyE1951OZSBMWt4uCXsOjKyj9fysxHH0&security=reality&sid=e4e77e76e6e49da7&sni=de-2.srv.dvzh.net&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://20230bb6-e0da-464d-9290-392208ad14d8@13.143.64.253:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&pbk=hQ2UcPry_clN_CApgty2ve15M3yxOvgnmn6Mjs2Nlk0&sid=a60587c8&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.168.95:443?type=tcp&security=reality&sni=eu-central.cendora.ru&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&fp=chrome&encryption=none&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://70d482eb-7584-4841-a02a-c668f1ee33e7@132.243.228.209:9443?security=reality&encryption=none&pbk=bDDR3ubmqiA8nv8uD72QLIKgpcWaENtY0Vumrce6jgg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de3.routeliora.ru&sid=7a8b9c0d#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.86.107:9830?type=grpc&security=reality&fp=qq&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&sni=dl.google.com&serviceName=grpc-tunnel#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA

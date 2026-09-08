@@ -4,4 +4,3 @@
 
 vless://f1d247db-d7ce-4eb8-9c0d-7b10603cd0b4@60.248.219.53:443?&security=tls&fp=chrome&sni=ty986gfazs.cainiaohub.xyz&type=ws&headerType=none&host=ty986gfazs.cainiaohub.xyz&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb530#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?sni=https%3a%2f%2ft.me%2foneclickvpnkeys&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?sni=127.0.0.1&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
