@@ -2,6 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 vless://d165fa7e-fa7a-414f-8c75-15f18bce5105@66.70.179.198:2053?encryption=none&fp=&pbk=wA5Vklw2gN0kMwC7JEmudiPbsKyTeSfbZNvpLiDUBEU&security=reality&sid=bb437dca4f03116e&sni=www.apple.com&type=tcp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?security=reality&encryption=none&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=3d3c1e645f763ee3#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
