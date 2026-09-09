@@ -2,19 +2,17 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-hy2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?sni=www.bing.com&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.169.140:443?sni=35.181.169.140&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-hy2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160/?insecure=1&sni=www.bing.com#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-hysteria2://sxc15led4b0vp5fy@musicclips.videolinks.ru:8443?sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-hy2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?sni=www.bing.com&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-hy2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@news.gazette.help:443?sni=news.gazette.help&path=%2f#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-uk-001.fastervpn.world:443?sni=vpn-uk-001.fastervpn.world&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-hy2://19f72087-4591-4d72-930b-2697078ec2be@sg1.xiaoliyu.cyou:1933?sni=sg1.xiaoliyu.cyou&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?sni=https%3a%2f%2ft.me%2foneclickvpnkeys&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-002.fastervpn.world:443?sni=whatsapp.com&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?sni=127.0.0.1&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?sni=202.146.222.29&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443/?insecure=1&sni=www.microsoft.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-in-001.fastervpn.world:443?sni=vpn-in-001.fastervpn.world&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
-hysteria2://ed76d01a068000d9f034144d47baf1a4@134.65.60.88:443/?insecure=1&obfs=salamander&obfs-password=02c4876afcc37c4298f71796b09a55da&sni=www.bing.com#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-hy2://sxc15led4b0vp5fy@musicclips.videolinks.ru:8443?sni=musicclips.videolinks.ru&path=%2f&obfs=salamander&obfs-password=8zzng75tz4tf82pj#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.223.122.197:443/?insecure=1&sni=t.me#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+hysteria2://gf1:gfhysteria2024@173.212.201.85:443/?insecure=1&sni=www.docker.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.76.106:443/?insecure=1&sni=vk.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443?insecure=1&obfs=salamander&obfs-password=HysteriaHowdy&sni=sni-here.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+hysteria2://4fb82973-a7f1-4fc2-9958-cb21f5162f06@che01plrhy01.tcp-reset-club.net:443/?sni=che01plrhy01.tcp-reset-club.net#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+hysteria2://4fb82973-a7f1-4fc2-9958-cb21f5162f06@rou0001ntrhy01.tcp-reset-club.net:443/?sni=rou0001ntrhy01.tcp-reset-club.net#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
+hysteria2://e0b9fb0f-1bbd-478b-9580-c2294778338b@nlq7hy.pleiades.codes:8444/?sni=nlq7hy.pleiades.codes#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+hysteria2://975e9f98b4a1b01285ffdb8158ced798@107.172.76.105:443/?insecure=1&obfs=salamander&obfs-password=c8d95078e61be690c18e2fbbefe5e2ef&sni=www.bing.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://gf1:gfhysteria2024@66.94.121.46:443/?insecure=1&sni=www.broadcom.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=0&sni=hy2-new.aspidnet.xyz#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
+hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160/?insecure=1&sni=www.bing.com#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443/?insecure=1&sni=admin.wwwinternetvideo.click#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+hy2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@gta.internet-card.sbs:443/?insecure=1&sni=gta.internet-card.sbs#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://3b8c82ed-fe66-472d-915e-034ccb57103f@labs.frkn.org:443/?insecure=1&sni=labs.frkn.org#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
