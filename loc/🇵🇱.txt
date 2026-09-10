@@ -4,7 +4,6 @@
 
 vless://d9d0f208-d582-41d5-bb7b-742671402810@191.44.113.220:443?security=reality&flow=xtls-rprx-vision&sni=eu-central-pl-1.hanvpn.biz&type=tcp&fp=firefox&pbk=NjIuu35vz5MthSzqd6kt8PbXbZxCCL2Rb2GbpMCRTEY&sid=12e3b7681806bc97#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://d9d0f208-d582-41d5-bb7b-742671402810@eu-central-pl-1.hanvpn.biz:443?security=reality&type=tcp&packetEncoding=xudp&sni=eu-central-pl-1.hanvpn.biz&fp=firefox&flow=xtls-rprx-vision&sid=12e3b7681806bc97&pbk=NjIuu35vz5MthSzqd6kt8PbXbZxCCL2Rb2GbpMCRTEY#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443/?insecure=1#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://2211972b-a45a-4951-a640-6173d573e637@54.37.136.194:2053?type=tcp&security=reality&fp=firefox&pbk=3nFTPdoFnfcwN1xnLwegJmBycLqRH6TRsrbD2XnQbjM&sid=bfc5464d84de3b3b&sni=www.cloudflare.com#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://b3a11068-1a7e-4643-85de-7c82cce46943@185.223.57.16:33743?encryption=none&fp=&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&security=reality&serviceName=TunService&sni=www.google.com&type=grpc#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://05488656-d4bf-4634-8b2e-e4ff5a56c7e2@82.118.22.161:443?security=reality&encryption=none&pbk=xY1KpNxaIGmi6jfeudYQ_aaLGQqWK_uHStnwUFd2_2E&headerType=&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=fa3ea655619a3e78#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
