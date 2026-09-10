@@ -9,10 +9,10 @@ hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443?insecure=1&obfs=salamander&ob
 hysteria2://4fb82973-a7f1-4fc2-9958-cb21f5162f06@che01plrhy01.tcp-reset-club.net:443/?sni=che01plrhy01.tcp-reset-club.net#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 hysteria2://4fb82973-a7f1-4fc2-9958-cb21f5162f06@rou0001ntrhy01.tcp-reset-club.net:443/?sni=rou0001ntrhy01.tcp-reset-club.net#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
 hysteria2://e0b9fb0f-1bbd-478b-9580-c2294778338b@nlq7hy.pleiades.codes:8444/?sni=nlq7hy.pleiades.codes#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-hysteria2://975e9f98b4a1b01285ffdb8158ced798@107.172.76.105:443/?insecure=1&obfs=salamander&obfs-password=c8d95078e61be690c18e2fbbefe5e2ef&sni=www.bing.com#hamedp71%3A%3A%E2%9D%93
+hysteria2://975e9f98b4a1b01285ffdb8158ced798@107.172.76.105:443/?insecure=1&obfs=salamander&obfs-password=c8d95078e61be690c18e2fbbefe5e2ef&sni=www.bing.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://gf1:gfhysteria2024@66.94.121.46:443/?insecure=1&sni=www.broadcom.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=0&sni=hy2-new.aspidnet.xyz#hamedp71%3A%3A%E2%9D%93
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=0&sni=hy2-new.aspidnet.xyz#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
 hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160/?insecure=1&sni=www.bing.com#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443/?insecure=1&sni=admin.wwwinternetvideo.click#hamedp71%3A%3A%E2%9D%93
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443/?insecure=1&sni=admin.wwwinternetvideo.click#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 hy2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@gta.internet-card.sbs:443/?insecure=1&sni=gta.internet-card.sbs#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://3b8c82ed-fe66-472d-915e-034ccb57103f@labs.frkn.org:443/?insecure=1&sni=labs.frkn.org#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
