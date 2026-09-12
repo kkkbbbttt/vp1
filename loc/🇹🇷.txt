@@ -1,0 +1,5 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
+
+vless://14ffccc6-81e0-4108-ab35-b3df398534af@15a8b5cf523b5278.monopolitass.ir:8735?security=reality&type=tcp&sni=play-apps-features.googleusercontent.com&fp=chrome&sid=9b98825681aba023&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&encryption=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
