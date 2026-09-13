@@ -1,0 +1,5 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
+
+vless://f1505323-ecb6-4152-9a5b-d37b3ae1cacf@tr.iramssmoth.ir:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=reality&sni=play-apps-features.googleusercontent.com&fp=edge&pbk=72SJFDXHCtB2fWWRrjMj23J8iJ8T_2jvj-iNThmLREs&sid=8dc4f3de3846efa9&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
