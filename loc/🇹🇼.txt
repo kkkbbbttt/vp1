@@ -4,4 +4,3 @@
 
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?sni=127.0.0.1&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?sni=https%3a%2f%2ft.me%2foneclickvpnkeys&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
-vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJpbnNlY3VyZSI6IjAiLCJuYW1lIjoi8J+HufCfh7wgVFcgfCBWTUVTUyB8IEBOYW1pcmFDb25maWdzICMxIFttZWRpdW1dIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOjM1MDM0LCJwcyI6ImhhbWVkcDcxOjrwn4e58J+HvCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
