@@ -3,6 +3,6 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
 vless://c09cfd91-b234-4998-9bed-a0211b7f5c3c@31.77.199.182:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=-qLezG1nUEtvOJi-Ra7WRYv-aHkv3PSefEuXpWV2G04&sid=abcd1234&sni=fi2.yservice.help#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+hysteria2://Telegram-vpnjey@77.110.96.201:36264?sni=se.vpnjey2.dpdns.org&alpn=h3&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=1#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://827a0eb0-21bf-4bce-96ef-0a7bac5d68f5@fin.pinkmoon.pro:443?&security=reality&flow=xtls-rprx-vision&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&sid=8ffa160e608bf539&fp=qq&sni=fin.pinkmoon.pro&type=tcp&headerType=none&host=fin.pinkmoon.pro&path=%2F#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:443?mode=auto&path=/&security=reality&encryption=none&pbk=tl7xSwczBM--oN16cxdLnAD8GMf8tA0f-FXE9ilCCjA&fp=chrome&type=xhttp&sni=download.intel.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://af00e0c4-decf-48f2-9013-56abe9c9efcd@fl.windconnect.pro:443?security=reality&type=tcp&sni=fl.windconnect.pro&fp=safari&flow=xtls-rprx-vision&sid=3c6ec7b2d73a28b6&pbk=40Tmrw44FhOyoqCQiOfR2kCgxEPXrBLLv6oYFvjbGUI&encryption=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
