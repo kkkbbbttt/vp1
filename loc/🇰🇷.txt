@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://f5851a6e-72da-4e4e-99b2-c79629149503@47.80.61.21:443?security=reality&type=tcp&sni=www.logitech.com&fp=chrome&flow=xtls-rprx-vision&sid=6132a3b8dd2d8c6b&pbk=wrSzVpmEdnTU7oS5UbKuNnvP57Z7cJkOZRBwRqHM_Hk#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 vmess://eyJhZGQiOiIxNDYuNTYuMTEyLjExMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlN2MzMDJmMy05MGQ2LTQyZGQtOWQ3ZC05NGEzNjgzYTM3MDciLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6Ijg4ODgiLCJwcyI6ImhhbWVkcDcxOjrwn4ew8J+HtyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0
