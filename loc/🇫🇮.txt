@@ -2,5 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
+vless://bd99da97-265e-0021-82cc-4ec009fe9ce2@5.61.91.206:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.amd.com&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=0a4b7c3d&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://246b101b-4e4a-451f-8e9c-5e8d3b64b4ef@fi.snobvpn.online:80?path=%2Fsnob-ws&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://af00e0c4-decf-48f2-9013-56abe9c9efcd@2.26.91.57:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=40Tmrw44FhOyoqCQiOfR2kCgxEPXrBLLv6oYFvjbGUI&security=reality&sid=3c6ec7b2d73a28b6&sni=fl.windconnect.pro&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@65.109.215.118:1080#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://af00e0c4-decf-48f2-9013-56abe9c9efcd@fl.windconnect.pro:443?security=reality&type=tcp&sni=fl.windconnect.pro&fp=safari&flow=xtls-rprx-vision&sid=3c6ec7b2d73a28b6&pbk=40Tmrw44FhOyoqCQiOfR2kCgxEPXrBLLv6oYFvjbGUI&encryption=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
