@@ -2,21 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://c21631d5-36c9-4664-b575-97eca17456be@2.27.205.59:443?path=%2F&security=&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://c21631d5-36c9-4664-b575-97eca17456be@2.27.205.59:443?path=%2F&security=&encryption=none&host=neth8.lunariai.ru&type=ws#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://c21631d5-36c9-4664-b575-97eca17456be@neth8.lunariai.ru:443?security=&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://c21631d5-36c9-4664-b575-97eca17456be@neth8.lunariai.ru:443?path=%2F&security=&encryption=none&host=neth8.lunariai.ru&type=ws#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://594d466e-8ac3-4fda-b1d1-eeb817853518@staging.lastilhame.monster:443?security=reality&encryption=none&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=5a018643df03#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://317bc783-340f-453c-afb5-b6bf637c0b23@staging.lastilhame.monster:443?security=reality&encryption=none&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tradingview.com&sid=fc994ae7eb10#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://e5d917f5-fc78-455e-bbb5-81d08715f3d6@95.154.196.61:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=2ATxqiR22wlo3yXOHc43LFHM5NzWCdSGZLdBay_vJgM&security=reality&sid=e4a1b53b03eff60d&sni=strapi.io&type=tcp#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vmess://eyJhZGQiOiI2Ni4xNjMuMTE3LjU4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6ImhhbWVkcDcxOjrwn4es8J+HpyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
-vless://c21631d5-36c9-4664-b575-97eca17456be@neth8.lunariai.ru:443?encryption=none&security=none&type=ws&host=neth8.lunariai.ru&path=/#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNThkMTZlNTkzZDQ0ZjQy@158.173.221.214:11001#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://13aef2e0-b3fb-4322-a0e9-c10b908ce6b5@server.slavkiti.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&sid=87f895f23064&sni=www.techradar.com#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://de5906f3-df38-4463-aa9d-2b01320cc6ea@31.76.76.28:8443?security=tls&sni=neth4.lckdwn.ru&fp=chrome&type=tcp&path=/#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vmess://eyJhZGQiOiI2Ni4xNjMuMTE3LjU4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJAUHJveHlWUE4xMSIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8gQFByb3h5VlBOMTEiLCJwb3J0IjoyMjMyNCwicHMiOiJoYW1lZHA3MTo68J+HrPCfh6ciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIiLCJuYW1lIjoiR0Ig8J+HrPCfh6cgfCBAUmF5ZGlrYWx4IHwgMUNDQzlBIn0
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.24.73:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://c21631d5-36c9-4664-b575-97eca17456be@2.27.205.59:443?encryption=none&security=none&type=ws&host=neth8.lunariai.ru&path=%2F#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://b60cab55-e7a1-413d-a297-ddd7bad3fb62@107.181.151.39:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=firefox&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&sid=bbcab8fa80a3&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.227.251:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=uk-dedic-new-1.failspace.top&type=tcp#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@uk-dedic-new-1.failspace.top:443?type=tcp&security=tls&sni=uk-dedic-new-1.failspace.top&fp=firefox&alpn=h2&encryption=none&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://9f61cdf4-810d-4052-bbc7-2da0c8e20104@83.147.18.3:443?security=reality&encryption=none&pbk=3iVJAIGPx6JMlhlRmfpGrHkSmLpHJ4CPvBBH7KsFrFA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=fd8cf7e1173f0edb#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
