@@ -2,7 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://c47b421f-65f1-4190-b7ba-bd2045086fe4@se.belka.network:443?flow=xtls-rprx-vision&fp=firefox&pbk=diw5L3O4EkRQGWDSfdpQooPUc3zBTItooeOQ_fIDFWI&security=reality&sid=7f2e9c4b1a8d6e53&sni=yahoo.com&type=tcp&encryption=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://V2XNET@188.114.98.0:443?security=tls&type=ws&path=%2Fxvpnws%2F&host=or.mirikhan.dpdns.org&alpn=h3%2Ch2%2Chttp%2F1.1&sni=or.mirikhan.dpdns.org&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://20dd9433-389e-4573-ba7b-689619cf13da@31.77.199.147:4443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=GvkQwcZWiXQBLzEhTVfQkyPpdgo6Opc3RtLsED9sA0A&security=reality&sid=7da2eae792187ab9&sni=images.unsplash.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://eec2f6a7-c10f-43b0-b133-61f9bf9bbc27@2.56.121.43:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=vnUSQFujh6K08KR6FHYWoBkZCAEZNWSKji0PPw9eMWM&security=reality&sid=86229a5e3b1e6ef4&sni=www.ikea.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE

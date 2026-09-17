@@ -4,9 +4,11 @@
 
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://d56624b2-35bb-468c-9b2a-e0b0df7230c1@154.31.114.248:50159?encryption=none&flow=xtls-rprx-vision&fp=&pbk=j4QXngGuJkUGwRj4XIrfHRohYYuEfnJlX4cvCE-WklA&security=reality&sid=091e1c5db8451757&sni=www.cloudflare.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-vmess://eyJhZGQiOiJvYy5pbWZ1bi5mdW4iLCJhaWQiOiIwIiwiaG9zdCI6Im9jLmltZnVuLmZ1biIsImlkIjoiYWQ0NWY4ZjYtMGYwYS00Y2M0LWI5MDctYzQ1ODI0MDdkYzk0IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTgxMTIiLCJwcyI6ImhhbWVkcDcxOjrwn4ev8J+HtSIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
+vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJOb25lIiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJwY3MiOiIiLCJwb3J0IjoiODAiLCJwcyI6ImhhbWVkcDcxOjrwn4ev8J+HtSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJ2Y24iOiIifQ
 vmess://eyJhZGQiOiI0NS4zMi41Ny4xMTgiLCJhaWQiOiIwIiwiaWQiOiIzNWI4OTgzMi0wYTdjLTQ4ZGQtOGQxYy1hMjg5MWI1MjIxOTUiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiNDQzMyIsInBzIjoiaGFtZWRwNzE6OvCfh6/wn4e1Iiwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:11452?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+vless://7fb42fab-ea8a-4f0f-af9e-55df8ae6cb1d@47.74.3.200:443?security=reality&encryption=none&pbk=kb1uhDsBcfsCD6acCuFcVERW29dscNGIjKPd67NArVk&host=www.logitech.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.logitech.com&sid=ab3b914f0c9d9de5#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
