@@ -4,4 +4,3 @@
 
 vless://cb15cce9-73ed-4928-b38c-462f0732cbe9@217.217.254.126:2053?type=tcp&security=reality&fp=firefox&pbk=VzRjuHwcY-nLqkEIJS4S1CpButKc90Bh0gDbphyZ0Tw&sid=87829de0e2bb82cb&sni=www.cloudflare.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVjRidmFKSVdveGwzSVlFQzFlNlc3@194.233.74.160:2342#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@43.160.220.86:443?fp=chrome&host=cdn8848.776676.xyz&path=%2Fbuy%2Fuploads%3Fed%3D2560&security=tls&sni=cdn8848.776676.xyz&type=ws#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
