@@ -2,12 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7jwn4esIiwiYWRkIjoiMTQ5Ljg4LjIzLjIwMiIsInBvcnQiOiIxODAwMCIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxNyJ9
 vless://cb15cce9-73ed-4928-b38c-462f0732cbe9@217.217.254.126:2053?type=tcp&security=reality&fp=firefox&pbk=VzRjuHwcY-nLqkEIJS4S1CpButKc90Bh0gDbphyZ0Tw&sid=87829de0e2bb82cb&sni=www.cloudflare.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVjRidmFKSVdveGwzSVlFQzFlNlc3@194.233.74.160:2342#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?encryption=none&flow=xtls-rprx-vision&fp=&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&security=reality&sid=6ba85179e30d4fc2&sni=sg2-8sb.6121999.dpdns.org&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@104.16.10.191:443?path=%2F&security=tls&encryption=none&insecure=0&host=u.srilankangrill.online&fp=chrome&type=ws&allowInsecure=0&sni=u.srilankangrill.online#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:12972?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:19825?security=reality&type=tcp&sni=sg2-8sb.6121999.dpdns.org&fp=chrome&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@43.159.4.80:443?allowInsecure=1&sni=cdn8848.776676.xyz&type=ws&host=cdn8848.776676.xyz&path=/episode/files?ed=2560fp=chrome&security=tls#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?security=reality&encryption=none&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7205d9079521832c#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@43.160.220.86:443?fp=chrome&host=cdn8848.776676.xyz&path=%2Fbuy%2Fuploads%3Fed%3D2560&security=tls&sni=cdn8848.776676.xyz&type=ws#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
