@@ -2,6 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://ac64aec6-85ee-4fc7-b34b-60a7bcf236ec@91.186.216.100:7005?security=reality&encryption=none&pbk=7aICTN0hv6bhd8bYOjNZniDYSXgD20LunZ3BW6_Zyk4&headerType=none&fp=chrome&type=tcp&sni=play.googleapis.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@79.141.174.147:33743?mode=gun&security=reality&encryption=none&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&fp=firefox&type=grpc&serviceName=TunService&sni=www.google.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@193.42.39.10:33743?encryption=none&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&security=reality&serviceName=TunService&sni=www.google.com&type=grpc&fp=chrome#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+hy2://19f72087-4591-4d72-930b-2697078ec2be@se.xiaoliyu.cyou:4433/?insecure=1&sni=se.xiaoliyu.cyou#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+hysteria2://19f72087-4591-4d72-930b-2697078ec2be@se.xiaoliyu.cyou:4433/?insecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA

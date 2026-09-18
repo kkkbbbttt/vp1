@@ -2,11 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443/?insecure=1&sni=germany3.h2corp.local#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443/?insecure=1&sni=vpn-tw-002.fastervpn.world#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
-hysteria2://BWAFlp8g53@72.56.102.31:443/?insecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-hysteria2://EkF2Yw0Lc7@72.56.16.243:443/?insecure=1&sni=hys34.wba-pn.ru#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-hysteria2://CompanyHy2_2026!@38.60.204.239:36712/?insecure=1#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
-hysteria2://1851679956395a09f6afc10eb3f3751b@80.91.65.89:443/?insecure=1&obfs=salamander&obfs-password=5c8f1a3e7b2d9046c1f8a5e3b7d04f2a&sni=80.91.65.89#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-hysteria2://https%3A%2F%2Fxship.top@starlink-ft.251313.xyz:443?insecure=1&sni=xship.top#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+hy2://19f72087-4591-4d72-930b-2697078ec2be@es1.xiaoliyu.cyou:4433/?insecure=1&sni=es1.xiaoliyu.cyou#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
+hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443/?sni=hy.quattro-tech.ru#hamedp71%3A%3A%E2%9D%93
+hy2://19f72087-4591-4d72-930b-2697078ec2be@se.xiaoliyu.cyou:4433/?insecure=1&sni=se.xiaoliyu.cyou#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+hysteria2://19f72087-4591-4d72-930b-2697078ec2be@se.xiaoliyu.cyou:4433/?insecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
