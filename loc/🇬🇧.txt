@@ -2,8 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.226.174:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=en-new.moriarty-web.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://6dff8e33-b201-4cbb-8f89-b9418702bff2@138.124.125.236:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.cisco.com&fp=chrome&pbk=nMPuuTmls3qzDHMaTShhGHili6756Jy5NMOvZ4wufho&sid=75adf1&spx=/4gd6xNvGqQ6Uz6c#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@165.232.39.158:443?fp=chrome&host=cdn8848.776676.xyz&path=%2Fm%3Fed%3D2560&security=tls&sni=cdn8848.776676.xyz&type=ws#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.227.252:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=uk-dedic.failspace.top&type=tcp#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://9f61cdf4-810d-4052-bbc7-2da0c8e20104@83.147.18.3:443?security=reality&encryption=none&pbk=3iVJAIGPx6JMlhlRmfpGrHkSmLpHJ4CPvBBH7KsFrFA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=fd8cf7e1173f0edb#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://a3c861cb-e1e7-4ad6-8be2-7c2314ec6f18@78.129.208.44:421?sid=a1facbc8575701ae&pbk=zUdAvpr07q1Yd0Om-jc4-Vu4Un5tVird8FGoN-7W9Tg&security=reality&flow=xtls-rprx-vision&headerType=none&fp=chrome&sni=chistomat.dry.care&encryption=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
