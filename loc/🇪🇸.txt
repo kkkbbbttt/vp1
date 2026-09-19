@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vmess://eyJhZGQiOiI4NS45MC4yMTcuNDIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmFtZSI6IkVTIPCfh6rwn4e4IHwgQFJheWRpa2FseCB8IEVCRUMxRiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoyMjMyNCwicHMiOiJoYW1lZHA3MTo68J+HqvCfh7giLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
+vless://c55c9880-2f9c-4ad6-bfc2-5054516bf613@34.175.90.91:443/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&security=reality&pbk=lM9EQ1rZH9inQjrZesuqgldsXYN_yfT5-tqhPfbyen4&sid=1c9e101e99bf86bb&fp=chrome#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
