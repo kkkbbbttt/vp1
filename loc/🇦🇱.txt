@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@alda1.thewalkingded.life:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=alda1.thewalkingded.life&fp=random&pbk=2IBUcPHOhFulmJaICe_xuRBJVgjDqVXB8fjHVdbdOQA&sid=e114ca996877ce3a&spx=%2F&type=tcp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B1
+vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@85.155.228.24:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=2IBUcPHOhFulmJaICe_xuRBJVgjDqVXB8fjHVdbdOQA&security=reality&sid=e114ca996877ce3a&sni=alda1.thewalkingded.life&type=tcp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B1
