@@ -2,9 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@144.31.131.38:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=prod.pl-node-01.security-sbrf.ru&sid=db04ce8bdb8900f1#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://d0f0a880-0df1-48c9-bdf1-5669fb9483ce@2.27.244.177:443?security=reality&encryption=none&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=polacondr.ggisopi.su#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.131.71.183:8443?security=tls&type=ws&path=%2Fplayer&host=cdn8848.776676.xyz&allowInsecure=1&sni=cdn8848.776676.xyz&fp=chrome#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.2.33:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl3.moritech.net#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@83.168.111.58:443?security=reality&encryption=none&pbk=4h74KXbkBMYOhJkZabJNsf85cI91ytap_gkl56mzjTU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=soulful.host#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443?insecure=1#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vmess://eyJhZGQiOiIxODguMTE0Ljk2LjE5IiwiYWlkIjowLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uaGVzYW5pZDguaXIuIiwiaWQiOiJhZWQ4OGU3OS01NzYyLTRkMmYtODZmYS1mNDM4ZjMyYTc2NTQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6ODAsInBzIjoiaGFtZWRwNzE6OvCfh7Xwn4exIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ

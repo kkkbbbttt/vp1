@@ -4,6 +4,4 @@
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@202.181.177.8:8443/?type=ws&encryption=none&flow=&host=cdn8848.776676.xyz&path=/channels/act&security=tls&sni=cdn8848.776676.xyz&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&fp=chrome#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@157.228.142.148:8443?security=tls&type=ws&path=%2Fact%2Frank%2Flang&host=cdn8848.776676.xyz&allowInsecure=1&sni=cdn8848.776676.xyz&fp=chrome#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@5.157.10.147:443?flow=xtls-rprx-vision&fp=random&pbk=x6p656szvu_3CKLsJ4NtkooRvdTVGx7IoPca_p58_jA&security=reality&sid=fb442438e2223836&sni=svvedko.nxxzxaw.beer&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@svvedko.nxxzxaw.beer:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=svvedko.nxxzxaw.beer&pbk=x6p656szvu_3CKLsJ4NtkooRvdTVGx7IoPca_p58_jA&sid=fb442438e2223836&type=tcp&fp=ios#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@202.181.177.8:8443?encryption=none&security=tls&sni=cdn8848.776676.xyz&fp=chrome&allowinsecure=0&type=ws&host=cdn8848.776676.xyz&path=/channels/act#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
