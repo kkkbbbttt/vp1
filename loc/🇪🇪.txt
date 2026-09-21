@@ -2,8 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@estomin1.vodniki.monster:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=estomin1.vodniki.monster&fp=random&pbk=r1MW0o1DsC6EEWN-KPKnoXszb1trxlKShRIgOpxqHBk&sid=d98e7afec9c0c359&spx=%2F&type=tcp#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
-hysteria2://319ed24b1c7203aa@tishina-axe.dedyn.io:8443?insecure=1&sni=tishina-axe.dedyn.io#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
-vless://5edbcb44-8d04-4fa7-a587-bc5d60c24ca1@94.183.170.147:8443?type=grpc&security=reality&fp=firefox&pbk=s2uiu3GQA2SlZzsr86Z5Dav97eAFTPf7Nvr-zqzzRgg&sid=72ccd4a7563c2953&sni=www.cloudflare.com&serviceName=9d30d49278#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
-vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.80:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=6ba85179e30d4fc2#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@5.181.201.36:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r1MW0o1DsC6EEWN-KPKnoXszb1trxlKShRIgOpxqHBk&security=reality&sid=d98e7afec9c0c359&sni=estomin1.vodniki.monster&type=tcp#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
+vless://ad297a2b-ae17-4d2d-8fce-e2eafb89b145@ee.cdn-update.rutube.info:20443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=-AdhgMZeNHR2zAmGWa5peg7Ni0-e4IVMoSzydC9n7C4&security=reality&sid=08&sni=dest1.cdn-update.rutube.info&type=tcp#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
