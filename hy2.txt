@@ -2,5 +2,17 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-hy2://sxc15led4b0vp5fy@musicclips.videolinks.ru:8443?sni=musicclips.videolinks.ru&path=%2f&obfs=salamander&obfs-password=8zzng75tz4tf82pj#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-hysteria2://HysTeria2026!Proxy@mz.hkychina.com:8443?security=tls&insecure=0&sni=mz.hkychina.com#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@mlxy1.mangshe.xyz:2060?insecure=1&sni=mlxy1.mangshe.xyz#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%BE
+hysteria2://gf1:gfhysteria2024@173.212.201.85:443/?insecure=1&sni=www.docker.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@msjp1.mangshe.xyz:20561?insecure=1&sni=www.microsoft.com#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+hysteria2://1beb216e3f60aea9555dae60d219a5ca@152-69-231-175.liao.kdns.fr:50160?sni=152-69-231-175.liao.kdns.fr#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+hysteria2://EkF2Yw0Lc7@72.56.16.243:443?insecure=1&sni=hys34.wba-pn.ru#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+hysteria2://19f72087-4591-4d72-930b-2697078ec2be@se.xiaoliyu.cyou:4433/?insecure=1&sni=se.xiaoliyu.cyou#hamedp71%3A%3A%E2%9D%93
+hysteria2://BWAFlp8g53@hys28.wba-pn.ru:443/?insecure=1&sni=hys28.wba-pn.ru#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+hysteria2://8294f130408299df8cab08c80bf6f819@24.233.8.109:443?insecure=1&obfs=salamander&obfs-password=c8827ab99e316c5bd414e21afa915ddf&sni=www.bing.com#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+hysteria2://sxc15led4b0vp5fy@musicclips.videolinks.ru:8443/?insecure=1&obfs=salamander&obfs-password=8zzng75tz4tf82pj&sni=musicclips.videolinks.ru#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+hysteria2://3a702d4d1de4949005d8431220e040fb@152.67.75.161:443/?insecure=1&obfs=salamander&obfs-password=c13f29db6a638ad2b211b9ce2669ef27&sni=www.bing.com#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+hysteria2://https%3A%2F%2Fxship.best@starlink-ft.251313.xyz:443?insecure=1&sni=xship.top#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://19f72087-4591-4d72-930b-2697078ec2be@se.xiaoliyu.cyou:4433?insecure=1&sni=se.xiaoliyu.cyou#hamedp71%3A%3A%E2%9D%93
+hysteria2://19f72087-4591-4d72-930b-2697078ec2be@es1.xiaoliyu.cyou:4433?insecure=1&sni=es1.xiaoliyu.cyou#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
+hysteria2://HowdyHysteria2023w0W@hysteria.udpgw.com:8443?insecure=1&obfs=salamander&obfs-password=HysteriaHowdy&sni=sni-here.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
