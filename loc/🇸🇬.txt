@@ -2,8 +2,9 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@216.173.67.159:443?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@216.173.67.144:443?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@103.195.188.206:443?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@103.195.188.192:443?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVjRidmFKSVdveGwzSVlFQzFlNlc3@194.233.74.160:2342#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://832c8f42-7fe1-4aa4-9171-eb9dddbf6fef@172.67.130.159:2096?path=/78bc8&security=tls&encryption=none&insecure=0&host=cdn-sg.skyvora.app&fp=chrome&type=ws&allowInsecure=0&sni=cdn-sg.skyvora.app#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://cb15cce9-73ed-4928-b38c-462f0732cbe9@217.217.254.126:2053?encryption=none&type=tcp&security=reality&pbk=VzRjuHwcY-nLqkEIJS4S1CpButKc90Bh0gDbphyZ0Tw&sid=87829de0e2bb82cb&sni=www.cloudflare.com&fp=firefox&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://832c8f42-7fe1-4aa4-9171-eb9dddbf6fef@104.21.8.201:2096?path=/78bc8&security=tls&encryption=none&insecure=0&host=cdn-sg.skyvora.app&fp=chrome&type=ws&allowInsecure=0&sni=cdn-sg.skyvora.app#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
