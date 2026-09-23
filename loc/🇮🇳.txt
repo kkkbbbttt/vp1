@@ -2,6 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4MCwicHMiOiJoYW1lZHA3MTo68J+HrvCfh7MiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIxNTIuNjcuOC4yMDUiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@13.200.106.232:443?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@139.84.135.130:443?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-in-001.fastervpn.world:443/?insecure=1&sni=#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
