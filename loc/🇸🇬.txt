@@ -4,10 +4,7 @@
 
 vless://0590ab38-cb22-41d3-8312-6f396a5cec58@129.150.51.127:34249?encryption=none&type=tcp&security=tls&sni=www.microsoft.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://408fbae6-a40b-4f0b-9723-0b4ce8e3d035@172.236.142.114:443?security=tls&type=tcp&sni=onhit.shalana.xyz&fp=firefox#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://bda35755-c838-49c3-a19e-3712f2d54275@163.128.99.14:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=-LuhwN_cSgNr7nYIfCcu_XAjviKVSGwVGHxmB-s1AD0&sid=e3a4bdfe3d6fd8ec&type=tcp&headerType=none&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZXBwM285bmc4ZWo1OXV2@45.128.12.20:14249#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://49c0aac1-5e05-4f04-b624-248fc59e03c4@54.169.200.246:41688?security=reality&type=tcp&sni=www.intel.com&fp=chrome&flow=xtls-rprx-vision&sid=7f342137c20387&pbk=srwIElIGTPs0kshpN1vvPsn4wixV_pLd56y_v9m0sTk&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://1e3d3634-36ac-43ac-a439-9665d885238f@206.206.76.75:443?security=reality&encryption=none&pbk=TqIFzUEEI1pIOR8BEpkNKEXcJ6cPfE5EzHb5joIivig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=9930177816ab09da#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?security=reality&encryption=none&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7205d9079521832c#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://408fbae6-a40b-4f0b-9723-0b4ce8e3d035@onhit.shalana.xyz:443?security=tls&type=tcp&sni=onhit.shalana.xyz&fp=chrome#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://cb15cce9-73ed-4928-b38c-462f0732cbe9@217.217.254.126:2053?security=reality&encryption=none&sni=www.cloudflare.com&fp=firefox&pbk=VzRjuHwcY-nLqkEIJS4S1CpButKc90Bh0gDbphyZ0Tw&sid=87829de0e2bb82cb&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://1e3d3634-36ac-43ac-a439-9665d885238f@206.206.76.75:443?security=reality&encryption=none&pbk=TqIFzUEEI1pIOR8BEpkNKEXcJ6cPfE5EzHb5joIivig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=9930177816ab09da#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC

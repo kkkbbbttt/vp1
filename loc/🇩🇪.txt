@@ -3,14 +3,13 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
 vless://Mahanvpn-vip1@172.67.160.192:2086?security=none&type=ws&path=%2Finternet%2C&host=mAhaNrEaliteAm.MaHkHan.iR.&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://8afeb33c-b686-43e9-a629-0d98f991ec28@104.194.159.237:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=chrome&pbk=L5cKU_oSpJsGd3ffemej3Wy7V6KzqjIUC2T5jaCyPys&sid=1aec480577a542ee&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://8af93649-403b-46d8-9966-923d4c58402c@defrnode.jumpernode.online:443?security=reality&type=tcp&sni=buckeye-retail-website.amazon.com&fp=chrome&flow=xtls-rprx-vision&sid=5c6481cdd4&pbk=XTarABsaaFbjYNk6lRKnUzGavHzeqMIP7B8dZGNCvkE&encryption=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://365de9e9-ba29-4819-af2d-766f9638e3be@95.163.232.171:14443?path=/ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=media-se.compressor.work#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-ss://YWVzLTI1Ni1nY206a0tFZDByQnJkNTZGdXJqeg==@2.58.81.221:443#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://47f79fc1-0646-40e8-8a58-73e85d183d5a@64.188.126.56:43000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=64.188.126.56&fp=chrome&pbk=jjbMUO41S9JE7ou_zbbDStzSYLzJVN_0O-j0f6b380E&sid=bf4e20af99d3042d&spx=/&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://bb0f1ed0-0298-40a1-adb1-1f5d6ab33d54@arcturus.yokkastars.com:40443?security=reality&encryption=none&pbk=w4AYHvQnQS6olDqoG9ptLOtgehaWOsv9HQhDax5bLA4&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=db46e2946fc466fd#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://c40ec629-cd50-4569-8ea7-ea7c498423fd@95.133.236.241:443?fp=qq&type=grpc&mode=gun&sid=77d4e9e5a5243324&security=reality&fm=AhmadV2ray&sni=ads.x5.ru&encryption=none&pbk=BzI9KKxbdc7fbgZpK0WX9p6jgJBVJo44dj6D15uW5HA&spx=%2FAhmadV2ray#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://7c99dc89-bf49-45c9-acc5-e43f36657518@www.large-files.info:8443?security=tls&type=ws&path=%2Fvar%2Fwww%2Fhtml%2Fvideo%2Fpreview%2Fdownload%2Fi8o0la&alpn=http%2F1.1&sni=www.large-files.info&fp=chrome#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.123.162.100:9880?type=grpc&security=reality&fp=firefox&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&sni=dl.google.com&serviceName=grpc-tunnel#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://bb0f1ed0-0298-40a1-adb1-1f5d6ab33d54@193.202.10.248:40443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=w4AYHvQnQS6olDqoG9ptLOtgehaWOsv9HQhDax5bLA4&security=reality&sid=db46e2946fc466fd&sni=deepl.com&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 trojan://Km/pIG4AGCjCOiGWj5FsWA==@node8.quaxly.com:25040?security=tls&sni=/gay-anal&type=ws&path=/node8.quaxly.com&Host=/gay-anal#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&fp=chrome&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sid=b28db60d77c50b4f&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
@@ -20,4 +19,3 @@ vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.142:443?security=reality&
 vless://8af93649-403b-46d8-9966-923d4c58402c@64.118.158.56:443?security=reality&type=tcp&sni=buckeye-retail-website.amazon.com&fp=chrome&flow=xtls-rprx-vision&sid=5c6481cdd4&pbk=XTarABsaaFbjYNk6lRKnUzGavHzeqMIP7B8dZGNCvkE&encryption=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://57e2a48b-0cc2-4b60-aacd-b36358fcba96@api-4pda-k9x4m.xubi.org:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8q_xD5tfjZGDPsnq-3VqXWVV7-D03crExMBuL4xQNBM&security=reality&sid=d4f6a8c1b2e3f9aa&sni=4pda.to&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-ss://YWVzLTI1Ni1nY206a0tFZDByQnJkNTZGdXJqeg==@2.58.81.221:80#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
