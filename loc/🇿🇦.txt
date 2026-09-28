@@ -11,5 +11,6 @@ vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform118.golnamakcert.top:80?&ty
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform103.golnamakcert.top:80?&sni=platform103.halalkhor.info&type=ws&headerType=none&host=platform103.halalkhor.info&path=/platform103#hamedp71%3A%3A%F0%9F%87%BF%F0%9F%87%A6
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform101.golnamakcert.top:80?type=ws&headerType=none&host=platform101.halalkhor.info&path=%2Fplatform101#hamedp71%3A%3A%F0%9F%87%BF%F0%9F%87%A6
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform117.golnamakcert.top:80?&type=ws&headerType=none&host=platform117.halalkhor.info&path=/platform117#hamedp71%3A%3A%F0%9F%87%BF%F0%9F%87%A6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#hamedp71%3A%3A%F0%9F%87%BF%F0%9F%87%A6
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform115.golnamakcert.top:80?&sni=platform115.halalkhor.info&type=ws&headerType=none&host=platform115.halalkhor.info&path=/platform115#hamedp71%3A%3A%F0%9F%87%BF%F0%9F%87%A6
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform108.golnamakcert.top:80?type=ws&encryption=none&flow=&host=platform108.halalkhor.info&path=/platform108#hamedp71%3A%3A%F0%9F%87%BF%F0%9F%87%A6
