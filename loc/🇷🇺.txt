@@ -1,0 +1,5 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
+
+vless://7faa65a6-b43b-413e-9480-a81fae3d0c49@185.255.114.91:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=VDZdbh_RzDDZsHpYF58yUuuvXh93XnmkvpSqb50qG2U&sid=1be482b8e08aa0ef&sni=nl2.reddotcorp.org#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
