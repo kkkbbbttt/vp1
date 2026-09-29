@@ -4,3 +4,4 @@
 
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@norw-1.failspace.top:443?security=tls&type=tcp&sni=norw-1.failspace.top&fp=chrome&flow=xtls-rprx-vision&encryption=none#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
 vless://df9f5aca-eda0-428f-a752-e53866153d12@89.185.81.95:8765?security=reality&encryption=none&pbk=Da_s-Cgqm5kqaIbCgXVJdrq_KF7fCQveRByRhKUzonc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=r-b8a34c.vless.monster&sid=7bf47eabf939728b#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.247.104:9881?mode=gun&security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
