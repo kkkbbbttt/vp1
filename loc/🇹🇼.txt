@@ -3,5 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
 vless://06e177f7-240d-4687-bd85-235505801a5e@60.248.219.54:443?&security=tls&sni=ty986gfazs.cainiaohub.xyz&type=ws&headerType=none&host=ty986gfazs.cainiaohub.xyz&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb530#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
-vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@144.31.225.193:443/?type=grpc&encryption=none&flow=&serviceName=cdn.v1.AssetService&security=tls&sni=assets-nl3.pleiades.codes&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
-vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@144.31.225.193:443?encryption=none&security=tls&serviceName=cdn.v1.AssetService&sni=assets-nl3.pleiades.codes&type=grpc#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
+hysteria2://a56619e2bed91121eabb97d20be207c3@85.237.207.49:50160?insecure=1&sni=85-237-207-49.liao.kdns.fr#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
