@@ -1,5 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
-
-vless://d6fc32ed-05de-430b-99ca-3edc9185e79b@au1.gsafevpnapi.com:20270?security=reality&type=tcp&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=e6a5a4a9115456de&pbk=RHLiKldLu3DONcQoX4Kjs7Xmd2K25ndVbw4pwxe45XE&encryption=none#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
