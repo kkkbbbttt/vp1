@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-hysteria2://633bc3be486b646190661ac2387c150a@152.67.115.203:443?insecure=1&obfs=salamander&obfs-password=850a3fb1cd33a28f12d837578ae1a2e7&sni=www.bing.com#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-001.fastervpn.world:443?insecure=1&sni=vpn-au-001.fastervpn.world#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
+vless://d6fc32ed-05de-430b-99ca-3edc9185e79b@au1.gsafevpnapi.com:20270?security=reality&type=tcp&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=e6a5a4a9115456de&pbk=RHLiKldLu3DONcQoX4Kjs7Xmd2K25ndVbw4pwxe45XE&encryption=none#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
