@@ -2,7 +2,14 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333/?sni=hy2.123266.xyz#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-hysteria2://gf1:gfhysteria2024@5.129.235.85:443/?insecure=1&sni=www.linux.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-hysteria2://BWAFlp8g53@hys28.wba-pn.ru:443/?insecure=1&sni=hys28.wba-pn.ru#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-hysteria2://d4cae7df-50a1-428c-bd62-881c8f3bbd90@dehys.superbuba.top:443?security=tls&insecure=0&sni=dehys.superbuba.top#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://4291c983-c520-46ac-82cc-48f14bef573f@129.213.91.185:35013?insecure=1&sni=www.bing.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://0a11d3b4-682c-4bfb-afb0-820b8285cb4b@covers.pantera-radio.ru:443?insecure=1&sni=covers.pantera-radio.ru#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://BWAFlp8g53@hys28.wba-pn.ru:443/?insecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-de-002.fastervpn.world:443?sni=vpn-de-002.fastervpn.world&insecure=1#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://8A9905B7-801B-41AF-BFC9-2034212770F6@sg4.dexlos.com:20654?security=tls&obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&insecure=0&sni=sg4.dexlos.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?insecure=1&sni=91.240.86.70#hamedp71%3A%3A%E2%9D%93
+hysteria2://5fa748137b6d822308eea4611f474ad5@155.117.19.17:443?insecure=1&obfs=salamander&obfs-password=a39ca173b57ac7021b08bf3e3de9f1f6&sni=www.bing.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1&sni=www.microsoft.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&sni=138.2.73.238#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.166.40:443?sni=vpn-fr-002.fastervpn.world#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+hysteria2://e4fa7b90-b8ee-45bb-b3be-cb3bfdc551e3@156.229.160.253:55000?insecure=1&sni=www.bing.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
