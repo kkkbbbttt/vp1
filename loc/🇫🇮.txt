@@ -2,7 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://30dab345-4de9-4b70-ad9f-8ebd5c66686f@node5.boomvpn.ru:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cdn.jsdelivr.net&fp=chrome&pbk=GRxGFwibgoUjG9OL5Dl1OLyK56yw8WaG5BdFP8ifVgQ&sid=26f7082dd0e36ca1&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://f28e0ce1-ed75-4e90-b069-5215a80dfb4a@45.149.147.97:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=safari&pbk=AcuvO982QLzf76fVydfSuJIiF5520rmj7AxpaxyRwUg&sid=d345ad4657adeef9&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@85.192.48.142:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&security=reality&sid=db04ce8bdb8900f1&sni=nvidia.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://30dab345-4de9-4b70-ad9f-8ebd5c66686f@81.90.21.168:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GRxGFwibgoUjG9OL5Dl1OLyK56yw8WaG5BdFP8ifVgQ&security=reality&sid=26f7082dd0e36ca1&sni=cdn.jsdelivr.net&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@77.42.20.51:1085?security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
