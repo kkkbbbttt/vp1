@@ -2,27 +2,26 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#hamedp71%3A%3A%E2%9D%93
-trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0#hamedp71%3A%3A%E2%9D%93
+trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@104.21.33.59:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["5", "94", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["109", "1"], "delays": ["1"], "maxSplit": "355"}}]}&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://sg-trojan-2026@43.173.90.202:443?security=tls&sni=sg-proxy.local#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://humanity@185.114.72.31:2053?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#hamedp71%3A%3A%E2%9D%93
+trojan://humanity@185.114.72.31:2053?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://UX82473651@cheerful-swan.rooster465.autos:443?sni=cheerful-swan.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://tFjD2X1F6i9FfWp2GDU5Vbi1conuaChDKIYbw9zMFrqvMoSz@47.240.80.220:2052?sni=vpn.12169.top&type=tcp#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-trojan://humanity@78.47.146.151:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#hamedp71%3A%3A%E2%9D%93
-trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#hamedp71%3A%3A%E2%9D%93
+trojan://humanity@78.47.146.151:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://Km/pIG4AGCjCOiGWj5FsWA==@node8.quaxly.com:25040?security=tls&sni=/gay-anal&type=ws&path=/node8.quaxly.com&Host=/gay-anal#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#hamedp71%3A%3A%E2%9D%93
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://UX82473651@3.120.109.26:443?sni=actual-squid.rooster465.autos&path=%2f#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://humanity@104.17.121.43:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#hamedp71%3A%3A%E2%9D%93
-trojan://humanity@45.130.125.190:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#hamedp71%3A%3A%E2%9D%93
-trojan://e309e031-991e-4656-9934-44d10deb8fd8@nimm.mpd.cc.cd:2053?sni=nimm.mpd.cc.cd&allowInsecure=1&type=ws&path=%2F0962&host=nimm.mpd.cc.cd&fp=chrome#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-trojan://humanity@185.255.179.166:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#hamedp71%3A%3A%E2%9D%93
+trojan://humanity@104.17.121.43:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@45.130.125.190:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@185.255.179.166:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://e309e031-991e-4656-9934-44d10deb8fd8@nimm.mpd.cc.cd:2053?sni=nimm.mpd.cc.cd&allowInsecure=1&type=ws&path=%2F0962&host=nimm.mpd.cc.cd&fp=chrome#hamedp71%3A%3A%E2%9D%93
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&fp=chrome&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://humanity@165.215.250.14:443?allowInsecure=1&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#hamedp71%3A%3A%E2%9D%93
+trojan://humanity@165.215.250.14:443?allowInsecure=1&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://UX82473651@actual-squid.rooster465.autos:443?sni=actual-squid.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://humanity@45.130.125.160:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#hamedp71%3A%3A%E2%9D%93
+trojan://humanity@45.130.125.160:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://xhl549341@172.64.145.158:443?security=tls&sni=tro.baiyi.cloudns.org&alpn=h3&type=ws&host=tro.baiyi.cloudns.org&path=/?ed=2560#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://humanity@172.67.139.14:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["0", "104", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["114", "1"], "delays": ["1"], "maxSplit": "11"}}]}&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://humanity@104.25.109.237:443?type=ws&security=tls&sni=www.calmlunch.com&path=%2Fassignment#hamedp71%3A%3A%E2%9D%93
-trojan://humanity@104.16.72.50:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#hamedp71%3A%3A%E2%9D%93
-trojan://humanity@193.239.160.134:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#hamedp71%3A%3A%E2%9D%93
+trojan://humanity@104.25.109.237:443?type=ws&security=tls&sni=www.calmlunch.com&path=%2Fassignment#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@104.16.72.50:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
