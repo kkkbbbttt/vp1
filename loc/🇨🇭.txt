@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://0f4081e7-612b-425f-8def-eebf144aedba@176.65.144.84:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=indigo.clouderiux.com&fp=chrome&security=reality&pbk=ITd6cmCxudmTvGcwnAzpd0VRe8jS9KJAQ1tmtVN3mCM&sid=9e15546f267baa64#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://e0bd9dfa-0cf9-47c0-92ac-7dba08ebcff8@179.237.103.152:443?security=reality&encryption=none&pbk=8PZTYkhNhSgagVdaI-iqSCPXJwDhHU23IUwZIu08zH4&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=9de8ae53dabf1dc2#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
