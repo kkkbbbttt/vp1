@@ -4,4 +4,4 @@
 
 hysteria2://4291c983-c520-46ac-82cc-48f14bef573f@129.213.91.185:35013/?insecure=1&sni=www.bing.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://d042d150716709bb778cc73889cddb02@138.2.89.249:443/?insecure=1&obfs=salamander&obfs-password=309502c4a8df10b46fb976d4a8c43f42&sni=www.bing.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru1.xiaoliyu.cyou:18333/?insecure=1&sni=ru1.xiaoliyu.cyou#hamedp71%3A%3A%E2%9D%93
+hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru1.xiaoliyu.cyou:18333/?insecure=1&sni=ru1.xiaoliyu.cyou#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
