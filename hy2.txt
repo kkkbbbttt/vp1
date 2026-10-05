@@ -2,6 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-hysteria2://4291c983-c520-46ac-82cc-48f14bef573f@129.213.91.185:35013/?insecure=1&sni=www.bing.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-hysteria2://d042d150716709bb778cc73889cddb02@138.2.89.249:443/?insecure=1&obfs=salamander&obfs-password=309502c4a8df10b46fb976d4a8c43f42&sni=www.bing.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru1.xiaoliyu.cyou:18333/?insecure=1&sni=ru1.xiaoliyu.cyou#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+hysteria2://35d26d53bc@109.104.153.124:11592?security=tls&obfs=salamander&obfs-password=87d72c2949c0ca85bbda09459244e374&insecure=0&sni=srv-0e5387.frd21.ru#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+hysteria2://ca78f919e6@155.94.134.183:11592?security=tls&obfs=salamander&alpn=h3&obfs-password=ec66908dbc46e6920143d9b684adf277&insecure=0&sni=srv-3fc7c9.21freedom.net#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
