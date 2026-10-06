@@ -3,9 +3,7 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
 hysteria2://19f72087-4591-4d72-930b-2697078ec2be@hk2.xiaoliyu.cyou:4433?insecure=1&sni=hk2.xiaoliyu.cyou#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-hysteria2://ca78f919e6@155.94.134.183:11592/?obfs=salamander&obfs-password=ec66908dbc46e6920143d9b684adf277&sni=srv-3fc7c9.21freedom.net#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+hysteria2://ca78f919e6@155.94.134.183:11592/?obfs=salamander&obfs-password=ec66908dbc46e6920143d9b684adf277&sni=srv-3fc7c9.21freedom.net#hamedp71%3A%3A%E2%9D%93
 hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443/?sni=tcp-reset-club.net#hamedp71%3A%3A%E2%9D%93
-hysteria2://https%3A%2F%2Fxship.best@starlink-ft.251313.xyz:443?insecure=1&sni=xship.top#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-hysteria2://fe552e75-4ffd-4e1a-984c-44e71c746c15@104.234.233.70:55000?insecure=1&sni=www.bing.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+hysteria2://https%3A%2F%2Fxship.best@starlink-ft.251313.xyz:443?insecure=1&sni=xship.top#hamedp71%3A%3A%E2%9D%93
 hysteria2://865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01@streambox.wwwinternetvideo.click:443/?insecure=1&sni=streambox.wwwinternetvideo.click#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-hysteria2://M8LP9DztTr3znqCkmf-r08CQLBLLFK1r@me17.msjia8844.site:7443?obfs=salamander&obfs-password=u3Soh9_Ui0UmcuY6vk0ug8Lq&sni=me17.msjia8844.site#hamedp71%3A%3A%E2%9D%93
