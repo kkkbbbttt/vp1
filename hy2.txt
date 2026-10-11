@@ -3,8 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
 hysteria2://267b3a79-81f2-42ac-a409-c23b05b6329d@188.241.241.33:443/?insecure=1&sni=dehy.bbobr.win#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-hysteria2://8bd04756-3beb-4348-82c9-d35453df50ce@alb1337.zaebalsanoproxyklinus.lol:28152/?sni=alb1337.zaebalsanoproxyklinus.lol#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B1
-hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443/?insecure=1&sni=germany3.h2corp.local#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-hysteria2://cf83b611-6cba-4535-adcb-8da06c6a9146@144.31.212.253:443?insecure=1&security=tls&sni=vps155-edge.kermemehori.ru#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-hysteria2://u63SxILNwtrQZ7Y1ZrFaZfsA@8.211.175.236:8443/?insecure=1&sni=bing.com#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-hysteria2://WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0@43.156.36.253:8443/?insecure=1&sni=tx-hy2#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-de-002.fastervpn.world:443?insecure=1&security=tls&sni=vpn-de-002.fastervpn.world#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
