@@ -4,5 +4,4 @@
 
 hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443/?sni=viber.com&obfs=salamander&obfs-password=HysteriaHowdy&insecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443?insecure=1&obfs=salamander&obfs-password=HysteriaHowdy&sni=viber.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053/?sni=match-stream.lovkisport.blog#hamedp71%3A%3A%E2%9D%93
-hysteria2://M8LP9DztTr3znqCkmf-r08CQLBLLFK1r@me17.msjia8844.site:7443?security=tls&obfs=salamander&obfs-password=u3Soh9_Ui0UmcuY6vk0ug8Lq&insecure=0&sni=me17.msjia8844.site#hamedp71%3A%3A%E2%9D%93
+hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053/?sni=match-stream.lovkisport.blog#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
