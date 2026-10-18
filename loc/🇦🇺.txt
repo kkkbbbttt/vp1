@@ -2,4 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
+vless://af5eac96-e478-488a-bc8c-45269d7e8847@dorado.yokkastars.com:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 vmess://eyJhZGQiOiIxNzIuNjcuMTk1LjE0NiIsImFpZCI6MCwiaG9zdCI6ImF1cy5sb3ZlaGsueHl6IiwiaWQiOiJmNWYwYmFiZS1hZWEyLTRmMDctYTFmYy0zYzk4MjAyNTNmNDkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvU3lkbmV5MyIsInBvcnQiOiI0NDMiLCJwcyI6ImhhbWVkcDcxOjrwn4em8J+HuiIsInNuaSI6ImF1cy5sb3ZlaGsueHl6IiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://af5eac96-e478-488a-bc8c-45269d7e8847@5.253.28.224:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA

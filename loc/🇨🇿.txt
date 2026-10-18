@@ -3,3 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
 ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw=@67.159.18.34:17001#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
+vless://d78d6815-5f00-4fe3-8aae-3344aeb7783f@1f0c1c7297521d51.wgse.info:443?path=/ws&security=tls&encryption=none&insecure=0&host=1f0c1c7297521d51.wgse.info&fp=chrome&type=ws&allowInsecure=0&sni=1f0c1c7297521d51.wgse.info#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BF
