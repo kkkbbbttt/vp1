@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediakaskad.cc:443?flow=xtls-rprx-vision&fp=firefox&host=api.mediakaskad.cc&path=%2F&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediakaskad.cc&type=tcp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@82.110.60.9:19999#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9

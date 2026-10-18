@@ -1,6 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
-
-vless://244d9eab-3311-40c7-b47f-4968dc3088a6@88.216.223.66:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&sni=tcpswed1.figurapn.ru&sid=868419504747f6de#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@45.12.63.219:443?fp=safari&security=tls&serviceName=swedenfeed&sni=edge-lab-b.10media.top&type=grpc#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
