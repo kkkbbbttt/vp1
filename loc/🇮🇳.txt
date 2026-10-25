@@ -4,6 +4,6 @@
 
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
 vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?security=none&type=ws&path=%2Fvless&host=13.140.56.100&sni=13.140.56.100#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
-vless://c7c27192-60a5-4ce1-b613-95270d82309d@5.253.29.254:10443?security=none&sni=5.253.29.254&type=tcp#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
+vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4MCwicHMiOiJoYW1lZHA3MTo68J+HrvCfh7MiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiIxNTIuNjcuOC4yMDUifQ
 vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@in.smrtai.top:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&sid=6bdc8320&type=tcp#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
 vless://c7c27192-60a5-4ce1-b613-95270d82309d@5.253.29.254:14430?fp=chrome&host=5.253.29.254&path=%2Fvless&security=none&sni=5.253.29.254&type=ws#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
