@@ -13,3 +13,4 @@ hysteria2://41edb44c8e@103.88.243.142:11592/?sni=srv-17e124.21freedom.net#hamedp
 hysteria2://miaoge110@5.45.100.100:51511/?insecure=1#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.36.234.11:443/?insecure=1&sni=vpn-fr-001.fastervpn.world#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111/?insecure=1#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1&sni=vpn-tw-002.fastervpn.world#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
