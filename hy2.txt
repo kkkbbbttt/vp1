@@ -4,3 +4,4 @@
 
 hy2://1953e43b-605c-4262-83eb-41a80646b801@31.185.105.12:443?sni=fr.song69.fun#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 hysteria2://mhsl@88.99.213.222:14444/?insecure=1&sni=bing.com#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@pl2.nexfile.net:4444/#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1

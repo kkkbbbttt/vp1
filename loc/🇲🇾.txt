@@ -1,6 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
-
-vless://264bee07-e004-41c7-812f-aaf2daaad2c9@my.wawojk.dpdns.org:8443?flow=xtls-rprx-vision&fp=chrome&pbk=akVbcyv-ypq-YT4-bsi_ts85pkDwhAIapn5bCb_hj28&security=reality&sid=85f609aa0f0bead8&sni=www.asus.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%BE
-vmess://eyJhZGQiOiI0Ny4yNTAuMTM1LjI0NCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJhZWRjNjZiOC05OWQ3LTRhMjEtODMxMC02MTg3MGU3Zjg3MGQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEwMDAwIiwicHMiOiJoYW1lZHA3MTo68J+HsvCfh74iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
