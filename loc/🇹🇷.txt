@@ -2,5 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://7c730089-1791-4828-89b2-86e7e1663063@tr.privatevip.ir:448?encryption=none&host=tr.privatevip.ir&path=/&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+hy2://c8ed6cd1-6566-4f7a-819e-1c55b2b360c9@153.56.210.134:34121?sni=www.bing.com&path=%2f&obfs=salamander&obfs-password=9a33460c-b037-47aa-a606-d04211f4e0ec&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://4f34bc04-479c-49ba-91a8-6bb9ed15031c@177.3.208.65:443?encryption=none&security=tls&sni=tgmansion.site&fp=chrome&type=ws&path=/vless-tr#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://2446e2e2-1ce3-4502-9050-1dd32bacc68c@tr2.h1cloud.net:25021?security=reality&type=tcp&sni=www.samsung.com&fp=chrome&flow=xtls-rprx-vision&sid=17fa3af0924c88b3&pbk=od79bUkYtqQtsGrrTdhmkDflx5c9al4vqxwWApvc-Dg&encryption=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
