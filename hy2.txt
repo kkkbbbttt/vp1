@@ -6,8 +6,6 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-de-002.fastervpn.world:443/?insecure=1&
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.105:4444/?insecure=1&sni=pl2.nexfile.net#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.76.221.4:443/?insecure=1&sni=3.76.221.4#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.96:4444/?insecure=1&sni=pl3.nexfile.net#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-hysteria2://6da2c981-8c77-4340-bda3-93399b7aea26@195.63.146.10:443/?sni=video.blog-forme.ru#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-hy2://6da2c981-8c77-4340-bda3-93399b7aea26@store.blog-forme.ru:443?insecure=1&sni=store.blog-forme.ru#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://6da2c981-8c77-4340-bda3-93399b7aea26@163.245.41.48:443/?sni=blogs.blog-forme.ru#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.193.79.104:443/?insecure=1&sni=18.193.79.104#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.106:4444/?sni=pl2.nexfile.net#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
