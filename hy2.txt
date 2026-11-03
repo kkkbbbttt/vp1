@@ -4,7 +4,6 @@
 
 hysteria2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160/?insecure=1&sni=www.bing.com#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443/?insecure=1&sni=https://t.me/clashv8🇨🇳#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-hysteria2://769f34f0-1500-488f-b414-03bc90666502@se.mimowhat.online:443?sni=se.mimowhat.online&insecure=0#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443/?insecure=1&sni=160.187.100.109#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 hysteria2://maintell@152.70.237.123:2053/?insecure=1&sni=bing.com#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
