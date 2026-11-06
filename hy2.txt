@@ -2,15 +2,15 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.253.82.33:4444/?sni=fl3.nexfile.net#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-hysteria2://bdf3e15e-c64c-11ea-82ef-f23c9164ca5d@6b9f9b99-tmm5c0-tsdg75-tlhh.los.hyhuawei.com:443/?insecure=1&sni=6b9f9b99-tmm5c0-tsdg75-tlhh.los.hyhuawei.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.253.82.33:4444/?sni=fl3.nexfile.net#hamedp71%3A%3A%E2%9D%93
+hysteria2://bdf3e15e-c64c-11ea-82ef-f23c9164ca5d@6b9f9b99-tmm5c0-tsdg75-tlhh.los.hyhuawei.com:443/?insecure=1&sni=6b9f9b99-tmm5c0-tsdg75-tlhh.los.hyhuawei.com#hamedp71%3A%3A%E2%9D%93
 hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?security=tls&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&insecure=0&sni=nas.aizhzo.com#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 hysteria2://948b48e5-a202-4770-8552-f35a12dac378@172.245.6.155:18687?sni=www.bing.com&alpn=h3&insecure=1#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-hysteria2://6d4abac0-86e6-11ef-83cc-f23c913c8d2b@ca3ddbd3-tmm5c0-tw2fdz-1s824.los.hyhuawei.com:443/?sni=ca3ddbd3-tmm5c0-tw2fdz-1s824.los.hyhuawei.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://6d4abac0-86e6-11ef-83cc-f23c913c8d2b@ca3ddbd3-tmm5c0-tw2fdz-1s824.los.hyhuawei.com:443/?sni=ca3ddbd3-tmm5c0-tw2fdz-1s824.los.hyhuawei.com#hamedp71%3A%3A%E2%9D%93
 hy2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?sni=163.192.14.135&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-hysteria2://41d4f8b3-2a45-4531-a33b-938e2eebb939@oh.sbbz.tech:443?sni=oh.sbbz.tech&obfs=salamander&obfs-password=sbxbz19890604#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-hysteria2://8fa4bea0-8703-11ef-83cc-f23c913c8d2b@0b28dbb8-tmm5c0-tn3jhp-1qthu.los.hyhuawei.com:443/?insecure=1&sni=0b28dbb8-tmm5c0-tn3jhp-1qthu.los.hyhuawei.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://8fa4bea0-8703-11ef-83cc-f23c913c8d2b@0b28dbb8-tmm5c0-tn3jhp-1qthu.los.hyhuawei.com:443/?insecure=1&sni=0b28dbb8-tmm5c0-tn3jhp-1qthu.los.hyhuawei.com#hamedp71%3A%3A%E2%9D%93
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.96:4444?security=tls&insecure=0&sni=pl3.nexfile.net#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+hysteria2://3be8cba8-b721-11ec-8b04-f23c91cfbbc9@b8c1a181-tmm5c0-twuk0i-1hzyr.los.hyhuawei.com:443/?insecure=1&sni=b8c1a181-tmm5c0-twuk0i-1hzyr.los.hyhuawei.com#hamedp71%3A%3A%E2%9D%93
 hysteria2://8e0f8ef2-5fe3-11ec-a8bf-f23c91cfbbc9@807fc395-tmm5c0-u5ip77-duku.los.hyhuawei.com:443/?insecure=1&sni=807fc395-tmm5c0-u5ip77-duku.los.hyhuawei.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.253.82.47:4444/?sni=fl3.nexfile.net#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 hysteria2://8dOHZ13sx33R1/PQbhTK/w==@34.24.25.1:443?sni=bing.com&insecure=1#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
