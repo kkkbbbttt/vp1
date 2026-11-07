@@ -2,6 +2,12 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6697#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+vmess://eyJhZGQiOiIxMjkuMTU0LjYxLjE5NiIsImFpZCI6IjAiLCJpZCI6ImE5MTViMWQ2LWNmMjgtNGRjOC1lNGI0LWUwOWM0OGMzN2VjMCIsIm5ldCI6InRjcCIsInBvcnQiOiI4MDAiLCJwcyI6ImhhbWVkcDcxOjrwn4ew8J+HtyIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ
+vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4ew8J+HtyIsImFkZCI6IjEyOS4xNTQuNjEuMTk2IiwicG9ydCI6ODAwLCJpZCI6ImE5MTViMWQ2LWNmMjgtNGRjOC1lNGI0LWUwOWM0OGMzN2VjMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ
 vless://6dd58a09-430e-4ecf-81eb-95ca94f8b765@8.220.241.33:443?security=reality&type=tcp&packetEncoding=xudp&sni=cloudflare.com&fp=firefox&pbk=jSvhKKNVMhMQOCERpOyPwfNkzMnHQExIua0oWRdbuB8#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7Dwn4e3IiwiYWRkIjoiMTMyLjE0NS44MC4yMzAiLCJwb3J0IjoiODAiLCJpZCI6IjUxNTU4NjBlLWQwN2QtNDZjMy05MTI4LTNhZmJkODQ2MjZjNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwiYWxwbiI6IiIsInBhdGgiOiIvY2N0djEzLm0zdTgifQ
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?flow=xtls-rprx-vision&path=%2F&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 vmess://eyJhZGQiOiIxNDAuMjM4LjIuMjUwIiwiYWlkIjoiMCIsImlkIjoiNDFhNzA4OWEtMDQwYi00NTM4LThiOGQtMDEwOTAyNDA1YmRlIiwibmV0IjoidGNwIiwicG9ydCI6IjQ0MyIsInBzIjoiaGFtZWRwNzE6OvCfh7Dwn4e3Iiwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vless://e15db5c2-2dca-49fc-857b-aa37a7ba1c79@43.108.85.54:443?security=reality&type=tcp&sni=cloudflare.com&fp=chrome&sid=68307e&pbk=v5HjgwMvPEsrpqwtgEytMQ3xs-1Cdv2gOCiGMZ2vimc#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?allowInsecure=1&fp=chrome&security=tls&sni=kr002.zestapp778.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
