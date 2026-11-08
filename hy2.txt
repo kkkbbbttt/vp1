@@ -2,5 +2,14 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-hysteria2://HowdyHysteria2023w0W@hysteria.udpgw.com:8443/?insecure=1&obfs=salamander&obfs-password=HysteriaHowdy&sni=sni-here.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443/?insecure=1&obfs=salamander&obfs-password=HysteriaHowdy&sni=t.me#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@177.202.75.56:443?security=tls&insecure=0&sni=fi1.obxodvpn.us#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://23c82941-70f4-4381-90db-bd28e9a902e9@201.8.71.59:443/?sni=steel7.hadsvpn.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.101:4444?security=tls&insecure=0&sni=pl1.nexfile.net#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.106:4444?security=tls&insecure=0&sni=pl2.nexfile.net#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@2.27.210.6:4444/?insecure=1&sni=lv2.nexfile.net#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://p5xt6oLOA3qikIaj@fi-p1.h1cloud.net:25482?security=tls&insecure=1&pinSHA256=4497916255a25d50d37e1b256f8206cdb82fef904921cc519dcceaa4ad0530fa&sni=www.bing.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.188.143:4444?security=tls&insecure=0&sni=bl1.nexfile.net#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.142:4444?security=tls&insecure=0&sni=pl3.nexfile.net#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+hy2://146d567c-6335-4e63-a8aa-7ec068642440@fi1.obxodvpn.us:443/?sni=fi1.obxodvpn.us#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+hy2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?sni=132.226.226.189&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.149:4444?security=tls&insecure=0&sni=pl2.nexfile.net#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
