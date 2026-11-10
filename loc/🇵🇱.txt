@@ -2,11 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://05488656-d4bf-4634-8b2e-e4ff5a56c7e2@82.118.22.161:443?security=reality&encryption=none&pbk=xY1KpNxaIGmi6jfeudYQ_aaLGQqWK_uHStnwUFd2_2E&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=fa3ea655619a3e78#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://74610801-c200-4b13-a10b-7076f879e293@93594at.pl7.h1clayd.click:443?type=tcp&security=reality&fp=chrome&pbk=9gFDg7JnLoWPWy5_53PA8Mr3OgemFuCGWer5rnctRQQ&sid=157df8dd7130ad40&sni=93594at.pl7.h1clayd.click#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://71b566cb-78c4-48e4-af5b-720e4f7884f2@31.76.32.122:443?security=reality&encryption=none&pbk=O35Np_ugrc3mUDIEO4UnViEwRobM2r9kqQCdcdCHjEI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=p1.xvanta.online&sid=cb33163cf9c03ab1#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?sni=2.26.6.1&fp=chrome&security=tls#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.147:4444?security=tls&insecure=0&sni=pl2.nexfile.net#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.252.255:443?security=tls&sni=browseexecutivejobopeningsandenhanceleadershipcareer.com#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.146:4444?sni=pl3.nexfile.net#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://a4e5f910-23f4-470f-82a7-ed9d7be71dec@2.26.224.174:8445?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=d6qmF8ibk_PxtDJPzSa7LKw9VUI_mZ59DrTvmW3RaFc&sid=10983e6c816181c2&sni=blog.ncknms.com#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
