@@ -7,11 +7,9 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?security=tls&insecur
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.19:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=learn.explorecreativejobsandenhanceyourcareerportfolio.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://d9064589-74af-432a-9390-5d8a9da281bf@Sclass-00.catcat321.com:20123?allowInsecure=1&sni=hk.catxstar.com#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.93:443?security=tls&sni=connectingpeoplewithgreatjobs.com#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://5t6i121em5lkmsmk@au001.zestapp778.com:54374?type=tcp&security=tls&fp=chrome&sni=au001.zestapp778.com#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&sni=searchcreativejobsandshowcaseyourartistictalents.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@104.25.95.49:443?path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&insecure=0&host=ltf8.jueson.de5.net&type=ws&allowInsecure=0&sni=ltf8.jueson.de5.net#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://MiTiVPN@151.101.36.7:443?allowInsecure=1&alpn=http/1.1&fp=chrome&host=Abu.ac.ir&path=/---@MiTiVPN---@MiTiVPN&security=tls&sni=cdn.akamai.steamstatic.com&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.81:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.healthcarejobshubenhancemedicalprofessionalskillstoday.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?security=tls&host=/&headerType=none&type=tcp&allowInsecure=0&sni=www.iloverussia2026.com#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.251:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.discovergreatjobsandadvanceyourcareer.com#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
@@ -19,13 +17,12 @@ trojan://5t6i121em5lkmsmk@216.128.185.90:46977?security=tls&fp=chrome&sni=ca001.
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.252.255:443?security=tls&sni=browseexecutivejobopeningsandenhanceleadershipcareer.com#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&alpn=h2,http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.106.186.46:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn.findlocaljobnetworkandbuildcommunityconnections.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.154:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.indyourperfectremotetechjobfromthecomfortofhome.com#hamedp71%3A%3A%E2%9D%93
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.154:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.indyourperfectremotetechjobfromthecomfortofhome.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.242:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=resources.unlockyourfuturefindyourperfectcareer.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.132:443?allowInsecure=1&sni=courses.findconnectwithemployersandbuildprofessionalnetwork.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://d9064589-74af-432a-9390-5d8a9da281bf@217.217.222.230:20123?sni=hk.catxstar.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.158:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.nextjobopportunityandclaimyouridealrole.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://d9064589-74af-432a-9390-5d8a9da281bf@157.254.38.210:20086?security=tls&sni=hk.catxstar.com&type=tcp&fp=chrome&allowInsecure=0#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
-trojan://883e3cc8-9613-4f2d-8c42-0dd3d429db55@188.114.98.0:443?path=/order/ads/&security=tls&alpn=http/1.1&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["0", "104", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["114", "1"], "delays": ["1"], "maxSplit": "11"}}]}&insecure=0&host=ltf8.jueson.de5.net&fp=unsafe&type=ws&allowInsecure=0&sni=ltf8.jueson.de5.net#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?allowInsecure=1&fp=chrome&security=tls&sni=kr002.zestapp778.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.26:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.searchnationwidecareerchangehelperandguidancetoday.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
@@ -41,14 +38,15 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.208:443?security=tls&host=/?
 trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?allowInsecure=1&sni=139.180.146.200#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B1
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.207.14:443?security=tls&sni=searchhealthcarejobsandbuildmedicalcareerpathway.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+trojan://bpb-trojan@172.64.80.1:443?security=tls&sni=vless.herogoing.top&type=ws&path=/tr?ed=2560&Host=vless.herogoing.top#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.152:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=learn.connectingpeoplewithgreatjobs.com#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 trojan://5t6i121em5lkmsmk@45.77.54.204:51520?sni=45.77.54.204&allowInsecure=1&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?allowInsecure=1&fp=chrome&sni=www.searchnationwidecareerchangehelperandguidancetoday.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.52:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=courses.browseseniorrolesandenhanceyourcareertoday.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.74:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=api.connectingpeoplewithgreatjobs.com#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.52:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=courses.browseseniorrolesandenhanceyourcareertoday.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.106.186.32:443?sni=blog.findlocaljobnetworkandbuildcommunityconnections.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.193:443?#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://5t6i121em5lkmsmk@th001.zestapp778.com:33079?type=tcp&security=tls&fp=chrome&sni=th001.zestapp778.com#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.193:443?#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.20:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.browseseniorrolesandenhanceyourcareertoday.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://f0eb8c92ce8946aaba856569cff1a16b@216.106.186.33:443?fp=chrome&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.142:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.unlockyourfuturefindyourperfectcareer.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
@@ -63,8 +61,9 @@ trojan://5t6i121em5lkmsmk@ca001.zestapp778.com:46977?security=tls&sni=ca001.zest
 trojan://5t6i121em5lkmsmk@108.61.177.57:16778?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=fr001.zestapp778.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://5t6i121em5lkmsmk@149.248.50.252:46977?security=tls&sni=ca001.zestapp778.com&type=tcp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.106.186.82:443?fp=chrome&sni=courses.findlocaljobnetworkandbuildcommunityconnections.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.121:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=www.unlockyourfuturefindyourperfectcareer.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.201:443?sni=resources.connectingpeoplewithgreatjobs.com&type=tcp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.121:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=www.unlockyourfuturefindyourperfectcareer.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.44:443?security=tls&sni=learn.indyourperfectremotetechjobfromthecomfortofhome.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?allowInsecure=1&sni=courses.iloverussia2026.com#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.147:443?fp=chrome&sni=courses.unlockyourfuturefindyourperfectcareer.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8

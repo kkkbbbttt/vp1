@@ -9,3 +9,4 @@ hysteria2://YV1sd3tfCZngTtnvRmy7@206.189.229.48:443/?insecure=1&obfs=salamander&
 hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@177.202.75.56:443/?sni=fi1.obxodvpn.us#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.149:4444?security=tls&insecure=0&sni=pl2.nexfile.net#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443?insecure=1&obfs=salamander&obfs-password=HysteriaHowdy&sni=vk.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+hysteria2://MZKlrFbG73bKvCDe8VPul5PR9xQm@35.207.53.51:20999/?insecure=1&sni=www.apple.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
