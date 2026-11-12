@@ -1,0 +1,5 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
+
+trojan://80d4cb87-ac70-e074-bc82-6313d2d1b539@www.pdnczone.com:2087?security=tls&sni=ayhanmansur-zedmeli.kdns.fr&fp=chrome&alpn=http/1.1&ech=cloudflare-ech.com+udp://78.157.42.100&type=ws&host=ayhanmansur-zedmeli.kdns.fr&path=/eyJqdW5rIjoiZXJaQklLRUh1R0UiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W10sInJlbGF5SWR4IjowfQ==#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
