@@ -1,0 +1,5 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
+
+vless://1d46250c-f015-439d-a7fd-c4d9e2a4c63d@88.80.150.15:443?security=tls&type=grpc&mode=gun&serviceName=grpc&packetEncoding=xudp&alpn=h2&sni=bg2.oncloudvpn.com&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AC
