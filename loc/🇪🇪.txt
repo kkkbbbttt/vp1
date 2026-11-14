@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-hy2://146d567c-6335-4e63-a8aa-7ec068642440@nlll.obxodvpn.us:443/?insecure=1&sni=nlll.obxodvpn.us#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 hysteria2://23c82941-70f4-4381-90db-bd28e9a902e9@steel7.hadsvpn.com:443?sni=steel7.hadsvpn.com#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
