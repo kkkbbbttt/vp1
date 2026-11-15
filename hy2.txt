@@ -2,8 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4444?sni=bl1.nexfile.net#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443?insecure=1&obfs=salamander&obfs-password=HysteriaHowdy&sni=vk.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4444?sni=bl1.nexfile.net#hamedp71%3A%3A%E2%9D%93
 hy2://d042d150716709bb778cc73889cddb02@138.2.89.249:443/?insecure=1&hop_interval=10&sni=www.bing.com&obfs=salamander&obfs-password=309502c4a8df10b46fb976d4a8c43f42#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 hy2://ccb8ff48-3934-4250-b4ec-bb76b95d154f@185.126.237.178:443/?hop_interval=10&sni=185.126.237.178#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
 hy2://307ee0e53ea04dfd86a7f2f9fcd53844@s5.libertyrunet.store:443/?hop_interval=10&sni=s5.libertyrunet.store#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B8
