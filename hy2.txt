@@ -2,10 +2,10 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:10444/?sni=cloudehouse24.ru#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:10444/?sni=cloudehouse24.ru#hamedp71%3A%3A%E2%9D%93
 hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@212.34.137.105:443?insecure=1&alpn=h3&sni=shorts.blog-forme.ru#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?security=tls&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&insecure=0&sni=nas.aizhzo.com#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-hk-004.fastervpn.world:443/?insecure=1&sni=vpn-hk-004.fastervpn.world#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 hysteria2://linlin-2026@13.55.52.44:36712/?insecure=1&sni=13.55.52.44#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
-hysteria2://8294f130408299df8cab08c80bf6f819@24.233.8.109:443/?insecure=1&obfs=salamander&obfs-password=c8827ab99e316c5bd414e21afa915ddf&sni=www.bing.com#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 hysteria2://HowdyHysteria2023w0W@hysteria.udpgw.com:8443/?insecure=1&obfs=salamander&obfs-password=HysteriaHowdy&sni=sni-here.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+hysteria2://8294f130408299df8cab08c80bf6f819@24.233.8.109:443/?insecure=1&obfs=salamander&obfs-password=c8827ab99e316c5bd414e21afa915ddf&sni=www.bing.com#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
