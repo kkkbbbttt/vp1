@@ -2,10 +2,11 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-hysteria2://0b396097d052915ef304b40d2bda6a2d@179.254.94.184:8443/?insecure=1&sni=www.bing.com#hamedp71%3A%3A%E2%9D%93
-hysteria2://9a9f167d-b461-466f-be50-f0ffd598a6f8@germanyafterpool.fun:443/?insecure=1&sni=germanyafterpool.fun#hamedp71%3A%3A%E2%9D%93
-hysteria2://hAUdd15a7YGHUSgiPOUz@43.103.2.53:443?insecure=1&obfs=salamander&obfs-password=9veAh9pTbrAfDwM1fIYI&sni=43.103.2.53#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-hysteria2://gf1:gfhysteria2024@185.156.44.99:443/?insecure=1&sni=www.amazon.com#hamedp71%3A%3A%E2%9D%93
+hysteria2://0b396097d052915ef304b40d2bda6a2d@179.254.94.184:8443/?insecure=1&sni=www.bing.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://9a9f167d-b461-466f-be50-f0ffd598a6f8@germanyafterpool.fun:443/?insecure=1&sni=germanyafterpool.fun#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://gf1:gfhysteria2024@185.156.44.99:443/?insecure=1&sni=www.amazon.com#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
 hysteria2://AIcYjw5Oc9Rrrr9SGDUBbBIC@38.76.150.108:36712?insecure=1#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://ePPsH1bMFD@23.141.172.229:50541?alpn=h3,h2,http/1.1&insecure=1&sni=is1-ssl.mzstatic.com#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.78.215:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 hysteria2://23c82941-70f4-4381-90db-bd28e9a902e9@steel7.hadsvpn.com:443/#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://fce629d692a7b1ad71a17dae29d8b3c6@172.87.24.53:8443/?insecure=1&sni=hy2k2p.local#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
