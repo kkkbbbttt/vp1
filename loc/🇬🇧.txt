@@ -2,8 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://3112c3f2-7172-417d-bce6-d168135d1603@8.208.101.215:443?security=reality&type=tcp&sni=www.ebay.com&fp=chrome&flow=xtls-rprx-vision&sid=5a6f99962a27cdbc&pbk=U6FtussjhSb81ka0z9IDf1n80syjsczIDrRTdmzyeGM&encryption=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@136.176.68.34:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=a6040129ad7f4b74&pbk=Jcm0TjP_kw-KmJoiG5EGyY5sQ9RGeqlX9Ajd3ZCnSAo#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://88742d38-3f5c-4b9c-b256-7df5db8257ec@107.181.151.128:443?security=reality&encryption=none&pbk=zfsjt2A8ur0qHWIuCG7F9W4wZN3VTuL6fkTljC-9R0s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.mozilla.org&sid=8f79726c5002#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@142.202.51.22:19999#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.24.73:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7

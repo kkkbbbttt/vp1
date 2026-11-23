@@ -9,4 +9,3 @@ hysteria2://gf1:gfhysteria2024@185.156.44.99:443/?insecure=1&sni=www.amazon.com#
 hysteria2://AIcYjw5Oc9Rrrr9SGDUBbBIC@38.76.150.108:36712?insecure=1#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.78.215:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 hysteria2://23c82941-70f4-4381-90db-bd28e9a902e9@steel7.hadsvpn.com:443/#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-hysteria2://fce629d692a7b1ad71a17dae29d8b3c6@172.87.24.53:8443/?insecure=1&sni=hy2k2p.local#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
