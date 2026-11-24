@@ -3,9 +3,12 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
 vless://4ded3111-b418-475a-93de-0360932508b2@43.108.109.112:443?security=reality&type=tcp&sni=www.samsung.com&fp=chrome&flow=xtls-rprx-vision&sid=b79a86e2b1a586a0&pbk=vrFq4-k-eiTSyRF3T3e7Fqmlv4XSKmByKYsw55zeX3w&encryption=none#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7Dwn4e3IiwiYWRkIjoiMTMyLjE0NS44MC4yMzAiLCJwb3J0IjoiODAiLCJpZCI6IjUxNTU4NjBlLWQwN2QtNDZjMy05MTI4LTNhZmJkODQ2MjZjNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwidGxzIjoiIiwic25pIjoia3IwMi5hMGEueHl6IiwidGVzdF9uYW1lIjoiMjcifQ
+vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?security=none&type=ws&path=%2F#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 hy2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?sni=off&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 hy2://maintell@152.70.237.123:2053?sni=bing.com&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 hy2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?sni=vk.com&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 hy2://1beb216e3f60aea9555dae60d219a5ca@152-69-231-175.liao.kdns.fr:50160?sni=127.0.0.1&path=%2f&allow_insecure=1#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://463f7453753f4d47@168.107.51.32:20045?security=tls&sni=ikr200.zxom.eu.org#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+vmess://eyJhZGQiOiJkb2cta3Iua3VubHVuMDFkbnMuY29tIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI5NDY0Y2E0MC1kZDc1LTM3NDItYTYyOC1kOTMxYTlmNDEzYjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIxMDA0IiwicHMiOiJoYW1lZHA3MTo68J+HsPCfh7ciLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
 trojan://463f7453753f4d47@ikr200.zxom.eu.org:20045?encryption=chacha20#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
