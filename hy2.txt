@@ -9,9 +9,7 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.36.234.11:443/?insecure=1&sni=vpn-fr-001
 hy2://u63SxILNwtrQZ7Y1ZrFaZfsA@8.211.175.236:8443?insecure=1&sni=8.211.175.236#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 hysteria2://HowdyHysteria2023w0W@hysteria.udpgw.com:8443?insecure=1&obfs=salamander&obfs-password=HysteriaHowdy&sni=sni-here.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 hy2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443?insecure=1&sni=bing.com#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-hysteria2://https%3A%2F%2Fxship.best@starlink-ft.251313.xyz:443?insecure=1&sni=xship.top#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://04920673-035c-410d-94e4-5b1469d3fb6f@171.22.183.158:42848/?sni=171.22.183.158#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@22egdg.mateflora.com:40055?insecure=1&alpn=h3&sni=psstatic.cdn.bcebos.com&obfs=salamander&obfs-password=6fltjteoyab7fjf1#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443/?insecure=1&sni=promo.betust.net#hamedp71%3A%3A%E2%9D%93
+hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443/?insecure=1&sni=promo.betust.net#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://87bb2ac4-b7a1-0001-b11d-2107709ea6cb@136.148.83.69:443?sni=szqbx-ru-77dc.my-fade.cloud#hamedp71%3A%3A%E2%9D%93
 hysteria2://oracle_hy2_pass_2026@129.225.181.46:8443?insecure=1&sni=bing.com#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
