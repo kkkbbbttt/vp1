@@ -2,16 +2,19 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
+vmess://eyJhZGQiOiI1Ny4xMjkuMTMyLjIyMyIsImFpZCI6IjAiLCJob3N0IjoidmliZXIuY29tIiwiaWQiOiJhMjVjYmYxMS0yOTA4LTRhMWItYTNhOC05YTU3MTc3N2RjYTMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIiwicG9ydCI6IjgwIiwicHMiOiJoYW1lZHA3MTo68J+HrPCfh6ciLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
 vmess://eyJhZGQiOiIxNDIuMjAyLjUxLjQyIiwiYWlkIjoiMCIsImFscG4iOm51bGwsImZwIjpudWxsLCJob3N0IjpudWxsLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsIm5hbWUiOiJHQiDwn4es8J+HpyB8IEBSYXlkaWthbHggfCBDMUVGOEMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOjEyNzAsInBzIjoiaGFtZWRwNzE6OvCfh6zwn4enIiwic2N5IjoiYXV0byIsInNuaSI6InhtZmhscHkuY29tIiwidGxzIjoidGxzIiwidHlwZSI6bnVsbCwidiI6bnVsbH0
 vmess://eyJhZGQiOiI1Ny4xMjkuMTMyLjIyMyIsImFpZCI6IjAiLCJob3N0IjoidmliZXIuY29tIiwiaWQiOiJhMjVjYmYxMS0yOTA4LTRhMWItYTNhOC05YTU3MTc3N2RjYTMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIiwicG9ydCI6ODAsInBzIjoiaGFtZWRwNzE6OvCfh6zwn4enIiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoiIiwidiI6IjIiLCJuYW1lIjoiR0Ig8J+HrPCfh6cgfCBAUmF5ZGlrYWx4IHwgMzYwMjI3In0
 vmess://eyJhZGQiOiIxNDkuNy4xNi4yMjgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsIm5hbWUiOiJHQiDwn4es8J+HpyB8IEBSYXlkaWthbHggfCA4MzFFMEYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6MTI3MCwicHMiOiJoYW1lZHA3MTo68J+HrPCfh6ciLCJzY3kiOiJhdXRvIiwic25pIjoieG1maGxweS5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
+vless://55b3fd10-3658-40a2-8951-ec90932d1d30@chatgpt.com:443?path=%2FSiNAVM-SiNAVM-SiNAVM-SiNAVM&security=tls&encryption=none&insecure=0&host=sinavm2.soft10.ir&fp=chrome&type=ws&allowInsecure=0&sni=sinavm2.soft10.ir#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.bing.com&fp=chrome&flow=xtls-rprx-vision&sid=7f1e29593aa94ad1&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&encryption=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.178:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@128.254.186.190:13337?insecure=1&sni=mother-earth.fyi#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.179:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://dbb78c94-9f87-4d7d-b945-2000b60352fd@57.129.132.223:80/?type=ws&encryption=none&flow=&path=/vless/#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://dbb78c94-9f87-4d7d-b945-2000b60352fd@57.129.132.223:80?type=ws&encryption=none&flow=&path=%2Fvless%2F#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@128.254.186.190:13337/?sni=mother-earth.fyi#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@uk-tube-01.stre4m.net:13337?insecure=1&sni=mother-earth.fyi#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://55b3fd10-3658-40a2-8951-ec90932d1d30@172.64.155.209:443?path=%2FSiNAVM-SiNAVM-SiNAVM-SiNAVM&security=tls&encryption=none&insecure=0&host=sinavm2.soft10.ir&fp=chrome&type=ws&allowInsecure=0&sni=sinavm2.soft10.ir#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://55b3fd10-3658-40a2-8951-ec90932d1d30@188.114.98.0:443?path=/SiNAVM-SiNAVM-SiNAVM-SiNAVM&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=sinavm2.soft10.ir&fp=unsafe&type=ws&allowInsecure=0&sni=sinavm2.soft10.ir#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://e57ce64d-5a1a-4a90-96df-9e1bd3ad26e4@138.124.125.193:10444?encryption=none&flow=xtls-rprx-vision&fp=&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&security=reality&sid=8debcf36f1cc69ff&sni=ads.x5.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@128.254.186.57:13337?insecure=1&sni=mother-earth.fyi#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
